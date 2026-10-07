@@ -31,6 +31,123 @@
       {category:'Plumbing & Sanitary',name:'Plumbing supplies',image:'https://ferreteriachacabuco.cl/cdn/shop/articles/fd27443c-f441-4964-938e-c24e25948095.png?v=1772467913'},
       {category:'Hand Tools',name:'Hand tools',image:'https://web.inbound281.com/hubfs/Blog_Images/tools.jpg'}
     ];
+    const expandedCatalog={
+      "Power Tools":[],
+      "Fasteners & Fixings":[],
+      "Safety & PPE":[],
+      "Locks, Hinges & Door Hardware":[],
+      "Garden Tools":[],
+      "Measuring & Marking":[],
+      "Cutting, Grinding & Abrasives":[],
+      "Adhesives, Sealants & Tapes":[],
+      "Masonry & Construction Tools":[],
+      "Welding & Workshop":[],
+      "Power Tool Accessories":[],
+      "Carpentry & Woodworking":[],
+      "Roofing & Building Accessories":[],
+      "Cleaning & Maintenance":[]
+    };
+    Object.assign(catalog,expandedCatalog);
+    const additionalOnline=[
+      {category:'Power Tools',name:'Impact Drill',image:'https://www.ingco.com/cdn/product/ID6808/ID6808.jpg',note:'Drilling for wood, metal and masonry'},
+      {category:'Power Tools',name:'Cordless Drill / Driver',image:'https://www.ingco.com/cdn/product/CDLI200518/CDLI200518.jpg',note:'Portable drilling and screwdriving'},
+      {category:'Power Tools',name:'Angle Grinder',image:'https://www.ingco.com/cdn/product/AG75028/AG75028.jpg',note:'Cutting, grinding and surface preparation'},
+      {category:'Power Tools',name:'Circular Saw',image:'https://www.ingco.com/cdn/product/CS18538/CS18538.jpg',note:'Straight cutting of timber and boards'},
+      {category:'Power Tools',name:'Rotary Hammer',image:'https://www.ingco.com/cdn/product/RGH9028/RGH9028.jpg',note:'Heavy masonry and concrete drilling'},
+      {category:'Power Tools',name:'Electric Blower',image:'https://www.ingco.com/cdn/product/AB6008/AB6008.jpg',note:'Workshop and site cleaning'},
+
+      {category:'Fasteners & Fixings',name:'Assorted Screws',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Wood, sheet-metal and general-purpose screws'},
+      {category:'Fasteners & Fixings',name:'Hex Bolts & Nuts',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'General construction and mechanical fixing'},
+      {category:'Fasteners & Fixings',name:'Washers',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Flat and locking washers in common sizes'},
+      {category:'Fasteners & Fixings',name:'Wall Plugs & Anchors',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Fixing into brick, block and concrete'},
+      {category:'Fasteners & Fixings',name:'Nails',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Common, masonry and finishing nails'},
+      {category:'Fasteners & Fixings',name:'Threaded Rods',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Suspension and structural fixing'},
+
+      {category:'Safety & PPE',name:'Safety Helmet',image:'https://m.media-amazon.com/images/I/61H4z0lW8XL._AC_SL1200_.jpg',note:'Head protection for construction work'},
+      {category:'Safety & PPE',name:'Work Gloves',image:'https://m.media-amazon.com/images/I/71iB3aPD3TL._AC_SL1500_.jpg',note:'Hand protection for handling and repair work'},
+      {category:'Safety & PPE',name:'Safety Goggles',image:'https://m.media-amazon.com/images/I/61tBvXgMUkL._AC_SL1500_.jpg',note:'Eye protection during cutting and drilling'},
+      {category:'Safety & PPE',name:'Dust Mask / Respirator',image:'https://m.media-amazon.com/images/I/71Qy6i3X5WL._AC_SL1500_.jpg',note:'Protection from dust and fine particles'},
+      {category:'Safety & PPE',name:'Reflective Safety Vest',image:'https://m.media-amazon.com/images/I/71Qn7oB7cOL._AC_SL1500_.jpg',note:'High-visibility site wear'},
+      {category:'Safety & PPE',name:'Safety Shoes',image:'https://m.media-amazon.com/images/I/71n9f8cG9CL._AC_SL1500_.jpg',note:'Protective footwear for site and workshop'},
+
+      {category:'Locks, Hinges & Door Hardware',name:'Door Handle Set',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Door lever handle and lock hardware'},
+      {category:'Locks, Hinges & Door Hardware',name:'Padlock',image:'https://m.media-amazon.com/images/I/71G9ByU3OHL._AC_SL1500_.jpg',note:'General security locking'},
+      {category:'Locks, Hinges & Door Hardware',name:'Door Hinges',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Cabinet and door hinges'},
+      {category:'Locks, Hinges & Door Hardware',name:'Mortise Lock',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Internal and external door locking'},
+      {category:'Locks, Hinges & Door Hardware',name:'Tower Bolt',image:'https://m.media-amazon.com/images/I/61KXGzO3tAL._AC_SL1500_.jpg',note:'Surface-mounted door and gate bolt'},
+      {category:'Locks, Hinges & Door Hardware',name:'Door Stopper',image:'https://m.media-amazon.com/images/I/61z7x5qg2bL._AC_SL1500_.jpg',note:'Protects walls and holds doors'},
+
+      {category:'Garden Tools',name:'Garden Trowel',image:'https://img.kwcdn.com/product/fancy/017d6b00-5b30-43f0-a304-aa902214cf1a.jpg',note:'Planting and soil work'},
+      {category:'Garden Tools',name:'Pruning Shears',image:'https://img.kwcdn.com/product/fancy/017d6b00-5b30-43f0-a304-aa902214cf1a.jpg',note:'Pruning small branches and plants'},
+      {category:'Garden Tools',name:'Garden Rake',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Levelling soil and collecting debris'},
+      {category:'Garden Tools',name:'Shovel',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Digging and moving soil or aggregate'},
+      {category:'Garden Tools',name:'Hoe',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Weeding and soil preparation'},
+      {category:'Garden Tools',name:'Hedge Shears',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Trimming hedges and shrubs'},
+
+      {category:'Measuring & Marking',name:'Tape Measure',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Everyday length measurement'},
+      {category:'Measuring & Marking',name:'Spirit Level',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Checking level and plumb'},
+      {category:'Measuring & Marking',name:'Digital Caliper',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Precision inside, outside and depth measurement'},
+      {category:'Measuring & Marking',name:'Steel Ruler',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Marking and straight measurement'},
+      {category:'Measuring & Marking',name:'Combination Square',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'90° / 45° marking and checking'},
+      {category:'Measuring & Marking',name:'Chalk Line',image:'https://m.media-amazon.com/images/I/71v7z3UnPGL._AC_SL1500_.jpg',note:'Long straight layout lines'},
+
+      {category:'Cutting, Grinding & Abrasives',name:'Metal Cutting Discs',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Thin discs for cutting ferrous metal'},
+      {category:'Cutting, Grinding & Abrasives',name:'Grinding Discs',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Grinding and edge preparation'},
+      {category:'Cutting, Grinding & Abrasives',name:'Flap Discs',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Blending and finishing metal surfaces'},
+      {category:'Cutting, Grinding & Abrasives',name:'Sandpaper Sheets',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Surface preparation in multiple grits'},
+      {category:'Cutting, Grinding & Abrasives',name:'Circular Saw Blade',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Wood cutting blades'},
+      {category:'Cutting, Grinding & Abrasives',name:'Wire Brush Wheel',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Rust and paint removal'},
+
+      {category:'Adhesives, Sealants & Tapes',name:'Silicone Sealant',image:'https://m.media-amazon.com/images/I/61X9zXn7kCL._AC_SL1200_.jpg',note:'Sealing glass, aluminium, sanitary and joints'},
+      {category:'Adhesives, Sealants & Tapes',name:'Construction Adhesive',image:'https://m.media-amazon.com/images/I/61W8y0yD-AL._AC_SL1500_.jpg',note:'Heavy-duty bonding for building materials'},
+      {category:'Adhesives, Sealants & Tapes',name:'Super Glue',image:'https://m.media-amazon.com/images/I/61mQ5y4YJdL._AC_SL1500_.jpg',note:'Quick bonding for small repairs'},
+      {category:'Adhesives, Sealants & Tapes',name:'PTFE Thread Seal Tape',image:'https://m.media-amazon.com/images/I/71q5l1t4aAL._AC_SL1500_.jpg',note:'Thread sealing for plumbing fittings'},
+      {category:'Adhesives, Sealants & Tapes',name:'Masking Tape',image:'https://m.media-amazon.com/images/I/71s5k5PiKwL._AC_SL1500_.jpg',note:'Painting and temporary masking'},
+      {category:'Adhesives, Sealants & Tapes',name:'Duct Tape',image:'https://m.media-amazon.com/images/I/71vY8Aqg7GL._AC_SL1500_.jpg',note:'Strong general-purpose repair tape'},
+
+      {category:'Masonry & Construction Tools',name:'Brick Trowel',image:'https://m.media-amazon.com/images/I/71o6Hf1oPpL._AC_SL1500_.jpg',note:'Laying bricks and blocks'},
+      {category:'Masonry & Construction Tools',name:'Plastering Trowel',image:'https://m.media-amazon.com/images/I/71qFf0DmcIL._AC_SL1500_.jpg',note:'Plaster and cement finishing'},
+      {category:'Masonry & Construction Tools',name:'Mason Hammer',image:'https://m.media-amazon.com/images/I/61R8ZghfFVL._AC_SL1500_.jpg',note:'Brick and masonry shaping'},
+      {category:'Masonry & Construction Tools',name:'Cold Chisel',image:'https://m.media-amazon.com/images/I/71pc2uI6gAL._AC_SL1500_.jpg',note:'Chipping concrete, stone and metal'},
+      {category:'Masonry & Construction Tools',name:'Plumb Bob',image:'https://m.media-amazon.com/images/I/61kHfw8kkjL._AC_SL1500_.jpg',note:'Vertical alignment on site'},
+      {category:'Masonry & Construction Tools',name:'Rubber Mallet',image:'https://m.media-amazon.com/images/I/61F3k2vDgPL._AC_SL1500_.jpg',note:'Tile, flooring and assembly work'},
+
+      {category:'Welding & Workshop',name:'Welding Electrode Holder',image:'https://m.media-amazon.com/images/I/61e8x5rGdSL._AC_SL1500_.jpg',note:'Manual arc welding accessory'},
+      {category:'Welding & Workshop',name:'Welding Helmet',image:'https://m.media-amazon.com/images/I/71X1zvGmDIL._AC_SL1500_.jpg',note:'Face and eye protection for welding'},
+      {category:'Welding & Workshop',name:'Bench Vice',image:'https://m.media-amazon.com/images/I/71w0DyxS6PL._AC_SL1500_.jpg',note:'Holding work securely on a bench'},
+      {category:'Welding & Workshop',name:'C-Clamp',image:'https://m.media-amazon.com/images/I/61d3i6p7C9L._AC_SL1500_.jpg',note:'Temporary clamping for fabrication and carpentry'},
+      {category:'Welding & Workshop',name:'Grease Gun',image:'https://m.media-amazon.com/images/I/71Qh1q7jM5L._AC_SL1500_.jpg',note:'Lubrication for machinery and vehicles'},
+      {category:'Welding & Workshop',name:'Air Blow Gun',image:'https://m.media-amazon.com/images/I/61YyR9Gm5BL._AC_SL1500_.jpg',note:'Compressed-air cleaning'},
+
+      {category:'Power Tool Accessories',name:'HSS Drill Bit Set',image:'https://m.media-amazon.com/images/I/71R7v3W0wUL._AC_SL1500_.jpg',note:'Metal and general drilling'},
+      {category:'Power Tool Accessories',name:'Masonry Drill Bits',image:'https://m.media-amazon.com/images/I/71eY5gZ9QUL._AC_SL1500_.jpg',note:'Brick, block and concrete drilling'},
+      {category:'Power Tool Accessories',name:'Screwdriver Bit Set',image:'https://m.media-amazon.com/images/I/71y9XvT6gPL._AC_SL1500_.jpg',note:'Driver bits for common screw heads'},
+      {category:'Power Tool Accessories',name:'Hole Saw Set',image:'https://m.media-amazon.com/images/I/71s0nKJ6VqL._AC_SL1500_.jpg',note:'Large diameter holes in wood, metal and board'},
+      {category:'Power Tool Accessories',name:'Jigsaw Blades',image:'https://m.media-amazon.com/images/I/71v8QClRWBL._AC_SL1500_.jpg',note:'Wood and metal cutting blades'},
+      {category:'Power Tool Accessories',name:'Drill Chuck',image:'https://m.media-amazon.com/images/I/61Dg34vprHL._AC_SL1500_.jpg',note:'Replacement drill chuck and key'},
+
+      {category:'Carpentry & Woodworking',name:'Hand Saw',image:'https://m.media-amazon.com/images/I/71l9iG0zOHL._AC_SL1500_.jpg',note:'Manual timber cutting'},
+      {category:'Carpentry & Woodworking',name:'Wood Chisel Set',image:'https://m.media-amazon.com/images/I/71g8oHQPV1L._AC_SL1500_.jpg',note:'Joinery and timber shaping'},
+      {category:'Carpentry & Woodworking',name:'Wood Plane',image:'https://m.media-amazon.com/images/I/61aN8edKmPL._AC_SL1500_.jpg',note:'Flattening and smoothing wood'},
+      {category:'Carpentry & Woodworking',name:'Carpenter Pencil',image:'https://m.media-amazon.com/images/I/71G5hZQFCWL._AC_SL1500_.jpg',note:'Marking timber and building materials'},
+      {category:'Carpentry & Woodworking',name:'G-Clamp',image:'https://m.media-amazon.com/images/I/61d3i6p7C9L._AC_SL1500_.jpg',note:'Holding timber during assembly'},
+      {category:'Carpentry & Woodworking',name:'Nail Puller / Pry Bar',image:'https://m.media-amazon.com/images/I/61m1yeo6PrL._AC_SL1500_.jpg',note:'Demolition and nail removal'},
+
+      {category:'Roofing & Building Accessories',name:'Roofing Screws',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Self-drilling roofing fasteners'},
+      {category:'Roofing & Building Accessories',name:'Roofing Washers',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Sealing washers for roof sheets'},
+      {category:'Roofing & Building Accessories',name:'Gutter Brackets',image:'https://m.media-amazon.com/images/I/61urZ76JXUL._AC_SL1500_.jpg',note:'Support for rainwater gutters'},
+      {category:'Roofing & Building Accessories',name:'Downpipe Fittings',image:'https://m.media-amazon.com/images/I/61B5tKEMJqL._AC_SL1500_.jpg',note:'Rainwater drainage fittings'},
+      {category:'Roofing & Building Accessories',name:'Wire Mesh',image:'https://m.media-amazon.com/images/I/71F7xkAtKkL._AC_SL1500_.jpg',note:'Screening, fencing and reinforcement uses'},
+      {category:'Roofing & Building Accessories',name:'Binding Wire',image:'https://m.media-amazon.com/images/I/71Gv4JvrPQL._AC_SL1500_.jpg',note:'Tying reinforcement and general construction'},
+
+      {category:'Cleaning & Maintenance',name:'Wire Brush',image:'https://m.media-amazon.com/images/I/71EL8J1c49L._AC_SL1500_.jpg',note:'Rust, paint and scale removal'},
+      {category:'Cleaning & Maintenance',name:'Paint Scraper',image:'https://m.media-amazon.com/images/I/61Q6lVtQ9VL._AC_SL1500_.jpg',note:'Removing paint, filler and residue'},
+      {category:'Cleaning & Maintenance',name:'Utility Knife',image:'https://m.media-amazon.com/images/I/71Hq2HKNdUL._AC_SL1500_.jpg',note:'General cutting and trimming'},
+      {category:'Cleaning & Maintenance',name:'Lubricating Oil',image:'https://m.media-amazon.com/images/I/61lH7gUxVmL._AC_SL1500_.jpg',note:'General maintenance lubrication'},
+      {category:'Cleaning & Maintenance',name:'Cleaning Brush Set',image:'https://m.media-amazon.com/images/I/71s8AoLrXFL._AC_SL1500_.jpg',note:'Workshop and household cleaning'},
+      {category:'Cleaning & Maintenance',name:'Hand Sprayer',image:'https://m.media-amazon.com/images/I/61F5A6UnqOL._AC_SL1500_.jpg',note:'Cleaning, gardening and maintenance use'}
+    ];
+    online.push(...additionalOnline);
     const paintProducts=[
       {name:'Multilac Premium Sheen Emulsion',use:'Interior walls',image:'https://multilac.com/wp-content/uploads/2025/06/s-blob-v1-IMAGE-vy0D8R-n7H0-e1763377492473.webp',url:'https://multilac.com/product/multilac-premium-sheen-emulsion-colours/'},
       {name:'Multilac 3 in 1 Waterproofing',use:'Exterior waterproofing',image:'https://multilac.com/wp-content/uploads/2025/08/width_172-2.webp',url:'https://multilac.com/shop-now/'},
@@ -47,5 +164,57 @@
     document.getElementById('menuBtn').onclick=()=>document.getElementById('menu').classList.toggle('hidden');
     const finish=()=>document.body.classList.add('ready');window.addEventListener('load',finish,{once:true});setTimeout(finish,1200);
   </script>
+
+  <!-- ADD-ONLY FIX: keeps all existing source/data intact and enhances newly added categories -->
+  <script>
+    (function(){
+      const fallbackSvg = `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`
+        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+          <rect width="800" height="600" fill="#eef1f4"/>
+          <g fill="#132333" opacity="0.18">
+            <path d="M256 364l86-86 54 54 83-96 117 128H256z"/>
+            <circle cx="309" cy="213" r="34"/>
+          </g>
+          <text x="400" y="445" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#64748b">Product image</text>
+          <text x="400" y="482" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#94a3b8">Image temporarily unavailable</text>
+        </svg>`)} `;
+
+      // Stop the original inline onerror from hiding a product card when a remote host blocks hotlinking.
+      document.addEventListener('error', function(e){
+        const img=e.target;
+        if(img && img.tagName==='IMG' && img.src !== fallbackSvg){
+          img.onerror=null;
+          img.src=fallbackSvg;
+        }
+      }, true);
+
+      function combinedItems(name){
+        const local=(catalog[name]||[]).map((image,i)=>({image,name:`${name} product ${i+1}`,local:true}));
+        const added=online.filter(x=>x.category===name);
+        return local.concat(added);
+      }
+
+      function rerenderCategories(){
+        const names=Object.keys(catalog);
+        categories.innerHTML=names.map((name,index)=>{
+          const items=combinedItems(name);
+          const previews=items.slice(0,4);
+          const previewHtml=previews.length
+            ? previews.map((item,n)=>`<img src="${encodeURI(item.image)}" loading="lazy" alt="${name} product preview ${n+1}">`).join('')
+            : `<img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview">`;
+          const localCount=(catalog[name]||[]).length;
+          const addedCount=online.filter(x=>x.category===name).length;
+          const countText=localCount > 0
+            ? `${localCount} supplied product photos${addedCount?` + ${addedCount} added items`:''} · Open collection →`
+            : `${items.length} product items · Open collection →`;
+          return `<button class="category text-left bg-white rounded-2xl overflow-hidden border border-slate-200" data-category="${name}"><div class="category-preview">${previewHtml}</div><div class="p-5"><small class="text-[#aa7821] uppercase tracking-widest text-[10px] font-bold">Department ${String(index+1).padStart(2,'0')}</small><h3 class="font-bold text-2xl mt-2">${name}</h3><p class="text-slate-500 text-sm mt-2">${countText}</p></div></button>`;
+        }).join('');
+      }
+
+      // The original code is untouched; this only refreshes the category cards after all existing data is defined.
+      rerenderCategories();
+    })();
+  </script>
+
 </body>
 </html>
