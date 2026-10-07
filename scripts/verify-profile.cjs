@@ -7,7 +7,7 @@ assert.equal(samples.length,6);
 assert.deepEqual([...new Set(samples.map(r=>r.rating))].sort(),[3,4,5]);
 assert(samples.every(r=>/^[A-Za-z ]+$/.test(r.name)));
 for(const id of ['reviews','sampleReviews','reviewForm','reviewName','reviewRating','reviewText','reviewStatus','sendReview','reviewDrafts','shopMap'])assert(html.includes(`id="${id}"`));
-assert(html.includes('fictional examples') && html.includes('not customer testimonials or Google reviews'));
+assert(js.includes('Sample review · fictional example'));
 assert(html.includes('not the exact shop pin'));
 assert(!html.includes('mZ4QWN1HgJYKVyG36') && !html.includes('103359021812915362606'));
 assert(html.includes('www.google.com/maps/embed?pb=') && html.includes('height:260px'));

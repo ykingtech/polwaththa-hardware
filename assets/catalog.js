@@ -44,11 +44,6 @@
     document.getElementById('products').scrollIntoView({behavior:reducedMotion ? 'auto' : 'smooth'});
   });
   document.getElementById('paintGrid').innerHTML = data.paints.map(card).join('');
-  const menuBtn = document.getElementById('menuBtn');
-  menuBtn.addEventListener('click', () => {
-    const hidden = document.getElementById('menu').classList.toggle('hidden');
-    menuBtn.setAttribute('aria-expanded', String(!hidden));
-  });
   // Keep the name and card visible even if an asset is accidentally missing.
   document.addEventListener('error', event => {
     const img = event.target;
