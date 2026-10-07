@@ -1,0 +1,2976 @@
+{
+  "updated": "2026-10-07",
+  "notice": "Internet-sourced photographs illustrate product types, not confirmed inventory, sizes or authorised brand dealership. Photograph rights remain with their respective owners. Confirm republication permission with each source before commercial use.",
+  "photos": {
+    "Cordless Drill": {
+      "image": "assets/products/cordless-drill.webp",
+      "source": "https://www.toolcraft.co.za/products/dewalt-cordless-drill-driver-12v-dcd710d2",
+      "sourceTitle": "DeWalt | Cordless Drill Driver 12V DCD710D2",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/DeWalt-Cordless-Drill-Driver-12V-DCD710D2.webp?v=1729130782",
+      "width": 640,
+      "height": 640,
+      "bytes": 34420
+    },
+    "Rotary Hammer": {
+      "image": "assets/products/rotary-hammer.webp",
+      "source": "https://ingcostores.com/products/rh1600388-ingco-rotary-hammer-drill-chisel-concrete-metal-wood-work-for-home-industrial",
+      "sourceTitle": "Industrial Rotary Hammer RH1600388 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/RH1600388.jpg?v=1756887837",
+      "width": 640,
+      "height": 640,
+      "bytes": 44114
+    },
+    "Impact Driver": {
+      "image": "assets/products/impact-driver.webp",
+      "source": "https://ingcostores.com/products/cirli20030-ingco-20v-cordless-li-ion-impact-driver-20v",
+      "sourceTitle": "P20S 20V Cordless Lithium-Ion Impact Driver CIRLI20030 ING-COR",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/CIRLI20030.jpg?v=1756888475",
+      "width": 640,
+      "height": 640,
+      "bytes": 39314
+    },
+    "Hammer Drill": {
+      "image": "assets/products/hammer-drill.webp",
+      "source": "https://jomla.ae/en/product/ingco-id8108-810w-13-mm-corded-impact-drill-with-variable-speed-hammer-function/",
+      "sourceTitle": "INGCO ID8108 810W Corded Impact Drill",
+      "originalImage": "https://jomla-erp.b-cdn.net/web/image/product.image/1023660/image_1920?quality=85&unique=fed17fe&width=3840",
+      "width": 550,
+      "height": 495,
+      "bytes": 18046
+    },
+    "Bench Grinder": {
+      "image": "assets/products/bench-grinder.webp",
+      "source": "https://www.toolcraft.co.za/products/martlet-bench-grinder-mm200bg",
+      "sourceTitle": "Martlet | Bench Grinder MM200BG",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Martlet-Bench-Grinder-MM200BG.jpg?v=1729253734",
+      "width": 532,
+      "height": 514,
+      "bytes": 8678
+    },
+    "Circular Saw": {
+      "image": "assets/products/circular-saw.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-9inches-industrial-circular-saw-2200w-220-240v-50-60hz-cs235222-ing-pt",
+      "sourceTitle": "9inches Industrial Circular Saw 2200W (220-240V~50/60Hz) CS235222 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/CS235222.jpg?v=1779240762",
+      "width": 640,
+      "height": 640,
+      "bytes": 42116
+    },
+    "Angle Grinder": {
+      "image": "assets/products/angle-grinder.webp",
+      "source": "https://ingcostores.com/products/ingco-angle-grinder-vs-1100w-ag11003857-ing-pt",
+      "sourceTitle": "Angle Grinder VS 1100W AG11003857 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AG11003857.jpg?v=1779238616",
+      "width": 640,
+      "height": 640,
+      "bytes": 30104
+    },
+    "Jigsaw": {
+      "image": "assets/products/jigsaw.webp",
+      "source": "https://www.toolcraft.co.za/products/bosch-professional-jigsaw-gst-90-be-650w",
+      "sourceTitle": "Bosch Professional | Jigsaw GST 90 BE 650W",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Bosch-Professional-Jigsaw-GST-90-BE-650W.jpg?v=1729098223",
+      "width": 640,
+      "height": 632,
+      "bytes": 26098
+    },
+    "Cut-Off Saw": {
+      "image": "assets/products/cut-off-saw.webp",
+      "source": "https://www.toolcraft.co.za/products/makita-cut-off-saw-lw1401",
+      "sourceTitle": "Makita | Cut-Off Saw LW1401",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Makita-Cut-Off-Saw-LW1401.jpg?v=1729249611",
+      "width": 590,
+      "height": 555,
+      "bytes": 17420
+    },
+    "Reciprocating Saw": {
+      "image": "assets/products/reciprocating-saw.webp",
+      "source": "https://www.toolcraft.co.za/products/hikoki-reciprocating-saw-cr13v2wsz",
+      "sourceTitle": "Hikoki | Reciprocating Saw CR13V2WSZ",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/a389d0c6-c019-4fe3-827e-f96daf7be26f.jpg?v=1780470000",
+      "width": 640,
+      "height": 640,
+      "bytes": 10534
+    },
+    "Electric Planer": {
+      "image": "assets/products/electric-planer.webp",
+      "source": "https://ingcostores.com/products/ingco-electric-planer-680w-power-with-planning-width-depth-82x1mm-pl6808p-ipt",
+      "sourceTitle": "Ingco Electric Planer 680W Power with Planning Width & Depth: 82x1mm PL6808P (IPT) ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/PL6808P.jpg?v=1779238046",
+      "width": 640,
+      "height": 640,
+      "bytes": 30316
+    },
+    "Belt Sander": {
+      "image": "assets/products/belt-sander.webp",
+      "source": "https://build4less.co.uk/products/75mm-belt-sander-1010w",
+      "sourceTitle": "75mm Belt Sander 1010W",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/75mm_Belt_Sander_1010W_-_Draper_Tools_and_Workwear.jpg?v=1773048491",
+      "width": 600,
+      "height": 600,
+      "bytes": 19476
+    },
+    "Polisher": {
+      "image": "assets/products/polisher.webp",
+      "source": "https://build4less.co.uk/products/draper-sander-polisher-180mm-1200w",
+      "sourceTitle": "Draper Sander/Polisher",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Sander_Polisher_-_180mm_1200W_-_Draper.jpg?v=1773031331",
+      "width": 600,
+      "height": 600,
+      "bytes": 16588
+    },
+    "Electric Screwdriver": {
+      "image": "assets/products/electric-screwdriver.webp",
+      "source": "https://ingcostores.com/products/ingco-fast-charging-lithium-ion-cordless-screwdriver-csdli0402-ing-cor-1",
+      "sourceTitle": "Ingco Fast Charging Lithium-Ion Cordless Screwdriver CSDLI0402 ING-COR",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/CSDLI04425_a6a2fcc9-d91b-4e19-98c6-1757af0dc51c.jpg?v=1772767662",
+      "width": 640,
+      "height": 640,
+      "bytes": 12024
+    },
+    "Heat Gun": {
+      "image": "assets/products/heat-gun.webp",
+      "source": "https://www.toolcraft.co.za/products/makita-heat-gun-hg6031v",
+      "sourceTitle": "Makita | Heat Gun HG6031V",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Makita-Heat-Gun-HG6031V.png?v=1729249972",
+      "width": 640,
+      "height": 612,
+      "bytes": 17882
+    },
+    "Orbital Sander": {
+      "image": "assets/products/orbital-sander.webp",
+      "source": "https://my.stanleytools.global/products/power-tools/sanders/orbital-sanders",
+      "sourceTitle": "STANLEY SS30-B2C Orbital Sander",
+      "originalImage": "https://my.stanleytools.global/ASIA/PRODUCT/IMAGES/HIRES/SS30_1.jpg?resize=530x530",
+      "width": 640,
+      "height": 640,
+      "bytes": 23584
+    },
+    "Mitre Saw": {
+      "image": "assets/products/mitre-saw.webp",
+      "source": "https://www.ingcotools.com.uy/catalogo/herramientas-electricas/sierra-ingletadora/sierra-ingletadora-10-1800w-ingco-bms18007-ingbms18007/",
+      "sourceTitle": "INGCO BMS18007 10\" 1800W Miter Saw",
+      "originalImage": "https://www.ingcotools.com.uy/imgs/productos/_original_7253.png",
+      "width": 549,
+      "height": 640,
+      "bytes": 31568
+    },
+    "Wall Chaser": {
+      "image": "assets/products/wall-chaser.webp",
+      "source": "https://www.toolcraft.co.za/products/makita-wall-chaser-sg1251j",
+      "sourceTitle": "Makita | Wall Chaser SG1251J",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Makita-Wall-Chaser-SG1251J.jpg?v=1729251009",
+      "width": 544,
+      "height": 526,
+      "bytes": 13306
+    },
+    "Tile Cutter": {
+      "image": "assets/products/tile-cutter.webp",
+      "source": "https://build4less.co.uk/products/tile-cutter",
+      "sourceTitle": "Tile Cutter",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/FAITLC300.jpg?v=1636549499",
+      "width": 400,
+      "height": 400,
+      "bytes": 8504
+    },
+    "Pressure Washer": {
+      "image": "assets/products/pressure-washer.webp",
+      "source": "https://build4less.co.uk/products/pressure-washer-110-bar",
+      "sourceTitle": "Pressure Washer 110 Bar",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/KEWCOM110.jpg?v=1769005926",
+      "width": 600,
+      "height": 600,
+      "bytes": 15710
+    },
+    "Demolition Hammer": {
+      "image": "assets/products/demolition-hammer.webp",
+      "source": "https://www.toolcraft.co.za/products/makita-demolition-hammer-hm1307c",
+      "sourceTitle": "Makita | Demolition Hammer HM1307C",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Makita-Demolition-Hammer-HM1307C.jpg?v=1729249094",
+      "width": 640,
+      "height": 593,
+      "bytes": 9228
+    },
+    "Air Blower": {
+      "image": "assets/products/air-blower.webp",
+      "source": "https://ingcostores.com/products/ingco-aspirator-blower-high-speed-2in1-electric-blower-vacuum-dust-cleaner-650w-ab6038",
+      "sourceTitle": "Aspirator Blower High Speed 2in1 Electric Blower + Vacuum Dust Cleaner 650W AB6038 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AB6038.jpg?v=1779266764",
+      "width": 640,
+      "height": 640,
+      "bytes": 36878
+    },
+    "Wood Screws": {
+      "image": "assets/products/wood-screws.webp",
+      "source": "https://build4less.co.uk/products/samac-performance-plus-woodscrew-all-sizes",
+      "sourceTitle": "Performance PLUS Woodscrew - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/samac-performance-plus-woodscrew_1.jpg?v=1769588194",
+      "width": 600,
+      "height": 600,
+      "bytes": 4192
+    },
+    "Electric Spray Gun": {
+      "image": "assets/products/electric-spray-gun.webp",
+      "source": "https://ingcostores.com/products/ingco-spg5008-floor-based-hvlp-electric-paint-spray-gun-painting-machine-iron-paint-zoom-paintzoom-550w",
+      "sourceTitle": "Floor Based HVLP Electric Paint Spray Gun SPG5008 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/SPG5008.jpg?v=1756889733",
+      "width": 640,
+      "height": 640,
+      "bytes": 46170
+    },
+    "Portable Air Compressor": {
+      "image": "assets/products/portable-air-compressor.webp",
+      "source": "https://ingcostores.com/products/2-5hp-air-compressor-ac255016p-ing-pt",
+      "sourceTitle": "2.5HP Air Compressor AC255016P ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AC255016P.jpg?v=1763176479",
+      "width": 640,
+      "height": 640,
+      "bytes": 18564
+    },
+    "Chipboard Screws": {
+      "image": "assets/products/chipboard-screws.webp",
+      "source": "https://ingcostores.com/products/ingco-chipboard-screw-sold-per-bottle-hwbs3502511",
+      "sourceTitle": "Chipboard Screw HWBS3502511 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWBS3502511.jpg?v=1756889232",
+      "width": 640,
+      "height": 640,
+      "bytes": 29780
+    },
+    "Drywall Screws": {
+      "image": "assets/products/drywall-screws.webp",
+      "source": "https://build4less.co.uk/products/black-coarse-drywall-screws-all-lengths",
+      "sourceTitle": "Black Coarse Drywall Screws - All Lengths",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/r_1.jpg?v=1769588197",
+      "width": 600,
+      "height": 600,
+      "bytes": 5046
+    },
+    "Self-Drilling Screws": {
+      "image": "assets/products/self-drilling-screws.webp",
+      "source": "https://gagnonlgq.com/products/vis-autoperceuse-a-tete-ronde-plaquee-zinc-tek-pour-le-metal-8-18-x-2-100-unites-09441107",
+      "sourceTitle": "USCAN Zinc-Plated Self-Drilling Screws",
+      "originalImage": "https://gagnonlgq.com/cdn/shop/files/97690d49c57c6b5a632c990aae538344b2a630ad_09441107_001_1200x.jpg?v=1727759177",
+      "width": 640,
+      "height": 640,
+      "bytes": 31606
+    },
+    "Roofing Screws": {
+      "image": "assets/products/roofing-screws.webp",
+      "source": "https://build4less.co.uk/products/forgefix-self-drilling-roofing-cladding-screw-box-of-100-all-sizes",
+      "sourceTitle": "Forgefix Self Drilling Roofing/Cladding Screw (Box of 100) - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/TechFastRoofingScrew-SheettoSheet-Box.jpg?v=1628206126",
+      "width": 400,
+      "height": 400,
+      "bytes": 3700
+    },
+    "Self-Tapping Screws": {
+      "image": "assets/products/self-tapping-screws.webp",
+      "source": "https://ingcostores.com/products/hwps4201921-ingco-self-tapping-screw-metal-screw",
+      "sourceTitle": "Self Tapping Screw Metal Screw HWPS4201921 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWPS4201921.jpg?v=1756888750",
+      "width": 640,
+      "height": 640,
+      "bytes": 28150
+    },
+    "Hex Bolts": {
+      "image": "assets/products/hex-bolts.webp",
+      "source": "https://build4less.co.uk/products/hex-head-atlas-bolt-zyp-box-of-100-all-sizes",
+      "sourceTitle": "Hex Head Atlas Bolt ZYP - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/85008cf0-6dc3-4a01-87a7-320156583de8.jpg?v=1769588718",
+      "width": 600,
+      "height": 600,
+      "bytes": 14002
+    },
+    "Machine Screws": {
+      "image": "assets/products/machine-screws.webp",
+      "source": "https://www.fastenersplus.com/products/conquest-2-56-x-1-4-slotted-round-head-machine-screw-zinc",
+      "sourceTitle": "Conquest #2-56 x 1/4\" Slotted Round Head Machine Screw - Zinc",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0277/8644/4936/files/MSSRZ-_2X14.01_58da1469-fbe6-48d9-bf34-626b697c821d.jpg?v=1779311975",
+      "width": 640,
+      "height": 640,
+      "bytes": 3258
+    },
+    "Nuts": {
+      "image": "assets/products/nuts.webp",
+      "source": "https://ingcostores.com/products/ingco-ab008000104-nut-for-spd10001-5-submersible-water-pump-1000w-ing-sp",
+      "sourceTitle": "INGCO AB008000104 Nut",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0o-mdeb06yt2beoe7.jpg?v=1762935820",
+      "width": 640,
+      "height": 640,
+      "bytes": 28372
+    },
+    "Coach Screws": {
+      "image": "assets/products/coach-screws.webp",
+      "source": "https://timco.co.uk/0880CSCP-coach-screws-hex-zinc",
+      "sourceTitle": "TIMCO Zinc-Plated Hex Coach Screws",
+      "originalImage": "https://euntimcocdn.blob.core.windows.net/web-product-images/0880CSCP_w2.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 15638
+    },
+    "Anchor Bolts": {
+      "image": "assets/products/anchor-bolts.webp",
+      "source": "https://www.homedepot.com/p/308278373",
+      "sourceTitle": "Red Head Hot-Dipped Galvanized Wedge Anchors",
+      "originalImage": "https://images.thdstatic.com/productImages/db50cba4-c589-4586-9224-6936997d9d1b/svn/red-head-wedge-anchors-03555-64_1000.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 38230
+    },
+    "Expansion Bolts": {
+      "image": "assets/products/expansion-bolts.webp",
+      "source": "https://www.diy.com/departments/m8-8mm-x-75mm-expansion-rawl-bolt-for-masonry-sleeve-anchors-fastener-6pk/5056316375078_BQ.prd",
+      "sourceTitle": "M8 x 75mm Expansion Rawl Bolt Set",
+      "originalImage": "https://media.diy.com/is/image/KingfisherDigital/m8-8mm-x-75mm-expansion-rawl-bolt-for-masonry-sleeve-anchors-fastener-6pk~5056316375078_01c_MP?%24MOB_PREV%24=&%24height=200&%24width=200",
+      "width": 400,
+      "height": 400,
+      "bytes": 22842
+    },
+    "Lock Nuts": {
+      "image": "assets/products/lock-nuts.webp",
+      "source": "https://m.made-in-china.com/product/M5-M24-DIN982-Prevailing-Torque-Nylon-Hex-Jam-Nut-Hex-Safety-Lock-Nut-1945841665.html",
+      "sourceTitle": "Stainless Steel Nylon-Insert Hex Lock Nuts",
+      "originalImage": "https://image.made-in-china.com/202f0j00ajkWqJsHkGcA/M5-M24-DIN982-Prevailing-Torque-Nylon-Hex-Jam-Nut-Hex-Safety-Lock-Nut.webp",
+      "width": 550,
+      "height": 550,
+      "bytes": 21652
+    },
+    "Spring Washers": {
+      "image": "assets/products/spring-washers.webp",
+      "source": "https://ingcostores.com/products/ingco-aa023000108-spring-washer-for-pdb170082-demolition-breaker-1700w-ing-sp",
+      "sourceTitle": "INGCO AA023000108 Spring Washer",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-81ztf-mf26a428p8nj08.jpg?v=1762917528",
+      "width": 640,
+      "height": 640,
+      "bytes": 26072
+    },
+    "Washers": {
+      "image": "assets/products/washers.webp",
+      "source": "https://ingcostores.com/products/ingco-ae001000002-flat-washer-for-grt75-2-gasoline-tamprammer-6-5hp-79kgs-ing-sp",
+      "sourceTitle": "INGCO AE001000002 Flat Washer",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0o-mdmolcma7wau1f.jpg?v=1762999290",
+      "width": 640,
+      "height": 640,
+      "bytes": 28448
+    },
+    "Nylon Anchors": {
+      "image": "assets/products/nylon-anchors.webp",
+      "source": "https://ingcostores.com/products/hwnak3507012-ingco-nylon-anchor",
+      "sourceTitle": "Nylon Anchor HWNAK3507012 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWNAK3507012.jpg?v=1756888729",
+      "width": 640,
+      "height": 640,
+      "bytes": 19914
+    },
+    "Wall Plugs": {
+      "image": "assets/products/wall-plugs.webp",
+      "source": "https://ingcostores.com/products/hwsp1005011-ingco-screw-plug-tox",
+      "sourceTitle": "Screw Plug Tox HWSP1005011 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWSP1005011.jpg?v=1756888710",
+      "width": 640,
+      "height": 640,
+      "bytes": 19914
+    },
+    "Common Nails": {
+      "image": "assets/products/common-nails.webp",
+      "source": "https://build4less.co.uk/products/round-head-nails-all-sizes",
+      "sourceTitle": "Round Head Nails - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/RoundHeadNails-Bright.jpg?v=1768816496",
+      "width": 600,
+      "height": 600,
+      "bytes": 6590
+    },
+    "Panel Pins": {
+      "image": "assets/products/panel-pins.webp",
+      "source": "https://build4less.co.uk/products/bright-finish-panel-pins-10kg-box-all-sizes",
+      "sourceTitle": "Panel Pins (10Kg Box) - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/PanelPins.jpg?v=1768816492",
+      "width": 600,
+      "height": 600,
+      "bytes": 7164
+    },
+    "Concrete Nails": {
+      "image": "assets/products/concrete-nails.webp",
+      "source": "https://ingcostores.com/products/ingco-concrete-nail-accessories-18mm-64mm-1000pcs-plastic-box-sold-per-box",
+      "sourceTitle": "Concrete Nail Accessories 18mm-64mm 1000pcs / Plastic box SOLD per box ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ANA01181.jpg?v=1756887838",
+      "width": 640,
+      "height": 640,
+      "bytes": 31768
+    },
+    "Masonry Nails": {
+      "image": "assets/products/masonry-nails.webp",
+      "source": "https://www.kab24.de/werkstatt/maurernaegel-aus-gehaertetem-stahl-100er-packung.html",
+      "sourceTitle": "Fixman 100-Pack Masonry Nails",
+      "originalImage": "https://www.kab24.de/shop/images/products/main/T998561.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 26004
+    },
+    "Safety Helmet": {
+      "image": "assets/products/safety-helmet.webp",
+      "source": "https://build4less.co.uk/products/safety-helmet-all-colours",
+      "sourceTitle": "Safety Helmet - All Colours",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/SCAPPESHY_1.jpg?v=1638166748",
+      "width": 400,
+      "height": 400,
+      "bytes": 4646
+    },
+    "U-Bolts": {
+      "image": "assets/products/u-bolts.webp",
+      "source": "https://www.esutil.es/abrazadera-para-tubo-con-tuercas-b4f34/",
+      "sourceTitle": "Galvanized Steel U-Bolt Pipe Clamp",
+      "originalImage": "https://media.esutil.es/product/abrazadera-para-tubo-con-tuercas-800x800_CjcRcPW.jpg?width=1200",
+      "width": 640,
+      "height": 640,
+      "bytes": 12716
+    },
+    "Hooks & Eyes": {
+      "image": "assets/products/hooks-eyes.webp",
+      "source": "https://www.bedbathandbeyond.com/Home-Garden/6-Cabin-Hook-Eye-Latch-Gate-Door-Hook-Stainless-Steel-Mounting-Screws-2-Set-Silver-6-Length-2pcs/35441119/product.html",
+      "sourceTitle": "6\" Stainless Steel Cabin Hook and Eye Latch",
+      "originalImage": "https://ak1.ostkcdn.com/images/products/is/images/direct/6b5ab61fc11417cd093156e4d59775bbbca77b2a/6%22-Cabin-Hook-Eye-Latch-Gate-Door-Hook-Stainless-Steel-Mounting-Screws-2-Set.jpg?impolicy=medium",
+      "width": 600,
+      "height": 600,
+      "bytes": 6322
+    },
+    "Eye Bolts": {
+      "image": "assets/products/eye-bolts.webp",
+      "source": "https://www.mscdirect.com/product/details/73108227",
+      "sourceTitle": "Galvanized Steel Eye Bolt",
+      "originalImage": "https://cdn.mscdirect.com/global/images/ProductImages/7310822-24.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 24184
+    },
+    "Safety Gloves": {
+      "image": "assets/products/safety-gloves.webp",
+      "source": "https://build4less.co.uk/products/magnet-fishing-non-slip-safety-gloves",
+      "sourceTitle": "Magnet Fishing Non-Slip Safety Gloves",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Gloves_1.png?v=1775563960",
+      "width": 500,
+      "height": 500,
+      "bytes": 18504
+    },
+    "Respirator Mask": {
+      "image": "assets/products/respirator-mask.webp",
+      "source": "https://build4less.co.uk/products/vapour-and-dust-filter-respirator",
+      "sourceTitle": "Vapour and Dust Filter Respirator",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Vapour_and_Dust_Filter_Respirator_-_Draper.jpg?v=1773039253",
+      "width": 600,
+      "height": 600,
+      "bytes": 25588
+    },
+    "Welding Gloves": {
+      "image": "assets/products/welding-gloves.webp",
+      "source": "https://www.toolcraft.co.za/products/dromex-gloves-welding-chrome",
+      "sourceTitle": "Dromex | Gloves Welding Chrome",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Dromex-Gloves-Welding-Chrome.jpg?v=1729363335",
+      "width": 639,
+      "height": 635,
+      "bytes": 42766
+    },
+    "Dust Mask": {
+      "image": "assets/products/dust-mask.webp",
+      "source": "https://ingcostores.com/products/hdm02-ingco-dust-mask",
+      "sourceTitle": "Dust Mask HDM02 ING-SE",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HDM02.jpg?v=1756888874",
+      "width": 640,
+      "height": 640,
+      "bytes": 23598
+    },
+    "Safety Goggles": {
+      "image": "assets/products/safety-goggles.webp",
+      "source": "https://build4less.co.uk/products/direct-ventilation-safety-goggles",
+      "sourceTitle": "Direct Ventilation Safety Goggles",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Direct_Ventilation_Safety_Goggles_-_Scan.jpg?v=1773055993",
+      "width": 600,
+      "height": 600,
+      "bytes": 17194
+    },
+    "Face Shield": {
+      "image": "assets/products/face-shield.webp",
+      "source": "https://www.toolcraft.co.za/products/dromex-face-shield-clear-saf00612",
+      "sourceTitle": "Dromex | Face Shield Clear SAF00612",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Dromex-Face-Shield-Clear-SAF00612.png?v=1729363434",
+      "width": 405,
+      "height": 412,
+      "bytes": 3398
+    },
+    "Cut Resistant Gloves": {
+      "image": "assets/products/cut-resistant-gloves.webp",
+      "source": "https://ingcostores.com/products/ingco-cut-resistance-rubber-gloves-xl-hgcg01-xl",
+      "sourceTitle": "Cut Resistance Rubber Gloves XL HGCG01-XL / HGCG02-XL ING-SE",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HGCG01-XL_83c4425c-ca93-4183-9c5c-69ebdc320da6.png?v=1758353200",
+      "width": 640,
+      "height": 640,
+      "bytes": 57038
+    },
+    "Safety Boots": {
+      "image": "assets/products/safety-boots.webp",
+      "source": "https://build4less.co.uk/products/parker-safety-boot-dark-beige-all-sizes",
+      "sourceTitle": "Parker Safety Boot - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/7068_parker_dark_beige_2.jpg?v=1641534913",
+      "width": 400,
+      "height": 400,
+      "bytes": 13790
+    },
+    "Ear Muffs": {
+      "image": "assets/products/ear-muffs.webp",
+      "source": "https://ingcostores.com/products/ingco-hem01-soundproof-ear-protector-earmuffs-noise-reduction-hearing-protection",
+      "sourceTitle": "Soundproof Ear Protector Earmuffs Noise Reduction HEM01 ING-SE",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HEM01.jpg?v=1756889751",
+      "width": 640,
+      "height": 640,
+      "bytes": 28502
+    },
+    "Ear Plugs": {
+      "image": "assets/products/ear-plugs.webp",
+      "source": "https://build4less.co.uk/products/ear-plugs-pack-of-10-pairs",
+      "sourceTitle": "Ear Plugs (Pack of 10 Pairs)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Ear_Plugs_Pack_of_10_Pairs.jpg?v=1773046392",
+      "width": 600,
+      "height": 600,
+      "bytes": 23382
+    },
+    "Safety Vest": {
+      "image": "assets/products/safety-vest.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-reflection-safety-vest-with-common-reflective-strip-flourescent-xl-rv83xl-ing-ht",
+      "sourceTitle": "Ingco  Reflection Safety Vest with Common Reflective Strip Flourescent (XL) RV83XL ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0k-mcvu0svvgpi0b0.jpg?v=1756886923",
+      "width": 640,
+      "height": 640,
+      "bytes": 25230
+    },
+    "Rain Suit": {
+      "image": "assets/products/rain-suit.webp",
+      "source": "https://build4less.co.uk/products/hi-vis-packaway-rainsuit-all-sizes",
+      "sourceTitle": "Hi-Vis Packaway Rainsuit - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/H448ORR.jpg?v=1639989245",
+      "width": 400,
+      "height": 400,
+      "bytes": 5852
+    },
+    "Knee Pads": {
+      "image": "assets/products/knee-pads.webp",
+      "source": "https://www.toolcraft.co.za/products/knee-pads-foam-moulded",
+      "sourceTitle": "Pienaar Bros | Knee Pads Foam Moulded",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/Knee-Pads-Foam-Moulded.jpg?v=1730190726",
+      "width": 640,
+      "height": 480,
+      "bytes": 11650
+    },
+    "Safety Harness": {
+      "image": "assets/products/safety-harness.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-high-strength-safety-harness-hsh501802-hsh501420-ing-ht",
+      "sourceTitle": "High Strength Safety Harness HSH501802 / HSH501420 ING-SE",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HSH501420.jpg?v=1780638528",
+      "width": 640,
+      "height": 640,
+      "bytes": 41966
+    },
+    "Work Overalls": {
+      "image": "assets/products/work-overalls.webp",
+      "source": "https://build4less.co.uk/products/euro-work-coverall-regular-fit",
+      "sourceTitle": "Euro Work Coverall Regular Fit",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/S999RBR.jpg?v=1640001131",
+      "width": 400,
+      "height": 400,
+      "bytes": 4796
+    },
+    "Mortise Lock": {
+      "image": "assets/products/mortise-lock.webp",
+      "source": "https://build4less.co.uk/products/nickel-plated-3-lever-mortice-sashlock-all-sizes",
+      "sourceTitle": "Nickel Plated 3 Lever Mortice SashLock - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/76MM3LEVERMORTICESASHLOCK1.jpg?v=1773066773",
+      "width": 600,
+      "height": 600,
+      "bytes": 9498
+    },
+    "Brass Padlock": {
+      "image": "assets/products/brass-padlock.webp",
+      "source": "https://build4less.co.uk/products/shield-brass-padlock",
+      "sourceTitle": "Shield Brass Padlock",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/b30_20a.png?v=1778157678",
+      "width": 640,
+      "height": 640,
+      "bytes": 7896
+    },
+    "Padlock": {
+      "image": "assets/products/padlock.webp",
+      "source": "https://build4less.co.uk/products/shield-brass-padlock",
+      "sourceTitle": "Shield Brass Padlock",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/b30_20a.png?v=1778157678",
+      "width": 640,
+      "height": 640,
+      "bytes": 7896
+    },
+    "Combination Padlock": {
+      "image": "assets/products/combination-padlock.webp",
+      "source": "https://build4less.co.uk/products/shield-locker-combination-padlock",
+      "sourceTitle": "Shield Locker Combination Padlock",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/155-30Ba.png?v=1778157318",
+      "width": 640,
+      "height": 640,
+      "bytes": 9734
+    },
+    "Cylinder Lock": {
+      "image": "assets/products/cylinder-lock.webp",
+      "source": "https://build4less.co.uk/products/matt-satin-euro-double-cylinder-x-70mm-x-35-35mm",
+      "sourceTitle": "Matt Satin Euro Double Cylinder - 70mm x 35/35mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/622x622-Cyclinder_1_backLL1312.MAS.jpg?v=1628155901",
+      "width": 400,
+      "height": 400,
+      "bytes": 5434
+    },
+    "Deadbolt": {
+      "image": "assets/products/deadbolt.webp",
+      "source": "https://build4less.co.uk/products/satin-chrome-tubular-deadbolt-all-sizes",
+      "sourceTitle": "Satin Chrome Tubular Deadbolt - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/622x622-LL2031.SCPProductMainImage800x800.jpg?v=1628147258",
+      "width": 400,
+      "height": 400,
+      "bytes": 4344
+    },
+    "Door Handle": {
+      "image": "assets/products/door-handle.webp",
+      "source": "https://build4less.co.uk/products/sparta-matt-black-door-handle-kit",
+      "sourceTitle": "Sparta Matt Black Door Handle Kit",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/Sparta-MB-Latch-F-550x550_1.jpg?v=1768373637",
+      "width": 600,
+      "height": 600,
+      "bytes": 10362
+    },
+    "Door Knob": {
+      "image": "assets/products/door-knob.webp",
+      "source": "https://build4less.co.uk/products/vedea-fire-door-knob-handle-pack",
+      "sourceTitle": "Vedea Fire Door Knob Handle Pack",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Vedea_Fire_Door_Knob_Handle_Pack_-_XL_Joinery.png?v=1772968152",
+      "width": 544,
+      "height": 600,
+      "bytes": 8102
+    },
+    "Tower Bolt": {
+      "image": "assets/products/tower-bolt.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-tower-bolt-steel-bolt-type-latch-pin-horizontal-vertical-positions-ing-ht",
+      "sourceTitle": "Tower Bolt Steel Bolt Type Latch Pin Horizontal & Vertical Positions ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HTB103.jpg?v=1780449362",
+      "width": 640,
+      "height": 640,
+      "bytes": 19402
+    },
+    "Hasp & Staple": {
+      "image": "assets/products/hasp-staple.webp",
+      "source": "https://build4less.co.uk/products/safety-hasp-staple-3-black",
+      "sourceTitle": "Safety Hasp & Staple 3\" Black",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/Webp.net-resizeimage-2022-07-04T213626.412.jpg?v=1656942540",
+      "width": 400,
+      "height": 400,
+      "bytes": 6610
+    },
+    "Door Hinges": {
+      "image": "assets/products/door-hinges.webp",
+      "source": "https://build4less.co.uk/products/grade-7-satin-stainless-steel-ball-bearing-hinge-76mm-x-51mm-x-2mm-all-packs",
+      "sourceTitle": "Grade 7 Satin Stainless Steel Ball Bearing Hinge 76mm x 51mm x 2mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/GRADE7BALLBEARINGHINGESMULTI-PACK1.jpg?v=1773066772",
+      "width": 600,
+      "height": 600,
+      "bytes": 4052
+    },
+    "Butt Hinges": {
+      "image": "assets/products/butt-hinges.webp",
+      "source": "https://build4less.co.uk/products/polished-stainless-steel-butt-hinge-4-x-3-x-3mm-pack-of-3",
+      "sourceTitle": "Polished Stainless Steel Butt Hinge - 4\" x 3\" x 3mm (Pack of 3)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/polished-stainless-steel-4-inch-hinge.jpg?v=1628106399",
+      "width": 400,
+      "height": 400,
+      "bytes": 7784
+    },
+    "Barrel Bolt": {
+      "image": "assets/products/barrel-bolt.webp",
+      "source": "https://www.bunnings.co.nz/taskmaster-50mm-chrome-plated-barrel-bolt_p0133207",
+      "sourceTitle": "Taskmaster 50mm Chrome Plated Barrel Bolt",
+      "originalImage": "https://media.bunnings.com.au/api/public/content/2c290e7d80434bd4afe9bbd1fdd4c938?t=w1200&v=b26d723d",
+      "width": 640,
+      "height": 640,
+      "bytes": 26912
+    },
+    "Door Closer": {
+      "image": "assets/products/door-closer.webp",
+      "source": "https://build4less.co.uk/products/s-10-silver-overhead-door-closer-without-cover",
+      "sourceTitle": "S-10 Silver Overhead Door Closer Without Cover",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/S-10_Silver_Overhead_Door_Closer_Without_Cover_-_Sparka_Uk.webp?v=1773055234",
+      "width": 600,
+      "height": 600,
+      "bytes": 5932
+    },
+    "Door Stopper": {
+      "image": "assets/products/door-stopper.webp",
+      "source": "https://build4less.co.uk/products/chrome-door-stopper",
+      "sourceTitle": "Chrome Door Stopper",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/0509566.jpg?v=1786487431",
+      "width": 640,
+      "height": 640,
+      "bytes": 18388
+    },
+    "Cabinet Lock": {
+      "image": "assets/products/cabinet-lock.webp",
+      "source": "https://build4less.co.uk/products/ealf21-pl-smart-digital-lock-for-cabinet-lockers",
+      "sourceTitle": "EALF21-PL Smart Digital Lock for Cabinet & Lockers",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/LF21-PL.webp?v=1771575733",
+      "width": 640,
+      "height": 640,
+      "bytes": 8562
+    },
+    "Drawer Slide": {
+      "image": "assets/products/drawer-slide.webp",
+      "source": "https://www.sinohard-industries.com/product/en/45kg-100lbs-45mm-Soft-Close-Drawer-Slide.html",
+      "sourceTitle": "Sinohard Model 4563 Soft-Close Drawer Slide",
+      "originalImage": "https://www.sinohard-industries.com/Uploads/products/2021-01-30/en-SH4563.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 17818
+    },
+    "Piano Hinge": {
+      "image": "assets/products/piano-hinge.webp",
+      "source": "https://www.lowes.com/pd/Gatehouse-1-1-2-in-X-30-in-Stainless-steel-Surface-Piano-Cabinet-Hinge/3356248",
+      "sourceTitle": "Gatehouse Stainless Steel Piano Cabinet Hinge",
+      "originalImage": "https://mobileimages.lowes.com/product/converted/033923/033923838467.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 7294
+    },
+    "Magnetic Catch": {
+      "image": "assets/products/magnetic-catch.webp",
+      "source": "https://store.shopping.yahoo.co.jp/hyakusaishop/ca-1061.html",
+      "sourceTitle": "Stainless Steel Magnetic Catch Set",
+      "originalImage": "https://item-shopping.c.yimg.jp/i/n/hyakusaishop_ca-1061_1_d_20250219183540",
+      "width": 640,
+      "height": 640,
+      "bytes": 19104
+    },
+    "Rim Lock": {
+      "image": "assets/products/rim-lock.webp",
+      "source": "https://www.kalekilit.com.tr/en/kale-locks/surface-mount-rim-and-safety-locks/kale-surface-mount-rim-lock-0",
+      "sourceTitle": "Kale Surface Mount Rim Lock",
+      "originalImage": "https://www.kalekilit.com.tr/sites/kalekilit.com.tr/files/2021-08/157-ae-eco-2-copy_0.jpg",
+      "width": 640,
+      "height": 355,
+      "bytes": 9258
+    },
+    "Watering Can": {
+      "image": "assets/products/watering-can.webp",
+      "source": "https://build4less.co.uk/products/garden-watering-can-10-litres",
+      "sourceTitle": "Garden Watering Can 10 Litres",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/10Limage3.jpg?v=1767778167",
+      "width": 640,
+      "height": 418,
+      "bytes": 72500
+    },
+    "Hose Reel": {
+      "image": "assets/products/hose-reel.webp",
+      "source": "https://build4less.co.uk/products/assembled-hose-reel-25m-of-12-5mm-hose",
+      "sourceTitle": "Assembled Hose Reel & 25m of 12.5mm Hose",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/Hoz2431.jpg?v=1770293546",
+      "width": 600,
+      "height": 600,
+      "bytes": 14450
+    },
+    "Garden Hose": {
+      "image": "assets/products/garden-hose.webp",
+      "source": "https://build4less.co.uk/products/premium-garden-hose-green-with-brass-hose-connectors",
+      "sourceTitle": "Premium Garden Hose Green with Brass Hose Connectors",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/KITG1MBRASSJPG1.jpg?v=1767778358",
+      "width": 640,
+      "height": 640,
+      "bytes": 28168
+    },
+    "Sprinkler": {
+      "image": "assets/products/sprinkler.webp",
+      "source": "https://build4less.co.uk/products/multi-sprinkler",
+      "sourceTitle": "Multi Sprinkler",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Multi_Sprinkler_79m_-_Hozelock.webp?v=1770292476",
+      "width": 600,
+      "height": 600,
+      "bytes": 12622
+    },
+    "Pruning Shears": {
+      "image": "assets/products/pruning-shears.webp",
+      "source": "https://ingcostores.com/products/hps0109-pruning-shear-ingco-pruning-shears-8-inch-200mm",
+      "sourceTitle": "Pruning Shears 8 Inch HPS0109 ING-GT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HPS0109_21671e57-8529-485d-9b61-22fe231881d2.jpg?v=1756888618",
+      "width": 640,
+      "height": 640,
+      "bytes": 30548
+    },
+    "Hose Nozzle": {
+      "image": "assets/products/hose-nozzle.webp",
+      "source": "https://build4less.co.uk/products/hose-gun-water-sprayer-en56m",
+      "sourceTitle": "Hose Gun Water Sprayer EN56M",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/wl-en56m.png?v=1767778194",
+      "width": 614,
+      "height": 640,
+      "bytes": 20330
+    },
+    "Lopper": {
+      "image": "assets/products/lopper.webp",
+      "source": "https://build4less.co.uk/products/powergear-anvil-loppers-l31",
+      "sourceTitle": "PowerGear Anvil Loppers L31",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/FSK112170__22014.1622637244.jpg?v=1636440766",
+      "width": 400,
+      "height": 400,
+      "bytes": 4442
+    },
+    "Hedge Shears": {
+      "image": "assets/products/hedge-shears.webp",
+      "source": "https://build4less.co.uk/products/professional-hedge-shears",
+      "sourceTitle": "Professional Hedge Shears",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Professional_Hedge_Shears.png?v=1765973559",
+      "width": 600,
+      "height": 600,
+      "bytes": 5068
+    },
+    "Rake": {
+      "image": "assets/products/rake.webp",
+      "source": "https://build4less.co.uk/products/countryman-garden-rake",
+      "sourceTitle": "Countryman Garden Rake",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/FAICOUGR.jpg?v=1768465133",
+      "width": 600,
+      "height": 600,
+      "bytes": 11384
+    },
+    "Garden Hoe": {
+      "image": "assets/products/garden-hoe.webp",
+      "source": "https://build4less.co.uk/products/draper-stainless-steel-draw-hoe",
+      "sourceTitle": "Draper Stainless Steel Draw Hoe",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Heritage_Stainless_Steel_Draw_Hoe_with_Ash_Handle.jpg?v=1773042971",
+      "width": 600,
+      "height": 600,
+      "bytes": 2462
+    },
+    "Shovel": {
+      "image": "assets/products/shovel.webp",
+      "source": "https://build4less.co.uk/products/draper-solid-forged-square-mouth-shovel",
+      "sourceTitle": "Draper Solid Forged Square Mouth Shovel",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Solid_Forged_Square_Mouth_Shovel_-_Draper.jpg?v=1772986272",
+      "width": 600,
+      "height": 600,
+      "bytes": 8354
+    },
+    "Spade": {
+      "image": "assets/products/spade.webp",
+      "source": "https://build4less.co.uk/products/draper-all-steel-spade",
+      "sourceTitle": "Draper All Steel Spade",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_All_Steel_Spade_-_Draper.jpg?v=1772992511",
+      "width": 600,
+      "height": 600,
+      "bytes": 6646
+    },
+    "Garden Fork": {
+      "image": "assets/products/garden-fork.webp",
+      "source": "https://build4less.co.uk/products/draper-stainless-steel-garden-fork-with-soft-grip-all-sizes",
+      "sourceTitle": "Draper Stainless Steel Garden Fork with Soft Grip - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Extra_Long_Stainless_Steel_Garden_Fork_with_Soft_Grip_-_Draper.jpg?v=1773004691",
+      "width": 600,
+      "height": 600,
+      "bytes": 3320
+    },
+    "Hand Trowel": {
+      "image": "assets/products/hand-trowel.webp",
+      "source": "https://build4less.co.uk/products/evergreen-hand-trowel",
+      "sourceTitle": "Evergreen Hand Trowel",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Evergreen_Hand_Trowel.webp?v=1768294990",
+      "width": 600,
+      "height": 600,
+      "bytes": 7210
+    },
+    "Weeder": {
+      "image": "assets/products/weeder.webp",
+      "source": "https://build4less.co.uk/products/draper-stainless-steel-hand-weeder",
+      "sourceTitle": "Draper Stainless Steel Hand Weeder",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Heritage_Stainless_Steel_Hand_Weeder_With_Ash_Handle_-_Draper_Hand_Tools.jpg?v=1773044293",
+      "width": 600,
+      "height": 600,
+      "bytes": 11262
+    },
+    "Wheelbarrow": {
+      "image": "assets/products/wheelbarrow.webp",
+      "source": "https://build4less.co.uk/products/draper-galvanised-wheelbarrow",
+      "sourceTitle": "Draper Galvanised Wheelbarrow",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Galvanised_Wheelbarrow_-_65L_-_Draper.jpg?v=1772991371",
+      "width": 600,
+      "height": 600,
+      "bytes": 11790
+    },
+    "Garden Sprayer": {
+      "image": "assets/products/garden-sprayer.webp",
+      "source": "https://ingcostores.com/products/hspp41602-hspp42002-ingco-16l-20l-manual-knapsack-garden-disinfectant-sprayer-backpack-sprayer",
+      "sourceTitle": "16L-20L Manual Knapsack Garden Disinfectant Sprayer Backpack Sprayer ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HSPP41602.jpg?v=1756888023",
+      "width": 640,
+      "height": 640,
+      "bytes": 30454
+    },
+    "Axe": {
+      "image": "assets/products/axe.webp",
+      "source": "https://build4less.co.uk/products/standard-hand-axe",
+      "sourceTitle": "Standard Hand Axe",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Standard_Hand_Axe_-_Bahco.png?v=1766049757",
+      "width": 600,
+      "height": 600,
+      "bytes": 11014
+    },
+    "Measuring Tape": {
+      "image": "assets/products/measuring-tape.webp",
+      "source": "https://build4less.co.uk/products/measuring-tape-all-sizes",
+      "sourceTitle": "Measuring Tape - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Measuring_Tape_-_All_Sizes_-_Draper_Hand_Tools.jpg?v=1773047532",
+      "width": 600,
+      "height": 600,
+      "bytes": 17958
+    },
+    "Long Tape Measure": {
+      "image": "assets/products/long-tape-measure.webp",
+      "source": "https://build4less.co.uk/products/hultafors-long-tape-fibreglass-cc-f",
+      "sourceTitle": "Hultafors Long Tape Fibreglass CC F",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/391103_7b35f994-f14b-42cd-b98b-7e97cb523797.webp?v=1788868557",
+      "width": 640,
+      "height": 640,
+      "bytes": 10978
+    },
+    "Spirit Level": {
+      "image": "assets/products/spirit-level.webp",
+      "source": "https://build4less.co.uk/products/hultafors-spirit-level-aluminum-hv",
+      "sourceTitle": "Hultafors Spirit Level Aluminum HV",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/411001.jpg?v=1788868554",
+      "width": 640,
+      "height": 640,
+      "bytes": 6416
+    },
+    "Mini Spirit Level": {
+      "image": "assets/products/mini-spirit-level.webp",
+      "source": "https://ingcostores.com/products/ingco-hmsl01030-magnetic-mini-level-bar",
+      "sourceTitle": "Mini Spirit Level Bar with Magnet HMSL01030 ING-MT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HMSL01030_1f727c4e-8402-4649-ad34-c8fd1e4bc2f1.jpg?v=1771564533",
+      "width": 640,
+      "height": 640,
+      "bytes": 13222
+    },
+    "Machete": {
+      "image": "assets/products/machete.webp",
+      "source": "https://www.homedepot.com/p/325309627",
+      "sourceTitle": "Tramontina 21-Inch Carbon Steel Machete",
+      "originalImage": "https://images.thdstatic.com/productImages/cd8ba177-3ca5-4672-93c6-5339be8c25a5/svn/tramontina-machetes-26623-021-66_600.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 17188
+    },
+    "Try Square": {
+      "image": "assets/products/try-square.webp",
+      "source": "https://build4less.co.uk/products/draper-try-and-mitre-square",
+      "sourceTitle": "Draper Try and Mitre Square",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Try_and_Mitre_Square_x_150mm_-_Draper.jpg?v=1773013030",
+      "width": 600,
+      "height": 600,
+      "bytes": 15814
+    },
+    "Combination Square": {
+      "image": "assets/products/combination-square.webp",
+      "source": "https://build4less.co.uk/products/combination-square-all-sizes",
+      "sourceTitle": "Combination Square - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Combination_Square_-_All_Sizes_-_Bahco.png?v=1766064161",
+      "width": 600,
+      "height": 600,
+      "bytes": 15100
+    },
+    "Leaf Broom": {
+      "image": "assets/products/leaf-broom.webp",
+      "source": "https://www.homehardware.ca/en/garden-broom-with-wood-handle/p/4515887",
+      "sourceTitle": "Garden Broom with Wood Handle",
+      "originalImage": "https://homehardware.sirv.com/products/4515/4515887/%21garden-broom-with-wood-handle-home-hardware-a.jpg?q=50&thumbnail=610",
+      "width": 610,
+      "height": 610,
+      "bytes": 6812
+    },
+    "Vernier Caliper": {
+      "image": "assets/products/vernier-caliper.webp",
+      "source": "https://ingcostores.com/products/hvc01200-ingco-vernier-caliper-200mm",
+      "sourceTitle": "Vernier Caliper 200mm HVC01200 ING-MT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HVC01200.jpg?v=1756888447",
+      "width": 640,
+      "height": 640,
+      "bytes": 15768
+    },
+    "Digital Caliper": {
+      "image": "assets/products/digital-caliper.webp",
+      "source": "https://ingcostores.com/products/hdcd28150-ingco-digital-caliper",
+      "sourceTitle": "Digital Caliper HDCD28150 ING-MT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HDCD28150.jpg?v=1756888251",
+      "width": 640,
+      "height": 640,
+      "bytes": 18946
+    },
+    "Chalk Line": {
+      "image": "assets/products/chalk-line.webp",
+      "source": "https://build4less.co.uk/products/hultafors-clp30-chalk-line-30m-100ft",
+      "sourceTitle": "Hultafors CLP30 Chalk Line 30m (100ft)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/HULCLP30.jpg?v=1788867997",
+      "width": 640,
+      "height": 640,
+      "bytes": 11864
+    },
+    "Laser Distance Meter": {
+      "image": "assets/products/laser-distance-meter.webp",
+      "source": "https://ingcostores.com/products/ingco-laser-distance-detector-55m-hldd05086",
+      "sourceTitle": "Ingco Laser Distance Detector 55M HLDD05086",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HLDD05086.jpg?v=1776233766",
+      "width": 600,
+      "height": 640,
+      "bytes": 45548
+    },
+    "Laser Level": {
+      "image": "assets/products/laser-level.webp",
+      "source": "https://ingcostores.com/products/hlrl30051-ingco-self-leveling-rotary-laser-level-300m",
+      "sourceTitle": "Self-Leveling Rotary Laser Level 300m HLRL30051 ING-MT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HLRL30051.jpg?v=1756888963",
+      "width": 640,
+      "height": 640,
+      "bytes": 44160
+    },
+    "Plumb Bob": {
+      "image": "assets/products/plumb-bob.webp",
+      "source": "https://build4less.co.uk/products/plumb-bob-with-5m-approx-nylon-line",
+      "sourceTitle": "Plumb Bob With 5M (Approx ) Nylon Line",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Plumb_Bob_With_5M_Approx_Nylon_Line_-_Draper_Tools_and_Workwear.jpg?v=1772969624",
+      "width": 640,
+      "height": 640,
+      "bytes": 37428
+    },
+    "Steel Ruler": {
+      "image": "assets/products/steel-ruler.webp",
+      "source": "https://build4less.co.uk/products/hultafors-stainless-steel-ruler-300mm",
+      "sourceTitle": "Hultafors Stainless Steel Ruler 300mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/HUL554103.jpg?v=1788867878",
+      "width": 640,
+      "height": 640,
+      "bytes": 5162
+    },
+    "Angle Finder": {
+      "image": "assets/products/angle-finder.webp",
+      "source": "https://build4less.co.uk/products/stabila-tech-700-da-digital-electronic-angle-finder",
+      "sourceTitle": "Stabila TECH 700 DA digital electronic angle finder",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/18903-STD-TECH700DA-01_3fd1ed8d-2d3a-491e-9370-0fbca1897c7f.jpg?v=1788868431",
+      "width": 640,
+      "height": 640,
+      "bytes": 13082
+    },
+    "Folding Rule": {
+      "image": "assets/products/folding-rule.webp",
+      "source": "https://build4less.co.uk/products/stabila-dark-shadow-folding-rule",
+      "sourceTitle": "Stabila Dark Shadow Folding Rule",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/DSFoldingRule.jpg?v=1788868800",
+      "width": 640,
+      "height": 640,
+      "bytes": 12586
+    },
+    "Micrometer": {
+      "image": "assets/products/micrometer.webp",
+      "source": "https://www.fixtectools.com/Micrometer-pd40317189.html",
+      "sourceTitle": "FIXTEC 0–25 mm Micrometer Caliper",
+      "originalImage": "https://iqrorwxhrlmjli5q-static.micyjz.com/cloud/liBpnKqolmSRojioniokip/FHMM2501-800-800.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 27028
+    },
+    "Cutting Disc": {
+      "image": "assets/products/cutting-disc.webp",
+      "source": "https://ingcostores.com/products/mcd161801-ingco-super-select-7-inches-abrasive-metal-cutting-disc",
+      "sourceTitle": "7-Inches Abrasive Metal Cutting Disc MCD161801 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/MCD161801_db3aa96d-70a3-497b-891a-e67576e57ff1.jpg?v=1756888745",
+      "width": 500,
+      "height": 500,
+      "bytes": 39216
+    },
+    "Grinding Disc": {
+      "image": "assets/products/grinding-disc.webp",
+      "source": "https://ingcostores.com/products/ingco-abrasive-metal-grinding-disc-7inches-mgd601801",
+      "sourceTitle": "7 Inches Abrasive Metal Grinding Disc MGD601801 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/MCD301802_e87d1b27-03d8-4b1b-a56b-47f42affb1b7.jpg?v=1781679087",
+      "width": 640,
+      "height": 640,
+      "bytes": 45506
+    },
+    "Feeler Gauge": {
+      "image": "assets/products/feeler-gauge.webp",
+      "source": "https://www.faithfulltools.com/p/FAIAUFEELER/Metric-Feeler-Gauge---20-Blade-0.05--1.00mm",
+      "sourceTitle": "Faithfull Metric Feeler Gauge",
+      "originalImage": "https://www.faithfulltools.com/images/extralarge/FAIAUFEELER.jpg?1625739160",
+      "width": 640,
+      "height": 480,
+      "bytes": 26268
+    },
+    "Flap Disc": {
+      "image": "assets/products/flap-disc.webp",
+      "source": "https://ingcostores.com/products/ingco-fd1001-flap-sand-disc-sanding",
+      "sourceTitle": "Flap Sand Disc Sanding FD1001 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/FD1002.jpg?v=1756888651",
+      "width": 500,
+      "height": 500,
+      "bytes": 28688
+    },
+    "Sandpaper": {
+      "image": "assets/products/sandpaper.webp",
+      "source": "https://ingcostores.com/products/ingco-silicon-carbide-waterproof-sandpaper-size-230x280mm-grit-p60-p2000-50pcs-set-ing-ht",
+      "sourceTitle": "Silicon Carbide Waterproof Sandpaper Size:230x280mm Grit:P60-P2000 50pcs/Set ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AKHS006016.jpg?v=1780390253",
+      "width": 640,
+      "height": 640,
+      "bytes": 36138
+    },
+    "Sanding Disc": {
+      "image": "assets/products/sanding-disc.webp",
+      "source": "https://ingcostores.com/products/ingco-sanding-sheet-for-random-orbit-sander-6-5pcs-set-akrs150051",
+      "sourceTitle": "5Pcs / Set Sanding Sheet for Random Orbit Sander AKRS150051 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AKRS150051.jpg?v=1756889484",
+      "width": 640,
+      "height": 640,
+      "bytes": 70782
+    },
+    "Wire Cup Brush": {
+      "image": "assets/products/wire-cup-brush.webp",
+      "source": "https://ingcostores.com/products/wb30751ingc-o-wire-cup-brush-twisted-wire-with-nut-50mm2-75mm3",
+      "sourceTitle": "Wire Cup Brush 3 Inch WB30751 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/WB30751.jpg?v=1756888802",
+      "width": 500,
+      "height": 500,
+      "bytes": 17802
+    },
+    "Wire Wheel Brush": {
+      "image": "assets/products/wire-wheel-brush.webp",
+      "source": "https://build4less.co.uk/products/crimp-wire-wheel-brush-150mm-x-25-4mm",
+      "sourceTitle": "Crimp Wire Wheel Brush 150mm x 25.4mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/5019.0150.25_01.jpg?v=1628041243",
+      "width": 400,
+      "height": 400,
+      "bytes": 33230
+    },
+    "Tile Cutting Blade": {
+      "image": "assets/products/tile-cutting-blade.webp",
+      "source": "https://ingcostores.com/products/dmd031051ht-ingco-industrial-ultrathin-diamond-disc-wet-cutting-4-for-ceramic-tile-marble-brick",
+      "sourceTitle": "Industrial Ultrathin Diamond Disc Wet Cutting 4 Inch for Ceramic Tile Marble Brick DMD031051HT ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/d6d9630f1f1e1c203e68f0b6a5656b98.jpg?v=1756888474",
+      "width": 640,
+      "height": 639,
+      "bytes": 55012
+    },
+    "Diamond Blade": {
+      "image": "assets/products/diamond-blade.webp",
+      "source": "https://ingcostores.com/products/dmd044052-ingco-diamond-disc-16",
+      "sourceTitle": "Diamond Disc 16 Inch DMD044052 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/DMD044052-IMG3.jpg?v=1756888454",
+      "width": 640,
+      "height": 640,
+      "bytes": 32394
+    },
+    "Emery Paper": {
+      "image": "assets/products/emery-paper.webp",
+      "source": "https://prosolveproducts.com/product-range/abrasives/sanding-cloths/sanding-cloths-9x11-80-grit/",
+      "sourceTitle": "ProSolve Emery Cloth Sanding Sheets",
+      "originalImage": "https://prosolveproducts.com/Images/Product/Default/large/PVSC80.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 33640
+    },
+    "Wood Cutting Blade": {
+      "image": "assets/products/wood-cutting-blade.webp",
+      "source": "https://ingcostores.com/products/ingco-super-fine-tooth-tct-saw-blade-wood-for-circular-saw-9-1-4-60t-tsb123523",
+      "sourceTitle": "TCT Saw Blade for Circular Saw 9-1/4\" 60T TSB123523 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230302132600055_5151961857.jpg?v=1756889163",
+      "width": 640,
+      "height": 640,
+      "bytes": 41760
+    },
+    "Metal Cutting Blade": {
+      "image": "assets/products/metal-cutting-blade.webp",
+      "source": "https://build4less.co.uk/products/t123x-metal-cutting-jigsaw-blades-1199",
+      "sourceTitle": "T123X Metal cutting Jigsaw Blades 1199",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/t123x-metal-cutting-jigsaw-blades-1199-392588.jpg?v=1788948646",
+      "width": 640,
+      "height": 640,
+      "bytes": 5794
+    },
+    "Utility Knife Blades": {
+      "image": "assets/products/utility-knife-blades.webp",
+      "source": "https://ingcostores.com/products/hukb61001-ingco-10pcs-61-x-19mm-spare-blade-utility-knife-blades-set",
+      "sourceTitle": "10 Pcs 61 x 19mm Spare Blade Utility Knife Blades Set HUKB61001 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HUKB61001_fb3d52e0-4b02-4f82-975d-d4e59a15ddb5.jpg?v=1771565099",
+      "width": 640,
+      "height": 640,
+      "bytes": 12304
+    },
+    "Hole Saw": {
+      "image": "assets/products/hole-saw.webp",
+      "source": "https://ingcostores.com/products/ingco-33mm-83mm-carbide-gritted-hole-saw-hsb40-ing-ht",
+      "sourceTitle": "33mm-83mm Carbide Gritted Hole Saw HSB40",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HSB40831.jpg?v=1779669507",
+      "width": 640,
+      "height": 640,
+      "bytes": 31900
+    },
+    "Hacksaw Blade": {
+      "image": "assets/products/hacksaw-blade.webp",
+      "source": "https://build4less.co.uk/products/hultafors-12-hacksaw-spare-blade",
+      "sourceTitle": "Hultafors 12\" Hacksaw Spare blade",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/591340_532d6b88-96f1-42f5-90a5-dd4fcfc5d96f.jpg?v=1788868615",
+      "width": 640,
+      "height": 640,
+      "bytes": 5474
+    },
+    "Jigsaw Blades": {
+      "image": "assets/products/jigsaw-blades.webp",
+      "source": "https://build4less.co.uk/products/t118a-metal-cutting-jigsaw-blades-1188",
+      "sourceTitle": "T118A Metal Cutting Jigsaw blades - 1188",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/t118a-metal-cutting-jigsaw-blades-1188-113397.jpg?v=1788948683",
+      "width": 640,
+      "height": 640,
+      "bytes": 6578
+    },
+    "Sharpening Stone": {
+      "image": "assets/products/sharpening-stone.webp",
+      "source": "https://build4less.co.uk/products/hultafors-axe-grinding-stone",
+      "sourceTitle": "Hultafors Axe Grinding Stone",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/HUL840792.jpg?v=1788868125",
+      "width": 640,
+      "height": 640,
+      "bytes": 11510
+    },
+    "Grinding Stone": {
+      "image": "assets/products/grinding-stone.webp",
+      "source": "https://ingcostores.com/products/agw200-ingco-8inches-abrasive-bench-grinding-wheel-for-item-bg83502-5p",
+      "sourceTitle": "8inches Abrasive Bench Grinding Wheel For item BG83502-5P AGW200 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7r98w-lngf77qcq5pl83.jpg?v=1756887888",
+      "width": 640,
+      "height": 640,
+      "bytes": 47998
+    },
+    "Polishing Pad": {
+      "image": "assets/products/polishing-pad.webp",
+      "source": "https://ingcostores.com/products/app0201801-ingco-polishing-pad-with-flange-for-angle-polisher",
+      "sourceTitle": "Polishing Pad with Flange for Angle Polisher APP0201801 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/APP0201801_c30f2972-4493-41f6-9d64-febbdc2ada80.jpg?v=1756889121",
+      "width": 450,
+      "height": 450,
+      "bytes": 15646
+    },
+    "Abrasive Belt": {
+      "image": "assets/products/abrasive-belt.webp",
+      "source": "https://ingcostores.com/products/bsp020801-ingco-sanding-sheet-set-for-pbs12001-100x610-p80-2pcs-set",
+      "sourceTitle": "2 Pcs/Set Sanding Sheet Set for PBS12001 100x610 BSP020801 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/BSP020801-IMG2.jpg?v=1756888183",
+      "width": 640,
+      "height": 640,
+      "bytes": 20514
+    },
+    "Fibre Disc": {
+      "image": "assets/products/fibre-disc.webp",
+      "source": "https://build4less.co.uk/products/alu-oxide-fibre-disc-box-of-10-all-sizes",
+      "sourceTitle": "Alu Oxide Fibre Disc (Box of 10) - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/5012.0115.22-36_01.jpg?v=1628039261",
+      "width": 400,
+      "height": 400,
+      "bytes": 17598
+    },
+    "Cut-Off Wheel": {
+      "image": "assets/products/cut-off-wheel.webp",
+      "source": "https://ingcostores.com/products/mcd161801-ingco-super-select-7-inches-abrasive-metal-cutting-disc",
+      "sourceTitle": "7-Inches Abrasive Metal Cutting Disc MCD161801 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/MCD161801_db3aa96d-70a3-497b-891a-e67576e57ff1.jpg?v=1756888745",
+      "width": 500,
+      "height": 500,
+      "bytes": 39216
+    },
+    "Silicone Sealant": {
+      "image": "assets/products/silicone-sealant.webp",
+      "source": "https://glozzstore.co.za/SD33370_123975-SOUDAL-Universal-Silicone-Clear-270ml",
+      "sourceTitle": "Soudal Universal Silicone Clear 270ml",
+      "originalImage": "https://glozzstore.co.za/image/cache/data/products/gondolier/SD33370-550x550.png",
+      "width": 550,
+      "height": 550,
+      "bytes": 9384
+    },
+    "Acrylic Sealant": {
+      "image": "assets/products/acrylic-sealant.webp",
+      "source": "https://evtinmagazin.com/%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0-%D1%85%D0%B8%D0%BC%D0%B8%D1%8F-/1068-%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%D0%B5%D0%BD-%D1%83%D0%BF%D0%BB%D1%8A%D1%82%D0%BD%D0%B8%D1%82%D0%B5%D0%BB-akfix-ac605.html",
+      "sourceTitle": "Akfix AC605 Universal Acrylic Sealant",
+      "originalImage": "https://cdn.evtinmagazin.com/1971-large_default/%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%D0%B5%D0%BD-%D1%83%D0%BF%D0%BB%D1%8A%D1%82%D0%BD%D0%B8%D1%82%D0%B5%D0%BB-akfix-ac605.jpg",
+      "width": 640,
+      "height": 480,
+      "bytes": 8840
+    },
+    "Neutral Silicone": {
+      "image": "assets/products/neutral-silicone.webp",
+      "source": "https://cdmferreteria.com/silicona/465-silicona-neutra-blanco-310-ml.html",
+      "sourceTitle": "Soudal Silirub N Neutral Cure Silicone Sealant",
+      "originalImage": "https://cdmferreteria.com/469-large_default/silicona-neutra-blanco-310-ml.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 11366
+    },
+    "PU Sealant": {
+      "image": "assets/products/pu-sealant.webp",
+      "source": "https://slym.mv/products/akfix-p645",
+      "sourceTitle": "Akfix P645 PU Metal Sealant",
+      "originalImage": "https://slym.mv/cdn/shop/products/24_a6c6f1a6-dfe7-4b6c-b0ff-8cd58e5409af_1200x1200.png?v=1613657960",
+      "width": 640,
+      "height": 640,
+      "bytes": 14696
+    },
+    "PVC Glue": {
+      "image": "assets/products/pvc-glue.webp",
+      "source": "https://www.finolexpipes.com/product-inner-demo9/",
+      "sourceTitle": "Finolex Medium Duty PVC-U Solvent Cement",
+      "originalImage": "https://www.finolexpipes.com/site/assets/files/148577/finolex_pvc-u_md-3.png",
+      "width": 500,
+      "height": 528,
+      "bytes": 22494
+    },
+    "Super Glue": {
+      "image": "assets/products/super-glue.webp",
+      "source": "https://www.dunelm.com/product/gorilla-superglue-blue-15g-1000171240",
+      "sourceTitle": "Gorilla Super Glue 15g Packaging",
+      "originalImage": "https://images.dunelm.com/30709407.jpg?%24standardplayerdefault%24=&img404=noimagedefault",
+      "width": 580,
+      "height": 580,
+      "bytes": 28628
+    },
+    "Epoxy Adhesive": {
+      "image": "assets/products/epoxy-adhesive.webp",
+      "source": "https://aikchinhin.sg/products/alteco-epoxy-3-ton-a-b",
+      "sourceTitle": "Alteco 3-Ton Quick Epoxy Adhesive A+B",
+      "originalImage": "https://aikchinhin.sg/cdn/shop/products/alteco-3-ton-4min-quick-epoxy-adhesive-ab-model-epoxy3t-putty-alteco-384166_600x600_crop_center.jpg?v=1664195563",
+      "width": 600,
+      "height": 600,
+      "bytes": 52290
+    },
+    "Wood Glue": {
+      "image": "assets/products/wood-glue.webp",
+      "source": "https://www.screwfix.ie/p/gorilla-glue-wood-glue-236ml/43424",
+      "sourceTitle": "Gorilla Wood Glue 236ml",
+      "originalImage": "https://media.screwfix.ie/is/image/ae235/43424_P",
+      "width": 320,
+      "height": 640,
+      "bytes": 16270
+    },
+    "PU Foam": {
+      "image": "assets/products/pu-foam.webp",
+      "source": "https://build4less.co.uk/products/fix-fill-expanding-foam-filler",
+      "sourceTitle": "Fix & Fill Expanding Foam Filler",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/EVBEVFF7-800x800.jpg?v=1768400828",
+      "width": 600,
+      "height": 600,
+      "bytes": 17094
+    },
+    "Thread Seal Tape": {
+      "image": "assets/products/thread-seal-tape.webp",
+      "source": "https://build4less.co.uk/products/ptfe-tape-10m-roll",
+      "sourceTitle": "PTFE Tape 10m Roll",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/PTFE-001_6.jpg?v=1767778150",
+      "width": 640,
+      "height": 640,
+      "bytes": 4110
+    },
+    "Thread Sealant": {
+      "image": "assets/products/thread-sealant.webp",
+      "source": "https://www.kullagret.com/product/loctite-577-50ml-gangtatning",
+      "sourceTitle": "Loctite 577 Thread Sealant",
+      "originalImage": "https://cdn.starwebserver.se/shops/kullagret/files/pb-loctite-577-50ml-kullagret.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 20922
+    },
+    "Tile Grout": {
+      "image": "assets/products/tile-grout.webp",
+      "source": "https://build4less.co.uk/products/730-uniflex-hygienic-tile-grout",
+      "sourceTitle": "730 Uniflex Hygienic Tile Grout",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/P3949_730_Uniflex_5kg_WHITE_AW_1.webp?v=1710917680",
+      "width": 400,
+      "height": 400,
+      "bytes": 10346
+    },
+    "Tile Adhesive": {
+      "image": "assets/products/tile-adhesive.webp",
+      "source": "https://build4less.co.uk/products/waterproof-wall-tile-adhesive",
+      "sourceTitle": "Waterproof Wall Tile Adhesive",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/evostik-uk-waterproof-wall-adh-600x600_jpg.png?v=1710927124",
+      "width": 400,
+      "height": 400,
+      "bytes": 10760
+    },
+    "Masking Tape": {
+      "image": "assets/products/masking-tape.webp",
+      "source": "https://build4less.co.uk/products/masking-tape",
+      "sourceTitle": "Masking tape",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/harris-masking-tape-38mm.jpg?v=1789987097",
+      "width": 640,
+      "height": 415,
+      "bytes": 5038
+    },
+    "Duct Tape": {
+      "image": "assets/products/duct-tape.webp",
+      "source": "https://build4less.co.uk/products/draper-duct-tape-roll-30m-x-50mm-white",
+      "sourceTitle": "Draper Duct Tape Roll - 30m x 50mm - White",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Duct_Tape_Roll_-_30m_x_50mm_-_White_-_Draper.jpg?v=1773034631",
+      "width": 600,
+      "height": 600,
+      "bytes": 21664
+    },
+    "Masonry Trowel": {
+      "image": "assets/products/masonry-trowel.webp",
+      "source": "https://ingcostores.com/products/hbt818-ingco-bricklaying-trowel",
+      "sourceTitle": "Bricklaying Trowel HBT818 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HBT818_e1fc2bce-ac02-497c-837d-a483892d8ad9.jpg?v=1756888888",
+      "width": 640,
+      "height": 640,
+      "bytes": 24022
+    },
+    "Pointing Trowel": {
+      "image": "assets/products/pointing-trowel.webp",
+      "source": "https://build4less.co.uk/products/marshalltown-london-pointing-trowel-durasoft-handle",
+      "sourceTitle": "Marshalltown London Pointing Trowel DuraSoft Handle",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/973673-m46115d-2-3-800.jpg?v=1788867940",
+      "width": 640,
+      "height": 640,
+      "bytes": 8110
+    },
+    "Brick Trowel": {
+      "image": "assets/products/brick-trowel.webp",
+      "source": "https://ingcostores.com/products/hbt718-ingco-bricklaying-trowel",
+      "sourceTitle": "Bricklaying Trowel HBT718 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HBT718.jpg?v=1756888891",
+      "width": 640,
+      "height": 640,
+      "bytes": 16870
+    },
+    "Gasket Maker": {
+      "image": "assets/products/gasket-maker.webp",
+      "source": "https://www.hongteckhin.com.sg/products/permatex-80022-sensor-safe-blue-rtv-silicone-3oz",
+      "sourceTitle": "Permatex Blue RTV Silicone Gasket Maker",
+      "originalImage": "https://www.hongteckhin.com.sg/cdn/shop/products/81348RUI5nL._SL1500.jpg?v=1687490880&width=2048",
+      "width": 640,
+      "height": 640,
+      "bytes": 30916
+    },
+    "Bucket Trowel": {
+      "image": "assets/products/bucket-trowel.webp",
+      "source": "https://build4less.co.uk/products/soft-grip-bucket-trowel-140mm-1",
+      "sourceTitle": "Soft Grip Bucket Trowel (140mm)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Soft_Grip_Bucket_Trowel_140mm.jpg?v=1773046871",
+      "width": 600,
+      "height": 600,
+      "bytes": 11292
+    },
+    "Plastering Trowel": {
+      "image": "assets/products/plastering-trowel.webp",
+      "source": "https://build4less.co.uk/products/draper-redline-soft-grip-450mm-plastering-trowel",
+      "sourceTitle": "Draper Soft Grip Plastering Trowel",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Redline_Soft_Grip_Plastering_Trowel_-_Draper.jpg?v=1773022991",
+      "width": 600,
+      "height": 600,
+      "bytes": 11162
+    },
+    "Sponge Float": {
+      "image": "assets/products/sponge-float.webp",
+      "source": "https://build4less.co.uk/products/sponge-float-280-x-115mm",
+      "sourceTitle": "Sponge Float 280 x 115mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/FAISPOFLOAT.jpg?v=1768463095",
+      "width": 600,
+      "height": 600,
+      "bytes": 16166
+    },
+    "Brick Hammer": {
+      "image": "assets/products/brick-hammer.webp",
+      "source": "https://build4less.co.uk/products/picard-leather-grip-brick-hammer",
+      "sourceTitle": "Picard Leather Grip Brick Hammer",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/PC0076190-500_1.jpg?v=1788868739",
+      "width": 520,
+      "height": 520,
+      "bytes": 6422
+    },
+    "Club Hammer": {
+      "image": "assets/products/club-hammer.webp",
+      "source": "https://build4less.co.uk/products/1-0kg-club-hammer",
+      "sourceTitle": "1.0kg Club Hammer",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/1.0kg_Club_Hammer_-_Draper_Hand_Tools.jpg?v=1773049631",
+      "width": 600,
+      "height": 600,
+      "bytes": 11828
+    },
+    "Plaster Float": {
+      "image": "assets/products/plaster-float.webp",
+      "source": "https://www.masterhaus.bg/bg/product/6660-malamashka-plastmasa-28-h-14sm-pik-tools",
+      "sourceTitle": "PIK TOOLS Plastic Plastering Float",
+      "originalImage": "https://www.masterhaus.bg/files/products/08/06/06/0806060025new.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 10944
+    },
+    "Bolster Chisel": {
+      "image": "assets/products/bolster-chisel.webp",
+      "source": "https://build4less.co.uk/products/draper-bolster-and-chisel-3-piece",
+      "sourceTitle": "Draper Bolster and Chisel (3 Piece)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Bolster_and_Chisel_3_Piece_-_Draper.jpg?v=1772986151",
+      "width": 600,
+      "height": 600,
+      "bytes": 16198
+    },
+    "Cold Chisel": {
+      "image": "assets/products/cold-chisel.webp",
+      "source": "https://build4less.co.uk/products/bon-tool-cold-chisel",
+      "sourceTitle": "Bon Tool Cold Chisel",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/84-739.jpg?v=1770421755",
+      "width": 640,
+      "height": 640,
+      "bytes": 9928
+    },
+    "Jointing Tool": {
+      "image": "assets/products/jointing-tool.webp",
+      "source": "https://build4less.co.uk/products/marshalltown-brick-jointer",
+      "sourceTitle": "Marshalltown Brick Jointer",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/M80.jpg?v=1788868370",
+      "width": 600,
+      "height": 600,
+      "bytes": 6100
+    },
+    "Putty Knife": {
+      "image": "assets/products/putty-knife.webp",
+      "source": "https://ingcostores.com/products/hput686075-ingco-putty-trowel-75mm",
+      "sourceTitle": "Putty Trowel 75mm HPUT686075 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HPUT686075_ad3f0f57-4d92-4d6a-aabc-ab7dddff7955.jpg?v=1756888363",
+      "width": 640,
+      "height": 640,
+      "bytes": 26704
+    },
+    "Masonry Line": {
+      "image": "assets/products/masonry-line.webp",
+      "source": "https://build4less.co.uk/products/bon-tool-braided-nylon-flecked-line",
+      "sourceTitle": "Bon Tool Braided Nylon Flecked Line",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/81-235.jpg?v=1770446358",
+      "width": 640,
+      "height": 640,
+      "bytes": 39930
+    },
+    "Line Pins": {
+      "image": "assets/products/line-pins.webp",
+      "source": "https://build4less.co.uk/products/160mm-forge-steel-line-pin-set",
+      "sourceTitle": "160mm Forge Steel Line Pin Set",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/54261_160mmForgeSteelLinePinSet.jpg?v=1615453681",
+      "width": 640,
+      "height": 640,
+      "bytes": 11270
+    },
+    "Concrete Edger": {
+      "image": "assets/products/concrete-edger.webp",
+      "source": "https://build4less.co.uk/products/bon-tool-concrete-highway-edger-comfort-wave-handle",
+      "sourceTitle": "Bon Tool Concrete Highway Edger - Comfort Wave Handle",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/62-451.jpg?v=1788868309",
+      "width": 640,
+      "height": 640,
+      "bytes": 8076
+    },
+    "Concrete Groover": {
+      "image": "assets/products/concrete-groover.webp",
+      "source": "https://build4less.co.uk/products/bon-tool-aluminium-concrete-groover-wood-handle",
+      "sourceTitle": "Bon Tool Aluminium Concrete Groover - Wood Handle",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/22-252.jpg?v=1773092594",
+      "width": 640,
+      "height": 640,
+      "bytes": 9238
+    },
+    "Mixing Paddle": {
+      "image": "assets/products/mixing-paddle.webp",
+      "source": "https://build4less.co.uk/products/mixing-paddle-80-x-400mm",
+      "sourceTitle": "Mixing Paddle 80 x 400mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/FAIMP80.jpg?v=1636544214",
+      "width": 400,
+      "height": 400,
+      "bytes": 6264
+    },
+    "Hand Tamper": {
+      "image": "assets/products/hand-tamper.webp",
+      "source": "https://www.manomano.it/p/costipatore-per-terreni-115-kg-in-acciaio-con-piastra-di-base-di-20x20cm-e-impugnatura-a-t-16924621",
+      "sourceTitle": "Manual Soil Tamper",
+      "originalImage": "https://cdn.manomano.com/images/images_products/1240384/L/17269572_1.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 4980
+    },
+    "Inverter Welder": {
+      "image": "assets/products/inverter-welder.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-igbt-inverter-technology-mma-welding-machine-160a-ing-mma16015-ing-pt",
+      "sourceTitle": "Ingco IGBT Inverter Technology MMA Welding Machine 160A ING-MMA16015 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0q-mcufhyyaj3am66.jpg?v=1756886928",
+      "width": 640,
+      "height": 640,
+      "bytes": 42400
+    },
+    "MIG Welder": {
+      "image": "assets/products/mig-welder.webp",
+      "source": "https://www.inversionesgenerales.com.pe/product/maquina-de-soldar-mig-flux-ingco",
+      "sourceTitle": "Ingco Inverter MIG Flux Welding Machine",
+      "originalImage": "https://dojiw2m9tvv09.cloudfront.net/48473/product/productos34-50958070.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 32532
+    },
+    "Electrode Holder": {
+      "image": "assets/products/electrode-holder.webp",
+      "source": "https://supplymaster.store/products/ingco-electrode-holder-300a-wah3008",
+      "sourceTitle": "Ingco 300A Electrode Holder WAH3008",
+      "originalImage": "https://supplymaster.store/cdn/shop/files/ingco-ingco-electrode-holder-300a-wah3008-welding-machine-accessories-1152884150.png?v=1743465712&width=1214",
+      "width": 640,
+      "height": 640,
+      "bytes": 16274
+    },
+    "Earth Clamp": {
+      "image": "assets/products/earth-clamp.webp",
+      "source": "https://indianagencies.co.in/shop/view/esab-heavy-duty-earth-clamp-600amp",
+      "sourceTitle": "ESAB Heavy Duty Earth Clamp 600 A",
+      "originalImage": "https://indianagencies.co.in/uploads/product/cover/191.jpg",
+      "width": 640,
+      "height": 540,
+      "bytes": 31442
+    },
+    "Welding Rods": {
+      "image": "assets/products/welding-rods.webp",
+      "source": "https://www.toolcraft.co.za/products/matweld-rod-cast-iron-99-3-15mm-1kg",
+      "sourceTitle": "MATWeld | Welding Rods Cast Iron 99% 3.15mm 1kg",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/MATWeld-Welding-Rods-Cast-Iron-99-3_15mm-1kg.png?v=1729605818",
+      "width": 640,
+      "height": 640,
+      "bytes": 7118
+    },
+    "Welding Helmet": {
+      "image": "assets/products/welding-helmet.webp",
+      "source": "https://www.toolcraft.co.za/products/matweld-helmet-welding-flip-front",
+      "sourceTitle": "MATWeld | Helmet Welding Flip Front",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/MATWeld-Helmet-Welding-Flip-Front.jpg?v=1729604601",
+      "width": 225,
+      "height": 225,
+      "bytes": 2738
+    },
+    "Welding Machine": {
+      "image": "assets/products/welding-machine.webp",
+      "source": "https://ingco.ge/en/welding-machine/welding-machine-metal-ing-mma16015",
+      "sourceTitle": "INGCO IGBT Inverter Welding Machine",
+      "originalImage": "https://ingco.ge/images/thumbs/0037973_shedughebis-aparati-litonis-ingcoing-mma16015_600.png",
+      "width": 600,
+      "height": 600,
+      "bytes": 24332
+    },
+    "Welding Goggles": {
+      "image": "assets/products/welding-goggles.webp",
+      "source": "https://ingcostores.com/products/ingco-welding-goggles-mask-helmet",
+      "sourceTitle": "Welding Goggles Mask Helmet HSGW01 ING-SE",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HSGW01.jpg?v=1771572533",
+      "width": 640,
+      "height": 640,
+      "bytes": 31066
+    },
+    "Bench Vice": {
+      "image": "assets/products/bench-vice.webp",
+      "source": "https://build4less.co.uk/products/draper-bench-vice",
+      "sourceTitle": "Draper Bench Vice",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Bench_Vice_-_150mm_-_Draper.jpg?v=1773023951",
+      "width": 600,
+      "height": 600,
+      "bytes": 28948
+    },
+    "G-Clamp": {
+      "image": "assets/products/g-clamp.webp",
+      "source": "https://ingcostores.com/products/ingco-g-clamp-cast-iron-100mm-125mm-150mm-hgc0104",
+      "sourceTitle": "G-Clamp HGC0104 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HGC0104_63df25bf-731b-4cc8-8f2a-0ecb2f94c72e.jpg?v=1756889491",
+      "width": 640,
+      "height": 640,
+      "bytes": 34320
+    },
+    "C-Clamp": {
+      "image": "assets/products/c-clamp.webp",
+      "source": "https://ingcostores.com/products/ingco-g-clamp-cast-iron-100mm-125mm-150mm-hgc0104",
+      "sourceTitle": "G-Clamp HGC0104 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HGC0104_63df25bf-731b-4cc8-8f2a-0ecb2f94c72e.jpg?v=1756889491",
+      "width": 640,
+      "height": 640,
+      "bytes": 34320
+    },
+    "Magnetic Welding Holder": {
+      "image": "assets/products/magnetic-welding-holder.webp",
+      "source": "https://ingcostores.com/products/ingco-multi-angle-magnetic-welding-holder-50lbs-amwh50042",
+      "sourceTitle": "Multi-Angle Magnetic Welding Holder 50lbs AMWH50042 ING-MT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AMWH50042.jpg?v=1756889018",
+      "width": 640,
+      "height": 640,
+      "bytes": 31092
+    },
+    "Ball Pein Hammer": {
+      "image": "assets/products/ball-pein-hammer.webp",
+      "source": "https://ingcostores.com/products/ingco-ball-peen-hammer-48oz-1300g-fiberglass-handle-hammer-tool-hbph88048",
+      "sourceTitle": "Ball Peen Hammer 1300g HBPH88048 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HBPH88048copy.jpg?v=1756889633",
+      "width": 640,
+      "height": 640,
+      "bytes": 18884
+    },
+    "Metal File Set": {
+      "image": "assets/products/metal-file-set.webp",
+      "source": "https://www.gz-supplies.com/5pcs-steel-file-set-ingco-hktfs0508/",
+      "sourceTitle": "INGCO 5-Piece Steel File Set",
+      "originalImage": "https://cdn11.bigcommerce.com/s-x3ki4mm/images/stencil/608x608/products/1484/2213/5pcs_Steel_File_Set_INGCO_HKTFS0508__47383.1640121604.png?c=2",
+      "width": 512,
+      "height": 512,
+      "bytes": 21180
+    },
+    "Wire Brush": {
+      "image": "assets/products/wire-brush.webp",
+      "source": "https://ingcostores.com/products/wb21002-ingco-wire-brush",
+      "sourceTitle": "Wire Brush WB21002 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/WB21002-IMG3.jpg?v=1756888480",
+      "width": 640,
+      "height": 640,
+      "bytes": 18190
+    },
+    "Centre Punch": {
+      "image": "assets/products/centre-punch.webp",
+      "source": "https://www.faithfulltools.com/p/FAICPAUTO/Automatic-Centre-Punch",
+      "sourceTitle": "Faithfull Automatic Centre Punch",
+      "originalImage": "https://www.faithfulltools.com/images/xxlarge/FAICPAUTO.jpg",
+      "width": 640,
+      "height": 480,
+      "bytes": 12880
+    },
+    "Work Light": {
+      "image": "assets/products/work-light.webp",
+      "source": "https://ingcostores.com/products/hwl36008li-ingco-work-lamp",
+      "sourceTitle": "Work Lamp HWL36008LI ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWL36008LI.jpg?v=1756888170",
+      "width": 636,
+      "height": 640,
+      "bytes": 18730
+    },
+    "Air Blow Gun": {
+      "image": "assets/products/air-blow-gun.webp",
+      "source": "https://ingcostores.com/products/ingco-air-blower-gun-16mm-80mm-long-nozzle-and-w-out-nozzle",
+      "sourceTitle": "Air Blower Gun 16mm & 80mm Long Nozzle and w/out Nozzle ING-SP",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ABG081-3.jpg?v=1780646408",
+      "width": 640,
+      "height": 640,
+      "bytes": 15968
+    },
+    "Grease Gun": {
+      "image": "assets/products/grease-gun.webp",
+      "source": "https://ingcostores.com/products/ingco-grease-gun-400cc-grg015001",
+      "sourceTitle": "Grease Gun 400CC GRG015001 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/GRG015001.jpg?v=1756889456",
+      "width": 640,
+      "height": 640,
+      "bytes": 34174
+    },
+    "Tool Box": {
+      "image": "assets/products/tool-box.webp",
+      "source": "https://ingcostores.com/products/pbx1702-ingco-plastic-super-hard-tool-box-case-organizer-with-removable-tray",
+      "sourceTitle": "Plastic Tool Box 17 Inch PBX1702 ING-TS",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230304164517534_0612260787.jpg?v=1756888828",
+      "width": 640,
+      "height": 640,
+      "bytes": 20778
+    },
+    "Drill Bit Set": {
+      "image": "assets/products/drill-bit-set.webp",
+      "source": "https://ingcostores.com/products/ingco-akdb0801-8pcs-hss-twist-drill-bits-set",
+      "sourceTitle": "8 Pcs HSS Twist Drill Bits Set AKDB0801 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230306134304878_0878293784.jpg?v=1756888701",
+      "width": 640,
+      "height": 640,
+      "bytes": 30746
+    },
+    "Extension Reel": {
+      "image": "assets/products/extension-reel.webp",
+      "source": "https://lincos.shop/en/product/4664-W-98879",
+      "sourceTitle": "Extension Cord Reel with Thermal Protection",
+      "originalImage": "https://cdn.lincos.io/p/53373.jpg?height=1000&quality=80&width=1000",
+      "width": 640,
+      "height": 640,
+      "bytes": 24660
+    },
+    "HSS Drill Bits": {
+      "image": "assets/products/hss-drill-bits.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-hss-drill-bit-1-4-to-11-64-sold-per-piece-ing-ht",
+      "sourceTitle": "Ingco HSS Drill Bit DBT120 (IHT)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/DBT1204014.jpg?v=1779785658",
+      "width": 640,
+      "height": 640,
+      "bytes": 27218
+    },
+    "Masonry Bits": {
+      "image": "assets/products/masonry-bits.webp",
+      "source": "https://www.toolcraft.co.za/products/total-drill-bit-set-5pc-masonry",
+      "sourceTitle": "TOTAL | Drill Bit Set 5Pc Masonry TACSD5055",
+      "originalImage": "https://cdn.shopify.com/s/files/1/1382/7397/files/TOTAL-Drill-Bit-Set-5Pc-Masonry.jpg?v=1729299982",
+      "width": 326,
+      "height": 640,
+      "bytes": 26812
+    },
+    "Wood Drill Bits": {
+      "image": "assets/products/wood-drill-bits.webp",
+      "source": "https://ingcostores.com/products/akdl1201-ingco-12pcs-flat-wood-drill-bits-set",
+      "sourceTitle": "12 Pcs Flat Wood Drill Bits Set AKDL1201 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/AKDL1201-IMG3.jpg?v=1756888609",
+      "width": 640,
+      "height": 640,
+      "bytes": 31698
+    },
+    "Spade Bits": {
+      "image": "assets/products/spade-bits.webp",
+      "source": "https://ingcostores.com/products/akdl1201-ingco-12pcs-flat-wood-drill-bits-set",
+      "sourceTitle": "12 Pcs Flat Wood Drill Bits Set AKDL1201 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/AKDL1201-IMG3.jpg?v=1756888609",
+      "width": 640,
+      "height": 640,
+      "bytes": 31698
+    },
+    "SDS Plus Bits": {
+      "image": "assets/products/sds-plus-bits.webp",
+      "source": "https://ingcostores.com/products/dbh1211002-ingco-10mm-x-100mm-x-160mm-sds-plus-drill-bit",
+      "sourceTitle": "SDS Plus Drill Bit DBH1211002 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/DBH1211002.jpg?v=1756888841",
+      "width": 640,
+      "height": 640,
+      "bytes": 23946
+    },
+    "Screwdriver Bit Set": {
+      "image": "assets/products/screwdriver-bit-set.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-30pieces-interchangeable-screwdriver-bits-set-akisd3001-ing-ht",
+      "sourceTitle": "Ingco 30Pieces Interchangeable Screwdriver Bits Set AKISD3001 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0g-mcx8zssss2um26.jpg?v=1756886917",
+      "width": 640,
+      "height": 640,
+      "bytes": 38732
+    },
+    "Countersink Bit": {
+      "image": "assets/products/countersink-bit.webp",
+      "source": "https://ingcostores.com/products/dbcs0031-ingco-countersink-bit-set-hss-3pcs-12mm-16mm-19mm-angle-90",
+      "sourceTitle": "3 Pcs / Set Countersink Bit Set HSS DBCS0031 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/DBCS0031_93355f1b-d372-469d-b835-0bef8af2c013.jpg?v=1756889125",
+      "width": 450,
+      "height": 450,
+      "bytes": 7348
+    },
+    "Hole Saw Kit": {
+      "image": "assets/products/hole-saw-kit.webp",
+      "source": "https://build4less.co.uk/products/draper-plumbers-hole-saw-kit-13-piece",
+      "sourceTitle": "Draper Plumbers Hole Saw Kit (13 Piece)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Draper_Plumbers_Hole_Saw_Kit_13_Piece_-_Draper.jpg?v=1772989754",
+      "width": 600,
+      "height": 600,
+      "bytes": 26414
+    },
+    "Jigsaw Blade Set": {
+      "image": "assets/products/jigsaw-blade-set.webp",
+      "source": "https://ingcostores.com/products/akd8088-ingco-8pcs-set-jigsaw-jig-saw-blade-set-for-metal-and-wood",
+      "sourceTitle": "8 Pcs / Set Jigsaw Blade Set For Metal and Wood AKD8088 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AKD8088.jpg?v=1756889114",
+      "width": 500,
+      "height": 384,
+      "bytes": 11300
+    },
+    "Reciprocating Saw Blades": {
+      "image": "assets/products/reciprocating-saw-blades.webp",
+      "source": "https://build4less.co.uk/products/reciprocating-saw-blade-set-6-pieces",
+      "sourceTitle": "Reciprocating Saw Blade Set (6 Pieces)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/DEWDT2444QZ.jpg?v=1638796025",
+      "width": 400,
+      "height": 400,
+      "bytes": 12460
+    },
+    "Nut Setter Bits": {
+      "image": "assets/products/nut-setter-bits.webp",
+      "source": "https://www.bilalexpres.com/en/ingco-amn1331-3lu-somun-adaptor-seti13mm-1948",
+      "sourceTitle": "Ingco 3-Piece Magnetic Nut Adapter Set",
+      "originalImage": "https://static.ticimax.cloud/4985/uploads/urunresimleri/buyuk/ingcoingco-amn1331-3lu-somun-adaptor-s-6b3e05.png",
+      "width": 640,
+      "height": 347,
+      "bytes": 6472
+    },
+    "Wire Brush Wheel": {
+      "image": "assets/products/wire-brush-wheel.webp",
+      "source": "https://build4less.co.uk/products/crimp-wire-wheel-brush-150mm-x-25-4mm",
+      "sourceTitle": "Crimp Wire Wheel Brush 150mm x 25.4mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/5019.0150.25_01.jpg?v=1628041243",
+      "width": 400,
+      "height": 400,
+      "bytes": 33230
+    },
+    "Grinding Wheel": {
+      "image": "assets/products/grinding-wheel.webp",
+      "source": "https://ingcostores.com/products/agw150602-ingco-6inches-abrasive-bench-grinding-wheels-for-item-bg61502",
+      "sourceTitle": "6inches Abrasive Bench Grinding Wheels For item BG61502 AGW150602 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7r98u-lngf77qcnckp5c.jpg?v=1756887878",
+      "width": 640,
+      "height": 640,
+      "bytes": 47998
+    },
+    "Circular Saw Blade": {
+      "image": "assets/products/circular-saw-blade.webp",
+      "source": "https://ingcostores.com/products/ingco-super-fine-tooth-tct-saw-blade-wood-for-circular-saw-9-1-4-60t-tsb123523",
+      "sourceTitle": "TCT Saw Blade for Circular Saw 9-1/4\" 60T TSB123523 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230302132600055_5151961857.jpg?v=1756889163",
+      "width": 640,
+      "height": 640,
+      "bytes": 41760
+    },
+    "Sanding Pad": {
+      "image": "assets/products/sanding-pad.webp",
+      "source": "https://build4less.co.uk/products/key-blades-and-fixings-starlock-sanding-pad-perforated",
+      "sourceTitle": "Key Blades and Fixings STARLOCK Sanding Pad perforated",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/key_blades_001.jpg?v=1788948647",
+      "width": 640,
+      "height": 640,
+      "bytes": 15388
+    },
+    "Polishing Bonnet": {
+      "image": "assets/products/polishing-bonnet.webp",
+      "source": "https://ingcostores.com/products/ap14008-2-a-ingco-polishing-bonnet",
+      "sourceTitle": "Polishing Bonnet AP14008-2-A ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/AP14008-2-A-IMG3.jpg?v=1756888240",
+      "width": 640,
+      "height": 640,
+      "bytes": 12148
+    },
+    "Drill Chuck": {
+      "image": "assets/products/drill-chuck.webp",
+      "source": "https://ingcostores.com/products/ingco-aaa52501201-drill-chuck-10mm-for-cidli12206-12v-20nm-cordless-impact-drill-ing-sp",
+      "sourceTitle": "INGCO AAA52501201 Drill Chuck 10mm",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/ph-11134207-7ra0r-mdh6mqes38tv62.jpg?v=1762933556",
+      "width": 640,
+      "height": 640,
+      "bytes": 27664
+    },
+    "Sanding Sheets": {
+      "image": "assets/products/sanding-sheets.webp",
+      "source": "https://ingcostores.com/products/ingco-sanding-sheet-for-random-orbit-sander-6-5pcs-set-akrs150051",
+      "sourceTitle": "5Pcs / Set Sanding Sheet for Random Orbit Sander AKRS150051 ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AKRS150051.jpg?v=1756889484",
+      "width": 640,
+      "height": 640,
+      "bytes": 70782
+    },
+    "Chuck Key": {
+      "image": "assets/products/chuck-key.webp",
+      "source": "https://ingcostores.com/products/ingco-drill-chuck-key-13mm",
+      "sourceTitle": "Drill Chuck Key 13mm CK1301 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230228143122480_4704881340.jpg?v=1756889468",
+      "width": 640,
+      "height": 640,
+      "bytes": 24520
+    },
+    "Battery Pack": {
+      "image": "assets/products/battery-pack.webp",
+      "source": "https://ingcostores.com/products/p20s-20v-lithium-ion-battery-pack-20v-fbli20011",
+      "sourceTitle": "Ingco P20S 20V Lithium-Ion Battery Pack 20V FBLI20011",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/FBLI20011_02141f10-28e0-43bb-a667-8e084e77a6e6.jpg?v=1758333877",
+      "width": 640,
+      "height": 640,
+      "bytes": 32332
+    },
+    "Battery Charger": {
+      "image": "assets/products/battery-charger.webp",
+      "source": "https://ingcostores.com/products/fcli20411-fast-charger-20volt-4-amp-ingco",
+      "sourceTitle": "Ingco P20S/20V Fast Intelligent Battery Charger",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/FCLI20411_101414aa-3d12-4cdc-9f2d-7c71afbbbdb7.jpg?v=1761808458",
+      "width": 640,
+      "height": 640,
+      "bytes": 21696
+    },
+    "Tenon Saw": {
+      "image": "assets/products/tenon-saw.webp",
+      "source": "https://build4less.co.uk/products/tenon-saw-12-tpi",
+      "sourceTitle": "Tenon Saw 12 TPI",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/JAK10507424.jpg?v=1768824619",
+      "width": 600,
+      "height": 600,
+      "bytes": 12394
+    },
+    "Hand Saw": {
+      "image": "assets/products/hand-saw.webp",
+      "source": "https://ingcostores.com/products/hhas15450-ingco-industrial-hand-saw-18inches450mm-0-9mm-7tpi",
+      "sourceTitle": "Hand Saw 18 Inch 7 TPI HHAS15450 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HHAS15450.jpg?v=1756888632",
+      "width": 640,
+      "height": 640,
+      "bytes": 31610
+    },
+    "Coping Saw": {
+      "image": "assets/products/coping-saw.webp",
+      "source": "https://build4less.co.uk/products/coping-saw",
+      "sourceTitle": "Coping Saw",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Coping_Saw_165mm_6.1_2in_-_Bahco.png?v=1766056962",
+      "width": 600,
+      "height": 600,
+      "bytes": 5744
+    },
+    "Block Plane": {
+      "image": "assets/products/block-plane.webp",
+      "source": "https://build4less.co.uk/products/block-plane-with-pouch",
+      "sourceTitle": "Block Plane with Pouch",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/No.9._-_1_2_Block_Plane_with_Pouch_-_Stanley.webp?v=1773143091",
+      "width": 600,
+      "height": 600,
+      "bytes": 21942
+    },
+    "Wood Plane": {
+      "image": "assets/products/wood-plane.webp",
+      "source": "https://ingcostores.com/products/ingco-block-plane-250mm-hbp02250",
+      "sourceTitle": "Block Plane 250mm HBP02250 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HBP02250.jpg?v=1756889598",
+      "width": 640,
+      "height": 640,
+      "bytes": 31268
+    },
+    "Wood Chisel Set": {
+      "image": "assets/products/wood-chisel-set.webp",
+      "source": "https://ingcostores.com/products/ingco-wood-chisel-4pcs-set-cr-v-hktwc0401",
+      "sourceTitle": "4 Pcs / Set Wood Chisel Cr-V HKTWC0401 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HKTWC0401.jpg?v=1756889440",
+      "width": 640,
+      "height": 640,
+      "bytes": 43276
+    },
+    "Mortise Chisel": {
+      "image": "assets/products/mortise-chisel.webp",
+      "source": "https://www.carbatec.com.au/products/narex-richter-mortise-chisel-5-16-8mm",
+      "sourceTitle": "Narex Richter Mortise Chisel 5/16\" (8mm)",
+      "originalImage": "https://www.carbatec.com.au/cdn/shop/files/NRX-815108_02.jpg?v=1758779630&width=1445",
+      "width": 640,
+      "height": 640,
+      "bytes": 6502
+    },
+    "F-Clamp": {
+      "image": "assets/products/f-clamp.webp",
+      "source": "https://ingcostores.com/products/hfc020802-ingco-f-clamp-with-rubber-handle",
+      "sourceTitle": "F-Clamp with Rubber Handle HFC020802 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230308083849134_2079801495.jpg?v=1756888406",
+      "width": 640,
+      "height": 640,
+      "bytes": 15700
+    },
+    "Carpenter Pencil": {
+      "image": "assets/products/carpenter-pencil.webp",
+      "source": "https://build4less.co.uk/products/bon-tool-carpenter-pencil-blue-casing-hard-black-lead-34-338-single-pencil",
+      "sourceTitle": "Bon Tool Carpenter Pencil - Blue Casing Hard Black Lead 34-338 (Single Pencil)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/34-338_dd46f40b-b27e-4c41-a2cb-af8524d6e4e8.jpg?v=1770439515",
+      "width": 640,
+      "height": 640,
+      "bytes": 27394
+    },
+    "Marking Gauge": {
+      "image": "assets/products/marking-gauge.webp",
+      "source": "https://build4less.co.uk/products/marking-gauge",
+      "sourceTitle": "Marking Gauge",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/MAR2049.jpg?v=1769001223",
+      "width": 600,
+      "height": 600,
+      "bytes": 7860
+    },
+    "Nail Puller": {
+      "image": "assets/products/nail-puller.webp",
+      "source": "https://build4less.co.uk/products/estwing-nail-puller",
+      "sourceTitle": "Estwing Nail Puller",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/1956375-epc210g-2-3-800.jpg?v=1788867940",
+      "width": 640,
+      "height": 640,
+      "bytes": 5666
+    },
+    "Pry Bar": {
+      "image": "assets/products/pry-bar.webp",
+      "source": "https://build4less.co.uk/products/hultafors-pry-bar-aluminium",
+      "sourceTitle": "Hultafors Pry Bar Aluminium",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/841044_5ab621a9-631b-4309-868c-cd5c109858ac.jpg?v=1788868615",
+      "width": 640,
+      "height": 640,
+      "bytes": 3924
+    },
+    "Claw Hammer": {
+      "image": "assets/products/claw-hammer.webp",
+      "source": "https://build4less.co.uk/products/hultafors-curved-claw-hammer-ts",
+      "sourceTitle": "Hultafors Curved Claw Hammer TS",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/820008_5a32a0ee-e089-4478-ae4c-6c7db5ddeae8.jpg?v=1788868615",
+      "width": 640,
+      "height": 640,
+      "bytes": 7126
+    },
+    "Bevel Gauge": {
+      "image": "assets/products/bevel-gauge.webp",
+      "source": "https://www.toolnut.com/products/woodpeckers-sbg-7-23-7-in-sliding-bevel-gauge",
+      "sourceTitle": "Woodpeckers 4\" Sliding Bevel Gauge",
+      "originalImage": "https://cdn.anglera.com/assets/74d6ed76-fe0d-4d23-a9db-1f8749ca9ef2/50185225994534_bc933b6c9d6b.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 20432
+    },
+    "Wood File": {
+      "image": "assets/products/wood-file.webp",
+      "source": "https://ingcostores.com/products/hwff088-ingco-flat-wood-file",
+      "sourceTitle": "Flat Wood File HWFF088 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HWFF088_2.jpg?v=1756888355",
+      "width": 640,
+      "height": 640,
+      "bytes": 27554
+    },
+    "Mallet": {
+      "image": "assets/products/mallet.webp",
+      "source": "https://build4less.co.uk/products/rubber-mallet",
+      "sourceTitle": "Rubber Mallet",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/MALLET-001_7.jpg?v=1767778279",
+      "width": 640,
+      "height": 640,
+      "bytes": 10230
+    },
+    "Sash Clamp": {
+      "image": "assets/products/sash-clamp.webp",
+      "source": "https://www.spearandjackson.com.au/products/EC-ESC24",
+      "sourceTitle": "Spear and Jackson 24\" Sash Clamp",
+      "originalImage": "https://www.spearandjackson.com.au/attachments/Product/284/ESC24.png?ts=1638319731",
+      "width": 640,
+      "height": 640,
+      "bytes": 8392
+    },
+    "Wood Rasp": {
+      "image": "assets/products/wood-rasp.webp",
+      "source": "https://www.thetoolshed.co.nz/product/55207-p-n-file-wood-rasp-1-2-round-250mm",
+      "sourceTitle": "P&N 1/2 Round Wood Rasp File",
+      "originalImage": "https://d1mv2b9v99cq0i.cloudfront.net/eyJidWNrZXQiOiJ3ZWItbmluamEtaW1hZ2VzIiwia2V5IjoidG9vbHNoZWRcL2ltYWdlc1wvcHJvZGltZ1wvNTUyMDdfMS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQ4MCwiaGVpZ2h0Ijo0ODAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19LCJ2ZXJzaW9uIjoiOTE3ODhjMjExN2EwMjgzYmY2ZWI0MjUyMWJkYzY5YTNiM2Y1MWRiNyJ9",
+      "width": 480,
+      "height": 480,
+      "bytes": 5822
+    },
+    "Wooden Dowels": {
+      "image": "assets/products/wooden-dowels.webp",
+      "source": "https://www.walmart.com/ip/5565157274",
+      "sourceTitle": "Fluted Wooden Dowel Pins",
+      "originalImage": "https://i5.walmartimages.com/seo/Uxcell-5-16-x2-3-8-Wood-Dowel-Pins-90-Pack-Fluted-Wooden-Dowel-Pin-Straight-Groove-for-Furniture-Art-Crafts-Projects_cb063def-7914-46a2-8286-61e4e4ee58b4.2307d19533c574e316840409e45dcf4b.jpeg",
+      "width": 640,
+      "height": 640,
+      "bytes": 29628
+    },
+    "Dowel Set": {
+      "image": "assets/products/dowel-set.webp",
+      "source": "https://www.esska-tech.co.uk/shop/Wooden-dowel-assortment-%C3%98-x-length-%C3%98-5-x-25-mm-to-10-x-40-mm-53-pcs---949288162000-11670",
+      "sourceTitle": "Wooden Dowel Assortment",
+      "originalImage": "https://static.esska.de/shop-shared-objects/bilder/lbilder/943107581000_143452741202796_z.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 20916
+    },
+    "Roofing Washers": {
+      "image": "assets/products/roofing-washers.webp",
+      "source": "https://www.ebay.com/itm/167849942435",
+      "sourceTitle": "Bonded Tek Screw Sealing Roofing Washers",
+      "originalImage": "https://i.ebayimg.com/images/g/158AAOSwxQJnIKPr/s-l1200.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 23390
+    },
+    "Corner Clamp": {
+      "image": "assets/products/corner-clamp.webp",
+      "source": "https://cpc.farnell.com/rolson-tools/14307/90-right-angle-corner-clamp/dp/TL22961",
+      "sourceTitle": "Rolson 90° Right Angle Corner Clamp",
+      "originalImage": "https://cpc.farnell.com/productimages/large/en_GB/TL22961-500.jpg",
+      "width": 446,
+      "height": 640,
+      "bytes": 16754
+    },
+    "Roof Flashing": {
+      "image": "assets/products/roof-flashing.webp",
+      "source": "https://build4less.co.uk/products/onduline-black-pvc-apron-flashing",
+      "sourceTitle": "Onduline Black PVC Apron Flashing",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Untitled_design_-_2024-10-18T122556.183.png?v=1729294850",
+      "width": 400,
+      "height": 400,
+      "bytes": 4838
+    },
+    "Roofing Nails": {
+      "image": "assets/products/roofing-nails.webp",
+      "source": "https://www.silvertonbuildersmerchants.com/product/category/s903050",
+      "sourceTitle": "Galvanised Clout Nails in Bulk",
+      "originalImage": "https://www.silvertonbuildersmerchants.com/images/ocw/s903050-extra-large.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 18008
+    },
+    "Gutter Bracket": {
+      "image": "assets/products/gutter-bracket.webp",
+      "source": "https://build4less.co.uk/products/rock-n-lock-gutter-bracket",
+      "sourceTitle": "Rock N Lock Gutter Bracket - All Colours",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AFLD73BL_01C.jpg?v=1701863965",
+      "width": 400,
+      "height": 400,
+      "bytes": 8234
+    },
+    "Gutter Outlet": {
+      "image": "assets/products/gutter-outlet.webp",
+      "source": "https://build4less.co.uk/products/gutter-deepflow-running-outlet-black",
+      "sourceTitle": "Gutter Deepflow Running Outlet - All Colours",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AFLD75BL_01C.jpg?v=1701870645",
+      "width": 400,
+      "height": 400,
+      "bytes": 8870
+    },
+    "Gutter Joiner": {
+      "image": "assets/products/gutter-joiner.webp",
+      "source": "https://build4less.co.uk/products/gutter-deepflow-union-black",
+      "sourceTitle": "Gutter Deepflow Union Black - All Colours",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AFLD74BL_01C.jpg?v=1701869993",
+      "width": 400,
+      "height": 400,
+      "bytes": 9770
+    },
+    "Downpipe Bend": {
+      "image": "assets/products/downpipe-bend.webp",
+      "source": "https://build4less.co.uk/products/downpipe-offset-bend-112",
+      "sourceTitle": "Downpipe Offset Bend 112 - All colours",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AF209BL_01C_1.jpg?v=1701942732",
+      "width": 400,
+      "height": 400,
+      "bytes": 8666
+    },
+    "Chicken Mesh": {
+      "image": "assets/products/chicken-mesh.webp",
+      "source": "https://www.walmart.com/c/kp/chicken-wire-mesh",
+      "sourceTitle": "Chicken Wire Mesh Roll with Installation Kit",
+      "originalImage": "https://i5.walmartimages.com/seo/Merryhome-Chicken-Wire-Mesh-Fencing-Set-15-7-x32ft-Galvanized-Hexagonal-Netting-0-6mm-Wire-Includes-Gloves-Pliers-Zip-Ties-Garden-Poultry-Rabbits-Cra_70ddb06d-b3ac-4e32-9073-b7a99c6b29c7.6cb0c057f51fa5620b9cb7f1179643af.jpeg?odnBg=FFFFFF&odnHeight=576&odnWidth=576",
+      "width": 576,
+      "height": 576,
+      "bytes": 70502
+    },
+    "Wire Mesh": {
+      "image": "assets/products/wire-mesh.webp",
+      "source": "https://www.quictents.com/products/quictent-hardware-cloth-for-chicken-coop-run",
+      "sourceTitle": "Quictent Double-Galvanized Hardware Cloth Roll",
+      "originalImage": "https://www.quictents.com/cdn/shop/files/Quictent_Hardware_Cloth_for_Chicken_Coop_Run_01.webp?v=1768966097&width=1200",
+      "width": 588,
+      "height": 640,
+      "bytes": 93612
+    },
+    "Binding Wire": {
+      "image": "assets/products/binding-wire.webp",
+      "source": "https://www.fepy.com/ar/black-annealed-wire-with-good-anti-oxidation-and-anti-corrision-16g-10kg",
+      "sourceTitle": "Black Annealed Iron Wire Coil",
+      "originalImage": "https://ik.imagekit.io/fepy/cdn/catalog/product/1/0/10g_25kg.png?format=webp&tr=w-800%2Ch-800%2Cfo-auto",
+      "width": 640,
+      "height": 640,
+      "bytes": 44128
+    },
+    "GI Wire": {
+      "image": "assets/products/gi-wire.webp",
+      "source": "https://www.giga-gaas.nl/spandraad-2mm-50m-verzinkt-staaldraad.html",
+      "sourceTitle": "Galvanized Steel Binding Wire Roll",
+      "originalImage": "https://cdn.webshopapp.com/shops/282988/files/473542483/garmix-binddraad-2mm-50m-verzinkt-staaldraad.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 27926
+    },
+    "Chain Link Mesh": {
+      "image": "assets/products/chain-link-mesh.webp",
+      "source": "https://metal-wiremesh.en.made-in-china.com/product/kJVpQgmEoPRb/China-3-2mm-50mm-1-5m-High-Cyclone-Wire-Mesh-Fence-Galvanized-Chain-Link-Fence-Rolls.html",
+      "sourceTitle": "Galvanized Chain Link Fence Roll with Installation Kit",
+      "originalImage": "https://image.made-in-china.com/2f0j00grwoqWlFEKup/3-2mm-50mm-1-5m-High-Cyclone-Wire-Mesh-Fence-Galvanized-Chain-Link-Fence-Rolls.webp",
+      "width": 640,
+      "height": 640,
+      "bytes": 33148
+    },
+    "Damp Proof Membrane": {
+      "image": "assets/products/damp-proof-membrane.webp",
+      "source": "https://build4less.co.uk/products/1000-gauge-polythene-dpm-300mu-25m-x-4m",
+      "sourceTitle": "1000 Gauge Polythene DPM 250mu (25m x 4m)",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/1000_Gauge_Polythene_DPM.jpg?v=1581971618",
+      "width": 400,
+      "height": 400,
+      "bytes": 9694
+    },
+    "Tarpaulin": {
+      "image": "assets/products/tarpaulin.webp",
+      "source": "https://tarpaulinsuk.uk/products/waterproof-uv-resistant-polyethylene-blue-tarpaulin-190gsm",
+      "sourceTitle": "Heavy-Duty 190gsm Blue Tarpaulin",
+      "originalImage": "https://tarpaulinsuk.uk/cdn/shop/files/bluetarpss_3051faab-bd46-485b-9aed-2a20827555f6.jpg?v=1702645122",
+      "width": 640,
+      "height": 640,
+      "bytes": 21958
+    },
+    "Roof Sealant": {
+      "image": "assets/products/roof-sealant.webp",
+      "source": "https://build4less.co.uk/products/ronseal-thompsons-roof-and-gutter-sealant-black-x-310ml",
+      "sourceTitle": "Ronseal Thompsons Roof and Gutter Sealant Black - 310ml",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Ronseal_Thompsons_Roof_and_Gutter_Sealant_Black_-_310ml_-_Ronseal.jpg?v=1775590571",
+      "width": 600,
+      "height": 600,
+      "bytes": 8624
+    },
+    "Hand Wire Brush": {
+      "image": "assets/products/hand-wire-brush.webp",
+      "source": "https://timco.co.uk/4SBP-plastic-handle-scratch-brush-steel",
+      "sourceTitle": "TIMCO Plastic Handle Scratch Brush",
+      "originalImage": "https://euntimcocdn.blob.core.windows.net/web-product-images/4SBP_w1.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 11864
+    },
+    "Floor Scraper": {
+      "image": "assets/products/floor-scraper.webp",
+      "source": "https://build4less.co.uk/products/premier-floor-scraper",
+      "sourceTitle": "Premier Floor Scraper",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Premier_Floor_Scraper_1190_-_Bulldog.jpg?v=1767780073",
+      "width": 600,
+      "height": 600,
+      "bytes": 5836
+    },
+    "Paint Scraper": {
+      "image": "assets/products/paint-scraper.webp",
+      "source": "https://ingcostores.com/products/hput08150-ingco-putty-trowel-scraper-paleta",
+      "sourceTitle": "Putty Trowel Scraper HPUT08150 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HPUT08150.jpg?v=1756888594",
+      "width": 640,
+      "height": 640,
+      "bytes": 41574
+    },
+    "Utility Knife": {
+      "image": "assets/products/utility-knife.webp",
+      "source": "https://ingcostores.com/products/ingco-huk6288-stainless-steel-folding-utility-knife",
+      "sourceTitle": "Stainless Steel Folding Utility Knife HUK6288 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/products/ginee_20230304102214582_9543251663.jpg?v=1756888982",
+      "width": 640,
+      "height": 640,
+      "bytes": 9366
+    },
+    "Replacement Knife Blades": {
+      "image": "assets/products/replacement-knife-blades.webp",
+      "source": "https://ingcostores.com/products/hknsb112-ingco-super-select-10pcs-18mm-knife-blade",
+      "sourceTitle": "Super Select 10pcs 18mm Knife Blade HKNSB112 ING-AC",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HKNSB112_d4d69ed8-ac85-4ccb-b090-34199bf59261.jpg?v=1756888095",
+      "width": 640,
+      "height": 640,
+      "bytes": 24014
+    },
+    "Penetrating Oil": {
+      "image": "assets/products/penetrating-oil.webp",
+      "source": "https://housemart.sa/products/wd-40-specialist-rust-release-penetrant-spray-11-oz",
+      "sourceTitle": "WD-40 Specialist Penetrant Spray",
+      "originalImage": "https://housemart.sa/cdn/shop/files/wd40-specialist-penetrant-penetrating-release-oil-44348-8-lathe-800x800.jpg?v=1745013874&width=1214",
+      "width": 640,
+      "height": 640,
+      "bytes": 26984
+    },
+    "Cleaning Brush": {
+      "image": "assets/products/cleaning-brush.webp",
+      "source": "https://build4less.co.uk/products/yellow-car-cleaning-brush",
+      "sourceTitle": "Yellow Car Cleaning Brush",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/YELLOWBRUSH001_7.jpg?v=1778149123",
+      "width": 640,
+      "height": 640,
+      "bytes": 14452
+    },
+    "Grease": {
+      "image": "assets/products/grease.webp",
+      "source": "https://www.agscompany.com/products/multi-purpose-lithium-grease-tub-16-oz",
+      "sourceTitle": "AGS Multi-Purpose White Lithium Grease",
+      "originalImage": "https://www.agscompany.com/cdn/shop/products/WLMP-16_4ac5594c-1725-4eed-91a9-5aa4c4d619c5_1200x1200.jpg?v=1650474448",
+      "width": 640,
+      "height": 640,
+      "bytes": 30576
+    },
+    "Lubricating Oil": {
+      "image": "assets/products/lubricating-oil.webp",
+      "source": "https://home.bargains/product/34a072ce-a495-4eb7-8162-9277d5c4bcc3/3-in-1-multi-purpose-drip-oil-100ml",
+      "sourceTitle": "3-In-1 Multi-Purpose Drip Oil",
+      "originalImage": "https://media.home.bargains/product-images/5/d/6/1/5d61e137fcede973326ea5784b24bf1c2a1caabf.png?fit=cover&x=1500&y=1500",
+      "width": 640,
+      "height": 640,
+      "bytes": 9932
+    },
+    "Hand Sprayer": {
+      "image": "assets/products/hand-sprayer.webp",
+      "source": "https://build4less.co.uk/products/hand-sprayer-aqua-spray-0-5l",
+      "sourceTitle": "Hand Sprayer \"Aqua Spray\" 0.5L",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AS0050-001.png?v=1767778201",
+      "width": 600,
+      "height": 600,
+      "bytes": 11862
+    },
+    "Workshop Broom": {
+      "image": "assets/products/workshop-broom.webp",
+      "source": "https://build4less.co.uk/products/soft-coco-broom-head",
+      "sourceTitle": "Soft Coco Broom Head",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/faibrcoco12.jpg?v=1637152127",
+      "width": 400,
+      "height": 400,
+      "bytes": 9812
+    },
+    "Spray Bottle": {
+      "image": "assets/products/spray-bottle.webp",
+      "source": "https://build4less.co.uk/products/hand-sprayer-aqua-spray-0-5l",
+      "sourceTitle": "Hand Sprayer \"Aqua Spray\" 0.5L",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/AS0050-001.png?v=1767778201",
+      "width": 600,
+      "height": 600,
+      "bytes": 11862
+    },
+    "Cleaning Cloths": {
+      "image": "assets/products/cleaning-cloths.webp",
+      "source": "https://build4less.co.uk/products/tack-cloths-pack-of-10",
+      "sourceTitle": "Tack Cloths Pack of 10",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/NewProject_7.webp?v=1789553384",
+      "width": 470,
+      "height": 470,
+      "bytes": 11484
+    },
+    "Dust Pan": {
+      "image": "assets/products/dust-pan.webp",
+      "source": "https://feather.lk/products/dustpan-br-165?srsltid=AfmBOooVw3A9PPEhUv7KPFhA9wKkTDjPn_wBcVj-EehLJ_WeHGWHkO8N",
+      "sourceTitle": "Orange Plastic Dustpan",
+      "originalImage": "https://feather.lk/cdn/shop/files/BR-165Orange.jpg?v=1723018786&width=1920",
+      "width": 640,
+      "height": 640,
+      "bytes": 9810
+    },
+    "Steel Wool": {
+      "image": "assets/products/steel-wool.webp",
+      "source": "https://www.walmart.com/ip/28925930",
+      "sourceTitle": "Handy Helpers Steel Wool Pads",
+      "originalImage": "https://i5.walmartimages.com/seo/Bulk-Buys-HX003-24-Steel-Wool-Pads-by-Handy-Helpers-Pack-of-24_985f5d15-da04-4a75-b28c-f8e893657a8f.84d08792fe4f7c6e19a11cf569e69118.jpeg?odnBg=FFFFFF&odnHeight=768&odnWidth=768",
+      "width": 640,
+      "height": 640,
+      "bytes": 41526
+    },
+    "Rust Remover": {
+      "image": "assets/products/rust-remover.webp",
+      "source": "https://build4less.co.uk/products/hammerite-rust-remover-x-500ml",
+      "sourceTitle": "Hammerite Rust Remover x 500ml",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Untitleddesign_13.png?v=1770288947",
+      "width": 600,
+      "height": 600,
+      "bytes": 13194
+    },
+    "Scrub Brush": {
+      "image": "assets/products/scrub-brush.webp",
+      "source": "https://www.waltons.co.za/buy/addis-comfi-grip-handi-scrub-4009",
+      "sourceTitle": "Addis Comfi Grip Handi Scrub Brush",
+      "originalImage": "https://cdn1.waltons.co.za/product-images/2026/888229/addis-comfi-grip-handi-scrub-4009-1024x1024.webp",
+      "width": 640,
+      "height": 539,
+      "bytes": 29978
+    },
+    "Paint Brush 2 inch": {
+      "image": "assets/products/paint-brush-2-inch.webp",
+      "source": "https://build4less.co.uk/products/synthetic-bristle-paint-brush",
+      "sourceTitle": "Synthetic bristle paint brush",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/hilka-synthetic-brush-4in.jpg?v=1791119233",
+      "width": 640,
+      "height": 449,
+      "bytes": 12590
+    },
+    "Degreaser": {
+      "image": "assets/products/degreaser.webp",
+      "source": "https://build4less.co.uk/products/101-mclaren-engine-degreaser",
+      "sourceTitle": "101 Mclaren Engine Degreaser",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/101MclarenEngineDegreaser.webp?v=1789553344",
+      "width": 640,
+      "height": 640,
+      "bytes": 14650
+    },
+    "Paint Brush 3 inch": {
+      "image": "assets/products/paint-brush-3-inch.webp",
+      "source": "https://build4less.co.uk/products/synthetic-bristle-paint-brush",
+      "sourceTitle": "Synthetic bristle paint brush",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/hilka-synthetic-brush-4in.jpg?v=1791119233",
+      "width": 640,
+      "height": 449,
+      "bytes": 12590
+    },
+    "Paint Brush 1 inch": {
+      "image": "assets/products/paint-brush-1-inch.webp",
+      "source": "https://build4less.co.uk/products/synthetic-bristle-paint-brush",
+      "sourceTitle": "Synthetic bristle paint brush",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/hilka-synthetic-brush-4in.jpg?v=1791119233",
+      "width": 640,
+      "height": 449,
+      "bytes": 12590
+    },
+    "Mini Roller": {
+      "image": "assets/products/mini-roller.webp",
+      "source": "https://www.fixtectools.com/4-Mini-Paint-Roller-4mm-11mm-Fibre-Height-pd42603201.html",
+      "sourceTitle": "FIXTEC 4\" Mini Paint Roller",
+      "originalImage": "https://iqrorwxhrlmjli5q-static.micyjz.com/cloud/liBpnKqolmSRkjpljqlrip/FHPR0604.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 15016
+    },
+    "Paint Roller": {
+      "image": "assets/products/paint-roller.webp",
+      "source": "https://ingcostores.com/products/hcbb28092-ingco-9-320mm-cylinder-paint-brush-bracket-holder-roller",
+      "sourceTitle": "9 inch cylinder paint brush bracket holder roller hcbb28092 ING-CT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HCBB28092.jpg?v=1756888933",
+      "width": 640,
+      "height": 640,
+      "bytes": 19982
+    },
+    "Wall Scraper": {
+      "image": "assets/products/wall-scraper.webp",
+      "source": "https://ingcostores.com/products/hput08150-ingco-putty-trowel-scraper-paleta",
+      "sourceTitle": "Putty Trowel Scraper HPUT08150 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/HPUT08150.jpg?v=1756888594",
+      "width": 640,
+      "height": 640,
+      "bytes": 41574
+    },
+    "Paint Kettle": {
+      "image": "assets/products/paint-kettle.webp",
+      "source": "https://eracco.co.uk/products/plastic-paint-kettle",
+      "sourceTitle": "Draper 2.5L Plastic Paint Kettle",
+      "originalImage": "https://eracco.co.uk/cdn/shop/products/790-09-15_1000x1000_a8e15d71-0d17-4fb6-9906-a043b16a59f3_1024x.jpg?v=1657004456",
+      "width": 640,
+      "height": 640,
+      "bytes": 19264
+    },
+    "Paint Bucket": {
+      "image": "assets/products/paint-bucket.webp",
+      "source": "https://www.jmbucket.com/sale-40837856-18l-plastic-paint-bucket-with-lid-and-handle.html",
+      "sourceTitle": "18L Plastic Paint Bucket with Lid and Handle",
+      "originalImage": "https://www.jmbucket.com/photo/pl36668229-18l_plastic_paint_bucket_with_lid_and_handle.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 4396
+    },
+    "Extension Pole": {
+      "image": "assets/products/extension-pole.webp",
+      "source": "https://www.claroshop.com/producto/17285644/extension-de-2-m-de-aluminio-para-rodillo-truper-19216",
+      "sourceTitle": "Truper 2-Meter Aluminum Roller Extension Pole",
+      "originalImage": "https://resources.claroshop.com/medios-plazavip/mkt/6584831b451fd_extension-de-2-m-de-aluminio-para-rodillo-truper-2e1jpg.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 2428
+    },
+    "Sandpaper Pack": {
+      "image": "assets/products/sandpaper-pack.webp",
+      "source": "https://ingcostores.com/products/ingco-silicon-carbide-waterproof-sandpaper-size-230x280mm-grit-p60-p2000-50pcs-set-ing-ht",
+      "sourceTitle": "Silicon Carbide Waterproof Sandpaper Size:230x280mm Grit:P60-P2000 50pcs/Set ING-CO",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/AKHS006016.jpg?v=1780390253",
+      "width": 640,
+      "height": 640,
+      "bytes": 36138
+    },
+    "Paint Mixer": {
+      "image": "assets/products/paint-mixer.webp",
+      "source": "https://ingcostores.com/products/ingco-electric-mixer-1100w-mx11008-ing-pt",
+      "sourceTitle": "Electric Mixer 1100W MX11008 ING-PT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/MX11008.jpg?v=1780643041",
+      "width": 640,
+      "height": 640,
+      "bytes": 33272
+    },
+    "Cement": {
+      "image": "assets/products/cement.webp",
+      "source": "https://build4less.co.uk/products/mannok-master-grey-cement-25kg",
+      "sourceTitle": "Master Grade Cement 25kg",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Quinn_Premium_Grade_Cement_25kg_-_Quinn_Building_Materials.jpg?v=1772965332",
+      "width": 640,
+      "height": 453,
+      "bytes": 19088
+    },
+    "Caulking Gun": {
+      "image": "assets/products/caulking-gun.webp",
+      "source": "https://ingcostores.com/products/ingco-by-winland-9-230mm-industrial-grade-caulking-silicon-sealant-gun-9-o51mm-w-teeth-hcg1809-ing-ht",
+      "sourceTitle": "9\"/230mm Industrial Grade Caulking Silicon Sealant Gun 9\" Ø51mm w/ Teeth HCG1809 ING-HT",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0727/5377/4895/files/473044c0420fc1d16cbef2f05ab179f6.jpg?v=1756887010",
+      "width": 640,
+      "height": 640,
+      "bytes": 27774
+    },
+    "Paint Strainer": {
+      "image": "assets/products/paint-strainer.webp",
+      "source": "https://au.vicedeal.com/products/50pcs-paper-paint-strainers-paper-paint-conical-strainers-mesh-filter-cone-strainer-paint-funnel-tool?variant=UHJvZHVjdFZhcmlhbnQ6NzY1ODQ4OTgw",
+      "sourceTitle": "Paper Paint Strainers",
+      "originalImage": "https://images.nexusapp.co/assets/d1/0a/19/175278368.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 18396
+    },
+    "Drop Sheet": {
+      "image": "assets/products/drop-sheet.webp",
+      "source": "https://www.lowes.com/pd/Painter-s-Pride-10-oz-Canvas-9-ft-x-12-ft-Drop-Cloth/1000132703",
+      "sourceTitle": "Painter’s Pride Canvas Drop Cloth Packaging",
+      "originalImage": "https://mobileimages.lowes.com/productimages/7c996fba-22d8-4d42-93a9-23bd9d813444/07727371.jpg?size=pdhism",
+      "width": 640,
+      "height": 640,
+      "bytes": 52416
+    },
+    "Bricks": {
+      "image": "assets/products/bricks.webp",
+      "source": "https://build4less.co.uk/products/stratford-red-imperial-brick-68mm-x-108mm-sample",
+      "sourceTitle": "Stratford Red Imperial Brick 68mm x 108mm - Sample",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Stratford-Reclaim-Imperial-Red-Facing-Brick-Pack-of-320-1.jpg?v=1717758647",
+      "width": 400,
+      "height": 400,
+      "bytes": 18136
+    },
+    "White Cement": {
+      "image": "assets/products/white-cement.webp",
+      "source": "https://www.toolferreterias.com/products/cemento-blanco-50-kg-cemex",
+      "sourceTitle": "Cemex White Cement Bag",
+      "originalImage": "https://www.toolferreterias.com/cdn/shop/files/cemento-blanco-50-kg-cemex-albanileria-y-construccion-tool-ferreterias-ferretodo-525385.jpg?v=1731391577",
+      "width": 640,
+      "height": 640,
+      "bytes": 15800
+    },
+    "Sand": {
+      "image": "assets/products/sand.webp",
+      "source": "https://build4less.co.uk/products/red-building-sand",
+      "sourceTitle": "Red Building Sand",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/RED-BUILDING-SAND.png?v=1791195369",
+      "width": 640,
+      "height": 640,
+      "bytes": 148842
+    },
+    "Cement Blocks": {
+      "image": "assets/products/cement-blocks.webp",
+      "source": "https://www.unsonsco.net/hollow-block.html",
+      "sourceTitle": "Cement Concrete Hollow Block",
+      "originalImage": "https://5.imimg.com/data5/SELLER/Default/2020/11/AE/DD/PY/2246393/hollow-solid-block-500x500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 42682
+    },
+    "GI Pipe": {
+      "image": "assets/products/gi-pipe.webp",
+      "source": "https://www.tamilnadutubesuppliers.com/steel-pipes.html",
+      "sourceTitle": "Galvanized Steel Pipe",
+      "originalImage": "https://5.imimg.com/data5/SELLER/Default/2024/5/418698599/ZA/XW/LM/9065218/galvanized-steel-pipe-500x500.jpg",
+      "width": 500,
+      "height": 451,
+      "bytes": 14870
+    },
+    "Metal Aggregate": {
+      "image": "assets/products/metal-aggregate.webp",
+      "source": "https://glorylogisticsug.com/our-products/stones",
+      "sourceTitle": "Crushed Stone Aggregate",
+      "originalImage": "https://glorylogisticsug.com/sites/default/files/2022-07/10-14-12mm-1222-Stone-Coarse-Aggregate.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 78724
+    },
+    "MS Angle": {
+      "image": "assets/products/ms-angle.webp",
+      "source": "https://www.tamilnadutubesuppliers.com/mild-steel-angle.html",
+      "sourceTitle": "10mm Mild Steel Angle Bar",
+      "originalImage": "https://5.imimg.com/data5/SELLER/Default/2024/5/418725353/JV/MO/CO/9065218/10mm-mild-steel-angle-500x500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 20490
+    },
+    "MS Flat Bar": {
+      "image": "assets/products/ms-flat-bar.webp",
+      "source": "https://www.sasteels.com/mild-steel-flat-bar.html",
+      "sourceTitle": "Mild Steel Flat Bar",
+      "originalImage": "https://5.imimg.com/data5/SELLER/Default/2024/1/375621904/NX/MO/AS/3661213/20mm-mild-steel-flat-bar-500x500.jpg",
+      "width": 500,
+      "height": 500,
+      "bytes": 7490
+    },
+    "Reinforcement Bar": {
+      "image": "assets/products/reinforcement-bar.webp",
+      "source": "https://tr.made-in-china.com/co_zhongliantrading/product_Construction-Building-Materials-Deformed-Reinforcing-Steel-Rebar_eeruirosg.html",
+      "sourceTitle": "Deformed Steel Rebar Bundle",
+      "originalImage": "https://image.made-in-china.com/2f0j00hqMYJizFkZkl/Construction-Building-Materials-Deformed-Reinforcing-Steel-Rebar.webp",
+      "width": 640,
+      "height": 640,
+      "bytes": 27124
+    },
+    "AAC Blocks": {
+      "image": "assets/products/aac-blocks.webp",
+      "source": "https://www.toutfaire.fr/beton-cellulaire-epaisseur-20-x-25-x-62-5-cm.html",
+      "sourceTitle": "Autoclaved Aerated Concrete Blocks",
+      "originalImage": "https://tfm-tfm-storage.omn.proximis.com/Imagestorage/imagesSynchro/0/0/a59dd0476b53552c187618eba61806ffa63489f5_image_2084800000178_1.jpeg",
+      "width": 640,
+      "height": 477,
+      "bytes": 31240
+    },
+    "Plywood Sheet": {
+      "image": "assets/products/plywood-sheet.webp",
+      "source": "https://build4less.co.uk/products/exterior-hardwood-plywood-all-sizes",
+      "sourceTitle": "Exterior Hardwood Plywood - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/ExteriorHardwoodPlywood-AllSizes.png?v=1692791511",
+      "width": 400,
+      "height": 400,
+      "bytes": 9374
+    },
+    "MDF Board": {
+      "image": "assets/products/mdf-board.webp",
+      "source": "https://build4less.co.uk/products/standard-mdf-board-all-sizes",
+      "sourceTitle": "Standard MDF Board - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/StandardMDFBoard.png?v=1692177716",
+      "width": 400,
+      "height": 400,
+      "bytes": 8994
+    },
+    "MS Square Tube": {
+      "image": "assets/products/ms-square-tube.webp",
+      "source": "https://www.dciron.co.uk/products/square-hollow-box-section",
+      "sourceTitle": "Square Hollow Box Section",
+      "originalImage": "https://www.dciron.co.uk/cdn/shop/products/PBS30_01_173565b0-db29-4684-a50e-89b1a2e93454_1024x.jpg?v=1675179328",
+      "width": 640,
+      "height": 640,
+      "bytes": 13734
+    },
+    "Cement Board": {
+      "image": "assets/products/cement-board.webp",
+      "source": "https://www.buyinsulationonline.co.uk/product/ramco-hicem-fibre-cement-board",
+      "sourceTitle": "Ramco Hicem Multi-Purpose Fibre Cement Board",
+      "originalImage": "https://www.buyinsulationonline.co.uk/uploads/media/7a0473138db69318c19909ccaa51408d.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 4346
+    },
+    "Gypsum Board": {
+      "image": "assets/products/gypsum-board.webp",
+      "source": "https://build4less.co.uk/products/standard-plasterboard-square-edge-2-4m-x-1-2m-all-sizes",
+      "sourceTitle": "Standard Plasterboard Square Edge (2.4m x 1.2m) - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/products/standard_xs_1_a9920bda-f53d-40e4-8dba-8bacc6c4e066.jpg?v=1768818924",
+      "width": 600,
+      "height": 600,
+      "bytes": 8082
+    },
+    "Polycarbonate Sheet": {
+      "image": "assets/products/polycarbonate-sheet.webp",
+      "source": "https://build4less.co.uk/products/clear-polycarbonate-glazing-sheet-all-sizes",
+      "sourceTitle": "Clear Polycarbonate Glazing Sheet - All Sizes",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/4mm_PC_5277e6d7-0fad-4a14-94e4-ab2313b107a3.png?v=1769769827",
+      "width": 600,
+      "height": 600,
+      "bytes": 3540
+    },
+    "Waterproofing Compound": {
+      "image": "assets/products/waterproofing-compound.webp",
+      "source": "https://build4less.co.uk/products/ultraflex-liquid-waterproofing-15kg-tub",
+      "sourceTitle": "Ultraflex Liquid Waterproofing - 15kg Tub",
+      "originalImage": "https://cdn.shopify.com/s/files/1/0222/7290/1216/files/Ultra_Flex_15kg_liquid_waterproofing_system_bucket_for_flat_roof_and_roofing_repairs_ultra.webp?v=1789549676",
+      "width": 640,
+      "height": 640,
+      "bytes": 17782
+    },
+    "Fibre Cement Sheet": {
+      "image": "assets/products/fibre-cement-sheet.webp",
+      "source": "https://www.roofingsuperstore.co.uk/product/eurosix-profile-6-inch-fibre-cement-roof-sheet-in-natural-grey.html",
+      "sourceTitle": "EUROSIX Profile 6-inch Fibre Cement Roof Sheet",
+      "originalImage": "https://static.prod.cmostores.com/uploads/products/1/l/eurosix-profile-6-fibre-cement-roof-sheet-natural-grey-primary-1691148744.jpg?auto=compress",
+      "width": 640,
+      "height": 640,
+      "bytes": 12702
+    },
+    "Tar Sheet": {
+      "image": "assets/products/tar-sheet.webp",
+      "source": "https://tuindeco.com/de/dachpappe-v13-rolle-von-10m2/P088748",
+      "sourceTitle": "Dachpappe V13 Roofing Felt Roll",
+      "originalImage": "https://tuindeco.com/media/9b/8e/ce/1720793390/6691392e64cdc-6c72a2084701934423421bcfec2abc7359e29a98_P088748_C_v01_0_202312.jpg?ts=1772857627",
+      "width": 640,
+      "height": 640,
+      "bytes": 63850
+    },
+    "Carriage Bolts": {
+      "image": "assets/products/carriage-bolts.webp",
+      "source": "https://boltsandnuts.com/products/1-4-20x1-1-4-grade-5-round-head-square-neck-carriage-bolts-zinc",
+      "sourceTitle": "Grade 5 Zinc-Plated Carriage Bolts",
+      "originalImage": "https://boltsandnuts.com/cdn/shop/files/BCG5Z_9a3de250-9d7c-43c8-beee-7c04047e1565.jpg?v=1740674824",
+      "width": 600,
+      "height": 600,
+      "bytes": 16156
+    },
+    "Threaded Rod": {
+      "image": "assets/products/threaded-rod.webp",
+      "source": "https://www.finishsystems.com/products/threaded-rod-10ft-lengths-various-sizes",
+      "sourceTitle": "Steel Threaded Rod for Pipe Hanging",
+      "originalImage": "https://www.finishsystems.com/cdn/shop/products/10FT-38IN.1_1024x1024.jpg?v=1506612335",
+      "width": 640,
+      "height": 640,
+      "bytes": 19984
+    },
+    "Contact Adhesive": {
+      "image": "assets/products/contact-adhesive.webp",
+      "source": "https://www.doublebayhardware.com.au/products/selleys-kwik-grip-contact-adhesive-horizontal-50ml-kg-50m",
+      "sourceTitle": "Selleys Kwik Grip Horizontal Contact Adhesive",
+      "originalImage": "https://www.doublebayhardware.com.au/cdn/shop/files/selleys-kwik-grip-contact-adhesive-horizontal-50mlhardware-gluedouble-bay-hardware-8882417.jpg?v=1765445290",
+      "width": 640,
+      "height": 640,
+      "bytes": 29874
+    },
+    "Depth Gauge": {
+      "image": "assets/products/depth-gauge.webp",
+      "source": "https://insize.com/vernierdepthgauges/1240.html",
+      "sourceTitle": "INSIZE Vernier Depth Gauge",
+      "originalImage": "https://insize.com/pro-img/800/1240-4.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 6944
+    },
+    "Mortar Hoe": {
+      "image": "assets/products/mortar-hoe.webp",
+      "source": "https://techniquetools.com.au/products/mortar-hoe",
+      "sourceTitle": "Technique Tools Mortar Hoe",
+      "originalImage": "https://techniquetools.com.au/cdn/shop/products/mortar-hoe-worksite-equipment-428.jpg?v=1661958275",
+      "width": 640,
+      "height": 640,
+      "bytes": 5664
+    },
+    "Downpipe Clip": {
+      "image": "assets/products/downpipe-clip.webp",
+      "source": "https://jharries.co.uk/product/floplast-68mm-downpipe-round-clips-white/8381",
+      "sourceTitle": "Floplast 68 mm Downpipe Round Clip",
+      "originalImage": "https://jharries.co.uk/images/product_image/d17989e1-98cc-4ea9-8f50-02efe9135011.jpg",
+      "width": 640,
+      "height": 480,
+      "bytes": 3226
+    },
+    "Welded Mesh": {
+      "image": "assets/products/welded-mesh.webp",
+      "source": "https://ghshomevalue.ie/products/welded-mesh-roll-4ft-x-2in-x-30m?srsltid=AfmBOootFnafTL1NnJSClW81mats-N1BNJeYgK-c77mNgH2aYI_im9Yz",
+      "sourceTitle": "Welded Mesh Roll 4ft x 2in x 30m",
+      "originalImage": "https://ghshomevalue.ie/cdn/shop/files/018677-main_700x700.jpg?v=1709725736",
+      "width": 640,
+      "height": 640,
+      "bytes": 53556
+    },
+    "Roller Tray": {
+      "image": "assets/products/roller-tray.webp",
+      "source": "https://www.fixtectools.com/9-Paint-Tray-pd45595201.html",
+      "sourceTitle": "FIXTEC 9\" Paint Tray",
+      "originalImage": "https://iqrorwxhrlmjli5q-static.micyjz.com/cloud/ljBpnKqolmSRkjplkqmnim/FHPT0009.jpg",
+      "width": 640,
+      "height": 640,
+      "bytes": 14232
+    },
+    "Angle Grinder Guard": {
+      "image": "assets/products/angle-grinder-guard.webp",
+      "source": "https://www.anhangueraferramentas.com.br/produto/capa-de-protecao-9-para-esmerilhadeiras-2605510281-bosch-136655",
+      "sourceTitle": "Bosch 9-Inch Angle Grinder Protective Guard",
+      "originalImage": "https://anhangueraferramentas.fbitsstatic.net/img/p/capa-de-protecao-9-para-esmerilhadeiras-2605510281-bosch-136655/326435-3.jpg?h=650&v=no-value&w=650",
+      "width": 640,
+      "height": 640,
+      "bytes": 6288
+    },
+    "Ridge Cap": {
+      "image": "assets/products/ridge-cap.webp",
+      "source": "https://www.havelockmetal.com/product/ridge-cap-10/",
+      "sourceTitle": "Metal Ridge Cap Product Overview",
+      "originalImage": "https://www.havelockmetal.com/uploads/2018/10/Ridge-Cap-10_DSCF8343_0011_Graphite-600x600.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 4276
+    },
+    "Side Handle": {
+      "image": "assets/products/side-handle.webp",
+      "source": "https://boschtoolsmanila.com/products/bosch-anti-vibration-auxiliary-handle-2602025171",
+      "sourceTitle": "Bosch Anti Vibration Auxiliary Handle",
+      "originalImage": "https://boschtoolsmanila.com/cdn/shop/files/bosch-Recovered_2f26058a-4f34-4592-ab23-6d4c37a16a61.png?v=1726765904",
+      "width": 640,
+      "height": 640,
+      "bytes": 12994
+    },
+    "Construction Adhesive": {
+      "image": "assets/products/construction-adhesive.webp",
+      "source": "https://oakcitycustoms.com/products/10-oz-titebond-provantage-construction-adhesive",
+      "sourceTitle": "Titebond PROvantage Heavy Duty Construction Adhesive",
+      "originalImage": "https://oakcitycustoms.com/cdn/shop/files/TitebondProvantageadhesive_1400x.png?v=1694617030",
+      "width": 640,
+      "height": 640,
+      "bytes": 21872
+    },
+    "Plastic Sheet": {
+      "image": "assets/products/plastic-sheet.webp",
+      "source": "https://mkm.com/product/toughsheet-clear-polythene-sheeting-4m-x-50m-125mu-b060447",
+      "sourceTitle": "Toughsheet Clear Polythene Sheeting",
+      "originalImage": "https://cdn11.bigcommerce.com/s-l4y5j8tpyi/products/59371/images/123849/toughsheet-clear-polythene-sheeting-4m-x-50m-125mu-b060447-1__53423.1757381688.1280.1280.jpg?c=1",
+      "width": 600,
+      "height": 600,
+      "bytes": 5402
+    },
+    "Mop Head": {
+      "image": "assets/products/mop-head.webp",
+      "source": "https://whiteheadindustrial.com/cut-end-cotton-mop-refill-no-108-32ply-24/",
+      "sourceTitle": "Professional Cotton Mop Refill",
+      "originalImage": "https://cdn11.bigcommerce.com/s-4kgsw20zr0/images/stencil/1280x1280/products/22593/30053/image__24593.1673891229.png?c=2",
+      "width": 404,
+      "height": 608,
+      "bytes": 21632
+    },
+    "Hand tools": {
+      "image": "assets/products/hand-tools.webp",
+      "source": "https://web.inbound281.com",
+      "sourceTitle": "Hand tools",
+      "originalImage": "https://web.inbound281.com/hubfs/Blog_Images/tools.jpg",
+      "width": 640,
+      "height": 497,
+      "bytes": 24142
+    },
+    "Multilac Premium Sheen Emulsion": {
+      "image": "assets/products/multilac-premium-sheen-emulsion.webp",
+      "source": "https://multilac.com/product/multilac-premium-sheen-emulsion-colours/",
+      "sourceTitle": "Multilac Premium Sheen Emulsion",
+      "originalImage": "https://multilac.com/wp-content/uploads/2025/06/s-blob-v1-IMAGE-vy0D8R-n7H0-e1763377492473.webp",
+      "width": 324,
+      "height": 324,
+      "bytes": 13096
+    },
+    "Electrical accessories": {
+      "image": "assets/products/electrical-accessories.webp",
+      "source": "https://cdn.tgdd.vn",
+      "sourceTitle": "Electrical accessories",
+      "originalImage": "https://cdn.tgdd.vn/Files/2021/09/15/1382944/cong-tac-2-chieu-la-gi-ung-dung-va-cach-dau-cong-6.jpg",
+      "width": 640,
+      "height": 320,
+      "bytes": 11666
+    },
+    "Multilac Roofing Paint": {
+      "image": "assets/products/multilac-roofing-paint.webp",
+      "source": "https://multilac.com/shop-now/",
+      "sourceTitle": "Multilac Roofing Paint",
+      "originalImage": "https://multilac.com/wp-content/uploads/2025/05/width_183-4.webp",
+      "width": 183,
+      "height": 199,
+      "bytes": 8524
+    },
+    "Multilac 3 in 1 Waterproofing": {
+      "image": "assets/products/multilac-3-in-1-waterproofing.webp",
+      "source": "https://multilac.com/product/multilac-3-in-1-waterproofing-super-brilliant-white/",
+      "sourceTitle": "Multilac 3 in 1 Waterproofing",
+      "originalImage": "https://multilac.com/wp-content/uploads/2025/07/3-in-1-2copy-e1765343018735.webp",
+      "width": 613,
+      "height": 640,
+      "bytes": 35224
+    },
+    "Plumbing supplies": {
+      "image": "assets/products/plumbing-supplies.webp",
+      "source": "https://ferreteriachacabuco.cl",
+      "sourceTitle": "Plumbing supplies",
+      "originalImage": "https://ferreteriachacabuco.cl/cdn/shop/articles/fd27443c-f441-4964-938e-c24e25948095.png?v=1772467913",
+      "width": 640,
+      "height": 427,
+      "bytes": 65522
+    },
+    "Multilac Gloss Enamel": {
+      "image": "assets/products/multilac-gloss-enamel.webp",
+      "source": "https://multilac.com/product/multilac-gloss-enamel-super-brilliant-white/",
+      "sourceTitle": "Multilac Gloss Enamel",
+      "originalImage": "https://multilac.com/wp-content/uploads/2025/06/SB-white-e1763352591475.webp",
+      "width": 582,
+      "height": 640,
+      "bytes": 27764
+    }
+  }
+}
