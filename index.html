@@ -31,123 +31,6 @@
       {category:'Plumbing & Sanitary',name:'Plumbing supplies',image:'https://ferreteriachacabuco.cl/cdn/shop/articles/fd27443c-f441-4964-938e-c24e25948095.png?v=1772467913'},
       {category:'Hand Tools',name:'Hand tools',image:'https://web.inbound281.com/hubfs/Blog_Images/tools.jpg'}
     ];
-    const expandedCatalog={
-      "Power Tools":[],
-      "Fasteners & Fixings":[],
-      "Safety & PPE":[],
-      "Locks, Hinges & Door Hardware":[],
-      "Garden Tools":[],
-      "Measuring & Marking":[],
-      "Cutting, Grinding & Abrasives":[],
-      "Adhesives, Sealants & Tapes":[],
-      "Masonry & Construction Tools":[],
-      "Welding & Workshop":[],
-      "Power Tool Accessories":[],
-      "Carpentry & Woodworking":[],
-      "Roofing & Building Accessories":[],
-      "Cleaning & Maintenance":[]
-    };
-    Object.assign(catalog,expandedCatalog);
-    const additionalOnline=[
-      {category:'Power Tools',name:'Impact Drill',image:'https://www.ingco.com/cdn/product/ID6808/ID6808.jpg',note:'Drilling for wood, metal and masonry'},
-      {category:'Power Tools',name:'Cordless Drill / Driver',image:'https://www.ingco.com/cdn/product/CDLI200518/CDLI200518.jpg',note:'Portable drilling and screwdriving'},
-      {category:'Power Tools',name:'Angle Grinder',image:'https://www.ingco.com/cdn/product/AG75028/AG75028.jpg',note:'Cutting, grinding and surface preparation'},
-      {category:'Power Tools',name:'Circular Saw',image:'https://www.ingco.com/cdn/product/CS18538/CS18538.jpg',note:'Straight cutting of timber and boards'},
-      {category:'Power Tools',name:'Rotary Hammer',image:'https://www.ingco.com/cdn/product/RGH9028/RGH9028.jpg',note:'Heavy masonry and concrete drilling'},
-      {category:'Power Tools',name:'Electric Blower',image:'https://www.ingco.com/cdn/product/AB6008/AB6008.jpg',note:'Workshop and site cleaning'},
-
-      {category:'Fasteners & Fixings',name:'Assorted Screws',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Wood, sheet-metal and general-purpose screws'},
-      {category:'Fasteners & Fixings',name:'Hex Bolts & Nuts',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'General construction and mechanical fixing'},
-      {category:'Fasteners & Fixings',name:'Washers',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Flat and locking washers in common sizes'},
-      {category:'Fasteners & Fixings',name:'Wall Plugs & Anchors',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Fixing into brick, block and concrete'},
-      {category:'Fasteners & Fixings',name:'Nails',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Common, masonry and finishing nails'},
-      {category:'Fasteners & Fixings',name:'Threaded Rods',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Suspension and structural fixing'},
-
-      {category:'Safety & PPE',name:'Safety Helmet',image:'https://m.media-amazon.com/images/I/61H4z0lW8XL._AC_SL1200_.jpg',note:'Head protection for construction work'},
-      {category:'Safety & PPE',name:'Work Gloves',image:'https://m.media-amazon.com/images/I/71iB3aPD3TL._AC_SL1500_.jpg',note:'Hand protection for handling and repair work'},
-      {category:'Safety & PPE',name:'Safety Goggles',image:'https://m.media-amazon.com/images/I/61tBvXgMUkL._AC_SL1500_.jpg',note:'Eye protection during cutting and drilling'},
-      {category:'Safety & PPE',name:'Dust Mask / Respirator',image:'https://m.media-amazon.com/images/I/71Qy6i3X5WL._AC_SL1500_.jpg',note:'Protection from dust and fine particles'},
-      {category:'Safety & PPE',name:'Reflective Safety Vest',image:'https://m.media-amazon.com/images/I/71Qn7oB7cOL._AC_SL1500_.jpg',note:'High-visibility site wear'},
-      {category:'Safety & PPE',name:'Safety Shoes',image:'https://m.media-amazon.com/images/I/71n9f8cG9CL._AC_SL1500_.jpg',note:'Protective footwear for site and workshop'},
-
-      {category:'Locks, Hinges & Door Hardware',name:'Door Handle Set',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Door lever handle and lock hardware'},
-      {category:'Locks, Hinges & Door Hardware',name:'Padlock',image:'https://m.media-amazon.com/images/I/71G9ByU3OHL._AC_SL1500_.jpg',note:'General security locking'},
-      {category:'Locks, Hinges & Door Hardware',name:'Door Hinges',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Cabinet and door hinges'},
-      {category:'Locks, Hinges & Door Hardware',name:'Mortise Lock',image:'https://www.handles4homes.co.uk/images/hunta-nemo-black-nickel-door-handle-lock-pack-x2-hinges-p58638-148817_zoom.jpg',note:'Internal and external door locking'},
-      {category:'Locks, Hinges & Door Hardware',name:'Tower Bolt',image:'https://m.media-amazon.com/images/I/61KXGzO3tAL._AC_SL1500_.jpg',note:'Surface-mounted door and gate bolt'},
-      {category:'Locks, Hinges & Door Hardware',name:'Door Stopper',image:'https://m.media-amazon.com/images/I/61z7x5qg2bL._AC_SL1500_.jpg',note:'Protects walls and holds doors'},
-
-      {category:'Garden Tools',name:'Garden Trowel',image:'https://img.kwcdn.com/product/fancy/017d6b00-5b30-43f0-a304-aa902214cf1a.jpg',note:'Planting and soil work'},
-      {category:'Garden Tools',name:'Pruning Shears',image:'https://img.kwcdn.com/product/fancy/017d6b00-5b30-43f0-a304-aa902214cf1a.jpg',note:'Pruning small branches and plants'},
-      {category:'Garden Tools',name:'Garden Rake',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Levelling soil and collecting debris'},
-      {category:'Garden Tools',name:'Shovel',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Digging and moving soil or aggregate'},
-      {category:'Garden Tools',name:'Hoe',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Weeding and soil preparation'},
-      {category:'Garden Tools',name:'Hedge Shears',image:'https://http2.mlstatic.com/D_NQ_NP_879029-MLA101917591203_122025-O.webp',note:'Trimming hedges and shrubs'},
-
-      {category:'Measuring & Marking',name:'Tape Measure',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Everyday length measurement'},
-      {category:'Measuring & Marking',name:'Spirit Level',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Checking level and plumb'},
-      {category:'Measuring & Marking',name:'Digital Caliper',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Precision inside, outside and depth measurement'},
-      {category:'Measuring & Marking',name:'Steel Ruler',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'Marking and straight measurement'},
-      {category:'Measuring & Marking',name:'Combination Square',image:'https://www.alrodeindustrial.co.za/cdn/shop/collections/various-measuring-tools.png?v=1770983968&width=660',note:'90° / 45° marking and checking'},
-      {category:'Measuring & Marking',name:'Chalk Line',image:'https://m.media-amazon.com/images/I/71v7z3UnPGL._AC_SL1500_.jpg',note:'Long straight layout lines'},
-
-      {category:'Cutting, Grinding & Abrasives',name:'Metal Cutting Discs',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Thin discs for cutting ferrous metal'},
-      {category:'Cutting, Grinding & Abrasives',name:'Grinding Discs',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Grinding and edge preparation'},
-      {category:'Cutting, Grinding & Abrasives',name:'Flap Discs',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Blending and finishing metal surfaces'},
-      {category:'Cutting, Grinding & Abrasives',name:'Sandpaper Sheets',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Surface preparation in multiple grits'},
-      {category:'Cutting, Grinding & Abrasives',name:'Circular Saw Blade',image:'https://daoshoponline.com/cdn/shop/collections/discuri-de-taiat-lemn-metal-beton-caramida-smilgher-diferite-marimi-si-granulatii-6269621.png?v=1761147666',note:'Wood cutting blades'},
-      {category:'Cutting, Grinding & Abrasives',name:'Wire Brush Wheel',image:'https://media-www.canadiantire.ca/product/fixing/tools/power-tool-accessories/0542530/maximum-cutting-grinding-set-30-piece-71388b5d-b63e-4ecd-9f54-3d054a5295e9-jpgrendition.jpg',note:'Rust and paint removal'},
-
-      {category:'Adhesives, Sealants & Tapes',name:'Silicone Sealant',image:'https://m.media-amazon.com/images/I/61X9zXn7kCL._AC_SL1200_.jpg',note:'Sealing glass, aluminium, sanitary and joints'},
-      {category:'Adhesives, Sealants & Tapes',name:'Construction Adhesive',image:'https://m.media-amazon.com/images/I/61W8y0yD-AL._AC_SL1500_.jpg',note:'Heavy-duty bonding for building materials'},
-      {category:'Adhesives, Sealants & Tapes',name:'Super Glue',image:'https://m.media-amazon.com/images/I/61mQ5y4YJdL._AC_SL1500_.jpg',note:'Quick bonding for small repairs'},
-      {category:'Adhesives, Sealants & Tapes',name:'PTFE Thread Seal Tape',image:'https://m.media-amazon.com/images/I/71q5l1t4aAL._AC_SL1500_.jpg',note:'Thread sealing for plumbing fittings'},
-      {category:'Adhesives, Sealants & Tapes',name:'Masking Tape',image:'https://m.media-amazon.com/images/I/71s5k5PiKwL._AC_SL1500_.jpg',note:'Painting and temporary masking'},
-      {category:'Adhesives, Sealants & Tapes',name:'Duct Tape',image:'https://m.media-amazon.com/images/I/71vY8Aqg7GL._AC_SL1500_.jpg',note:'Strong general-purpose repair tape'},
-
-      {category:'Masonry & Construction Tools',name:'Brick Trowel',image:'https://m.media-amazon.com/images/I/71o6Hf1oPpL._AC_SL1500_.jpg',note:'Laying bricks and blocks'},
-      {category:'Masonry & Construction Tools',name:'Plastering Trowel',image:'https://m.media-amazon.com/images/I/71qFf0DmcIL._AC_SL1500_.jpg',note:'Plaster and cement finishing'},
-      {category:'Masonry & Construction Tools',name:'Mason Hammer',image:'https://m.media-amazon.com/images/I/61R8ZghfFVL._AC_SL1500_.jpg',note:'Brick and masonry shaping'},
-      {category:'Masonry & Construction Tools',name:'Cold Chisel',image:'https://m.media-amazon.com/images/I/71pc2uI6gAL._AC_SL1500_.jpg',note:'Chipping concrete, stone and metal'},
-      {category:'Masonry & Construction Tools',name:'Plumb Bob',image:'https://m.media-amazon.com/images/I/61kHfw8kkjL._AC_SL1500_.jpg',note:'Vertical alignment on site'},
-      {category:'Masonry & Construction Tools',name:'Rubber Mallet',image:'https://m.media-amazon.com/images/I/61F3k2vDgPL._AC_SL1500_.jpg',note:'Tile, flooring and assembly work'},
-
-      {category:'Welding & Workshop',name:'Welding Electrode Holder',image:'https://m.media-amazon.com/images/I/61e8x5rGdSL._AC_SL1500_.jpg',note:'Manual arc welding accessory'},
-      {category:'Welding & Workshop',name:'Welding Helmet',image:'https://m.media-amazon.com/images/I/71X1zvGmDIL._AC_SL1500_.jpg',note:'Face and eye protection for welding'},
-      {category:'Welding & Workshop',name:'Bench Vice',image:'https://m.media-amazon.com/images/I/71w0DyxS6PL._AC_SL1500_.jpg',note:'Holding work securely on a bench'},
-      {category:'Welding & Workshop',name:'C-Clamp',image:'https://m.media-amazon.com/images/I/61d3i6p7C9L._AC_SL1500_.jpg',note:'Temporary clamping for fabrication and carpentry'},
-      {category:'Welding & Workshop',name:'Grease Gun',image:'https://m.media-amazon.com/images/I/71Qh1q7jM5L._AC_SL1500_.jpg',note:'Lubrication for machinery and vehicles'},
-      {category:'Welding & Workshop',name:'Air Blow Gun',image:'https://m.media-amazon.com/images/I/61YyR9Gm5BL._AC_SL1500_.jpg',note:'Compressed-air cleaning'},
-
-      {category:'Power Tool Accessories',name:'HSS Drill Bit Set',image:'https://m.media-amazon.com/images/I/71R7v3W0wUL._AC_SL1500_.jpg',note:'Metal and general drilling'},
-      {category:'Power Tool Accessories',name:'Masonry Drill Bits',image:'https://m.media-amazon.com/images/I/71eY5gZ9QUL._AC_SL1500_.jpg',note:'Brick, block and concrete drilling'},
-      {category:'Power Tool Accessories',name:'Screwdriver Bit Set',image:'https://m.media-amazon.com/images/I/71y9XvT6gPL._AC_SL1500_.jpg',note:'Driver bits for common screw heads'},
-      {category:'Power Tool Accessories',name:'Hole Saw Set',image:'https://m.media-amazon.com/images/I/71s0nKJ6VqL._AC_SL1500_.jpg',note:'Large diameter holes in wood, metal and board'},
-      {category:'Power Tool Accessories',name:'Jigsaw Blades',image:'https://m.media-amazon.com/images/I/71v8QClRWBL._AC_SL1500_.jpg',note:'Wood and metal cutting blades'},
-      {category:'Power Tool Accessories',name:'Drill Chuck',image:'https://m.media-amazon.com/images/I/61Dg34vprHL._AC_SL1500_.jpg',note:'Replacement drill chuck and key'},
-
-      {category:'Carpentry & Woodworking',name:'Hand Saw',image:'https://m.media-amazon.com/images/I/71l9iG0zOHL._AC_SL1500_.jpg',note:'Manual timber cutting'},
-      {category:'Carpentry & Woodworking',name:'Wood Chisel Set',image:'https://m.media-amazon.com/images/I/71g8oHQPV1L._AC_SL1500_.jpg',note:'Joinery and timber shaping'},
-      {category:'Carpentry & Woodworking',name:'Wood Plane',image:'https://m.media-amazon.com/images/I/61aN8edKmPL._AC_SL1500_.jpg',note:'Flattening and smoothing wood'},
-      {category:'Carpentry & Woodworking',name:'Carpenter Pencil',image:'https://m.media-amazon.com/images/I/71G5hZQFCWL._AC_SL1500_.jpg',note:'Marking timber and building materials'},
-      {category:'Carpentry & Woodworking',name:'G-Clamp',image:'https://m.media-amazon.com/images/I/61d3i6p7C9L._AC_SL1500_.jpg',note:'Holding timber during assembly'},
-      {category:'Carpentry & Woodworking',name:'Nail Puller / Pry Bar',image:'https://m.media-amazon.com/images/I/61m1yeo6PrL._AC_SL1500_.jpg',note:'Demolition and nail removal'},
-
-      {category:'Roofing & Building Accessories',name:'Roofing Screws',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Self-drilling roofing fasteners'},
-      {category:'Roofing & Building Accessories',name:'Roofing Washers',image:'https://glassking.co.za/cdn/shop/collections/fasteners.png?v=1763576476',note:'Sealing washers for roof sheets'},
-      {category:'Roofing & Building Accessories',name:'Gutter Brackets',image:'https://m.media-amazon.com/images/I/61urZ76JXUL._AC_SL1500_.jpg',note:'Support for rainwater gutters'},
-      {category:'Roofing & Building Accessories',name:'Downpipe Fittings',image:'https://m.media-amazon.com/images/I/61B5tKEMJqL._AC_SL1500_.jpg',note:'Rainwater drainage fittings'},
-      {category:'Roofing & Building Accessories',name:'Wire Mesh',image:'https://m.media-amazon.com/images/I/71F7xkAtKkL._AC_SL1500_.jpg',note:'Screening, fencing and reinforcement uses'},
-      {category:'Roofing & Building Accessories',name:'Binding Wire',image:'https://m.media-amazon.com/images/I/71Gv4JvrPQL._AC_SL1500_.jpg',note:'Tying reinforcement and general construction'},
-
-      {category:'Cleaning & Maintenance',name:'Wire Brush',image:'https://m.media-amazon.com/images/I/71EL8J1c49L._AC_SL1500_.jpg',note:'Rust, paint and scale removal'},
-      {category:'Cleaning & Maintenance',name:'Paint Scraper',image:'https://m.media-amazon.com/images/I/61Q6lVtQ9VL._AC_SL1500_.jpg',note:'Removing paint, filler and residue'},
-      {category:'Cleaning & Maintenance',name:'Utility Knife',image:'https://m.media-amazon.com/images/I/71Hq2HKNdUL._AC_SL1500_.jpg',note:'General cutting and trimming'},
-      {category:'Cleaning & Maintenance',name:'Lubricating Oil',image:'https://m.media-amazon.com/images/I/61lH7gUxVmL._AC_SL1500_.jpg',note:'General maintenance lubrication'},
-      {category:'Cleaning & Maintenance',name:'Cleaning Brush Set',image:'https://m.media-amazon.com/images/I/71s8AoLrXFL._AC_SL1500_.jpg',note:'Workshop and household cleaning'},
-      {category:'Cleaning & Maintenance',name:'Hand Sprayer',image:'https://m.media-amazon.com/images/I/61F5A6UnqOL._AC_SL1500_.jpg',note:'Cleaning, gardening and maintenance use'}
-    ];
-    online.push(...additionalOnline);
     const paintProducts=[
       {name:'Multilac Premium Sheen Emulsion',use:'Interior walls',image:'https://multilac.com/wp-content/uploads/2025/06/s-blob-v1-IMAGE-vy0D8R-n7H0-e1763377492473.webp',url:'https://multilac.com/product/multilac-premium-sheen-emulsion-colours/'},
       {name:'Multilac 3 in 1 Waterproofing',use:'Exterior waterproofing',image:'https://multilac.com/wp-content/uploads/2025/08/width_172-2.webp',url:'https://multilac.com/shop-now/'},
@@ -165,54 +48,470 @@
     const finish=()=>document.body.classList.add('ready');window.addEventListener('load',finish,{once:true});setTimeout(finish,1200);
   </script>
 
-  <!-- ADD-ONLY FIX: keeps all existing source/data intact and enhances newly added categories -->
   <script>
     (function(){
       const fallbackSvg = `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`
-        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
-          <rect width="800" height="600" fill="#eef1f4"/>
-          <g fill="#132333" opacity="0.18">
-            <path d="M256 364l86-86 54 54 83-96 117 128H256z"/>
-            <circle cx="309" cy="213" r="34"/>
+        <svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+          <rect width="800" height="800" fill="#eef1f4"/>
+          <rect x="70" y="70" width="660" height="660" rx="36" fill="#ffffff" stroke="#d7dde5" stroke-width="4"/>
+          <g fill="#132333" opacity="0.15">
+            <circle cx="262" cy="260" r="45"/>
+            <path d="M180 540l110-120 82 82 123-150 125 188H180z"/>
           </g>
-          <text x="400" y="445" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#64748b">Product image</text>
-          <text x="400" y="482" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#94a3b8">Image temporarily unavailable</text>
+          <text x="400" y="625" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#64748b">Image unavailable</text>
         </svg>`)} `;
 
-      // Stop the original inline onerror from hiding a product card when a remote host blocks hotlinking.
+      const palettes = [
+        ['#dce9f9','#9cb9df'],['#f8ead4','#ddb673'],['#efe1ff','#bf9cf0'],['#dff3e8','#8dc8a2'],
+        ['#fde2e1','#f0a0a8'],['#ffe8c7','#e8aa5b'],['#dff4f9','#80bed0'],['#ececf5','#a4a7c7'],
+        ['#f4f6d5','#c0c968'],['#e5f1ea','#8db59a'],['#efe7dd','#c8aa89'],['#e5e7eb','#9ca3af']
+      ];
+
+      function makeProductSvg(title, subtitle, emoji, c1, c2){
+        return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`
+          <svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+            <defs>
+              <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="${c1}"/>
+                <stop offset="100%" stop-color="${c2}"/>
+              </linearGradient>
+            </defs>
+            <rect width="800" height="800" fill="#f8fafc"/>
+            <rect x="40" y="40" width="720" height="720" rx="42" fill="url(#bg)"/>
+            <rect x="70" y="70" width="660" height="660" rx="34" fill="#ffffff" fill-opacity="0.82"/>
+            <text x="400" y="310" text-anchor="middle" font-size="170">${emoji}</text>
+            <text x="400" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-size="44" font-weight="700" fill="#132333">${title}</text>
+            <text x="400" y="485" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" fill="#475569">${subtitle}</text>
+            <rect x="170" y="555" width="460" height="72" rx="18" fill="#132333" fill-opacity="0.08"/>
+            <text x="400" y="602" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#132333">Polwaththa Hardware</text>
+          </svg>`)} `;
+      }
+
+      const addedCatalog = {
+        "Power Tools": [
+          {name:"Cordless Drill", emoji:"\ud83d\udd27", note:"Portable drilling and screw driving"},
+          {name:"Impact Driver", emoji:"\ud83e\ude9b", note:"High-torque screw driving"},
+          {name:"Hammer Drill", emoji:"\ud83d\udd28", note:"Drilling into masonry and concrete"},
+          {name:"Rotary Hammer", emoji:"\ud83d\udd28", note:"Heavy-duty concrete drilling"},
+          {name:"Angle Grinder", emoji:"\u2699\ufe0f", note:"Cutting and grinding metal or masonry"},
+          {name:"Bench Grinder", emoji:"\u2699\ufe0f", note:"Workshop grinding and sharpening"},
+          {name:"Circular Saw", emoji:"\ud83e\ude9a", note:"Straight cutting of timber and boards"},
+          {name:"Jigsaw", emoji:"\ud83e\ude9a", note:"Curved and detailed cuts"},
+          {name:"Reciprocating Saw", emoji:"\ud83e\ude9a", note:"Demolition and rough cutting"},
+          {name:"Mitre Saw", emoji:"\ud83e\ude9a", note:"Accurate cross and angle cuts"},
+          {name:"Cut-Off Saw", emoji:"\ud83e\ude9a", note:"Heavy cutting of metal and masonry"},
+          {name:"Electric Planer", emoji:"\ud83e\udeb5", note:"Planing and smoothing timber"},
+          {name:"Orbital Sander", emoji:"\ud83e\uddfd", note:"Surface sanding and finishing"},
+          {name:"Belt Sander", emoji:"\ud83e\uddfd", note:"Rapid sanding of large surfaces"},
+          {name:"Polisher", emoji:"\u2728", note:"Polishing metal, paint and stone"},
+          {name:"Heat Gun", emoji:"\u2668\ufe0f", note:"Paint stripping and heat shrinking"},
+          {name:"Electric Screwdriver", emoji:"\ud83e\ude9b", note:"Light assembly and screw driving"},
+          {name:"Demolition Hammer", emoji:"\ud83d\udd28", note:"Breaking concrete and masonry"},
+          {name:"Wall Chaser", emoji:"\ud83e\uddf1", note:"Cutting channels in masonry walls"},
+          {name:"Tile Cutter", emoji:"\ud83d\udd32", note:"Cutting ceramic and porcelain tiles"},
+          {name:"Air Blower", emoji:"\ud83d\udca8", note:"Dust removal and cleaning"},
+          {name:"Pressure Washer", emoji:"\ud83d\udebf", note:"High-pressure cleaning"},
+          {name:"Electric Spray Gun", emoji:"\ud83c\udfa8", note:"Spray painting and coating"},
+          {name:"Portable Air Compressor", emoji:"\ud83d\udede", note:"Air supply for tools and inflation"}
+        ],
+        "Fasteners & Fixings": [
+          {name:"Wood Screws", emoji:"\ud83e\ude9b", note:"General timber fastening"},
+          {name:"Chipboard Screws", emoji:"\ud83e\ude9b", note:"Screws for boards and furniture"},
+          {name:"Drywall Screws", emoji:"\ud83e\ude9b", note:"Fixing gypsum boards"},
+          {name:"Self-Tapping Screws", emoji:"\ud83e\ude9b", note:"Fastening thin metal sections"},
+          {name:"Self-Drilling Screws", emoji:"\ud83e\ude9b", note:"Drilling and fastening sheet metal"},
+          {name:"Roofing Screws", emoji:"\ud83d\udd29", note:"Fastening roofing sheets"},
+          {name:"Machine Screws", emoji:"\ud83d\udd29", note:"Threaded fastening for machines"},
+          {name:"Hex Bolts", emoji:"\ud83d\udd29", note:"General structural fastening"},
+          {name:"Carriage Bolts", emoji:"\ud83d\udd29", note:"Rounded-head timber fastening"},
+          {name:"Anchor Bolts", emoji:"\ud83d\udd29", note:"Heavy masonry anchoring"},
+          {name:"Expansion Bolts", emoji:"\ud83d\udd29", note:"Secure fixing in concrete"},
+          {name:"Coach Screws", emoji:"\ud83d\udd29", note:"Heavy-duty timber fixing"},
+          {name:"Nuts", emoji:"\ud83d\udd29", note:"Threaded bolt fastening"},
+          {name:"Lock Nuts", emoji:"\ud83d\udd29", note:"Vibration-resistant fastening"},
+          {name:"Washers", emoji:"\u2b55", note:"Load spreading for bolts and screws"},
+          {name:"Spring Washers", emoji:"\u2b55", note:"Anti-loosening washers"},
+          {name:"Wall Plugs", emoji:"\ud83e\uddf1", note:"Plastic anchors for screws"},
+          {name:"Nylon Anchors", emoji:"\ud83e\uddf1", note:"General masonry anchoring"},
+          {name:"Masonry Nails", emoji:"\ud83d\udccc", note:"Nails for hard masonry surfaces"},
+          {name:"Common Nails", emoji:"\ud83d\udccc", note:"General timber nailing"},
+          {name:"Concrete Nails", emoji:"\ud83d\udccc", note:"Hardened nails for concrete"},
+          {name:"Panel Pins", emoji:"\ud83d\udccc", note:"Fine fixing for trim and panels"},
+          {name:"Threaded Rod", emoji:"\ud83d\udccf", note:"Continuous threaded fastening rod"},
+          {name:"U-Bolts", emoji:"\ud83d\udd29", note:"Clamping pipes and round sections"},
+          {name:"Eye Bolts", emoji:"\ud83d\udd29", note:"Attachment point for lifting or ties"},
+          {name:"Hooks & Eyes", emoji:"\ud83e\ude9d", note:"Light-duty hanging and securing"}
+        ],
+        "Safety & PPE": [
+          {name:"Safety Helmet", emoji:"\u26d1\ufe0f", note:"Head protection for site work"},
+          {name:"Safety Gloves", emoji:"\ud83e\udde4", note:"Hand protection for hardware work"},
+          {name:"Cut Resistant Gloves", emoji:"\ud83e\udde4", note:"Protection against sharp edges"},
+          {name:"Welding Gloves", emoji:"\ud83e\udde4", note:"Heat-resistant welding protection"},
+          {name:"Dust Mask", emoji:"\ud83d\ude37", note:"Helps reduce dust inhalation"},
+          {name:"Respirator Mask", emoji:"\ud83d\ude37", note:"Reusable respiratory protection"},
+          {name:"Safety Goggles", emoji:"\ud83e\udd7d", note:"Eye protection while cutting or grinding"},
+          {name:"Face Shield", emoji:"\ud83d\udee1\ufe0f", note:"Full-face splash and impact protection"},
+          {name:"Ear Muffs", emoji:"\ud83c\udfa7", note:"Hearing protection around loud tools"},
+          {name:"Ear Plugs", emoji:"\ud83c\udfa7", note:"Compact hearing protection"},
+          {name:"Safety Boots", emoji:"\ud83d\udc62", note:"Foot protection for workshop and site"},
+          {name:"Safety Vest", emoji:"\ud83e\uddba", note:"High-visibility site wear"},
+          {name:"Safety Harness", emoji:"\ud83e\udea2", note:"Fall protection for work at height"},
+          {name:"Knee Pads", emoji:"\ud83e\uddb5", note:"Knee protection for floor work"},
+          {name:"Rain Suit", emoji:"\ud83c\udf27\ufe0f", note:"Weather protection for outdoor work"},
+          {name:"Work Overalls", emoji:"\ud83e\udd7c", note:"Protective clothing for workshop use"}
+        ],
+        "Locks & Door Hardware": [
+          {name:"Padlock", emoji:"\ud83d\udd12", note:"Portable locking for gates and shutters"},
+          {name:"Brass Padlock", emoji:"\ud83d\udd12", note:"Corrosion-resistant portable lock"},
+          {name:"Combination Padlock", emoji:"\ud83d\udd10", note:"Keyless coded locking"},
+          {name:"Mortise Lock", emoji:"\ud83d\udeaa", note:"Built-in lock body for doors"},
+          {name:"Rim Lock", emoji:"\ud83d\udeaa", note:"Surface-mounted door lock"},
+          {name:"Cylinder Lock", emoji:"\ud83d\udd11", note:"Cylinder-based door locking"},
+          {name:"Deadbolt", emoji:"\ud83d\udd12", note:"High-security door bolt"},
+          {name:"Door Handle", emoji:"\ud83d\udeaa", note:"Lever handle set for entry doors"},
+          {name:"Door Knob", emoji:"\ud83d\udeaa", note:"Round knob for interior doors"},
+          {name:"Barrel Bolt", emoji:"\ud83d\udccd", note:"Sliding latch for doors and gates"},
+          {name:"Tower Bolt", emoji:"\ud83d\udccd", note:"Surface bolt for secure closure"},
+          {name:"Hasp & Staple", emoji:"\ud83e\ude9d", note:"Padlockable surface fastening"},
+          {name:"Door Hinges", emoji:"\ud83e\ude9d", note:"Hinges for door installation"},
+          {name:"Butt Hinges", emoji:"\ud83e\ude9d", note:"Standard hinge for doors and cabinets"},
+          {name:"Piano Hinge", emoji:"\ud83e\ude9d", note:"Continuous hinge for long panels"},
+          {name:"Door Closer", emoji:"\u21a9\ufe0f", note:"Automatic door closing mechanism"},
+          {name:"Door Stopper", emoji:"\ud83d\uded1", note:"Stops doors hitting walls"},
+          {name:"Cabinet Lock", emoji:"\ud83d\uddc4\ufe0f", note:"Lock for cupboards and drawers"},
+          {name:"Drawer Slide", emoji:"\ud83d\uddc4\ufe0f", note:"Sliding runner for drawers"},
+          {name:"Magnetic Catch", emoji:"\ud83e\uddf2", note:"Magnetic cabinet door catch"}
+        ],
+        "Garden Tools": [
+          {name:"Watering Can", emoji:"\ud83e\udeb4", note:"Manual watering for plants and gardens"},
+          {name:"Garden Hose", emoji:"\u3030\ufe0f", note:"Flexible hose for irrigation and washing"},
+          {name:"Hose Reel", emoji:"\ud83c\udf00", note:"Storage reel for garden hose"},
+          {name:"Hose Nozzle", emoji:"\ud83d\udebf", note:"Adjustable watering nozzle"},
+          {name:"Sprinkler", emoji:"\ud83d\udca6", note:"Garden lawn watering"},
+          {name:"Pruning Shears", emoji:"\u2702\ufe0f", note:"Cutting branches and stems neatly"},
+          {name:"Lopper", emoji:"\u2702\ufe0f", note:"Cutting thicker branches"},
+          {name:"Hedge Shears", emoji:"\u2702\ufe0f", note:"Trimming hedges and shrubs"},
+          {name:"Rake", emoji:"\ud83c\udf42", note:"Collecting leaves and leveling soil"},
+          {name:"Garden Hoe", emoji:"\ud83e\uddd1\u200d\ud83c\udf3e", note:"Weeding and loosening soil"},
+          {name:"Shovel", emoji:"\u26cf\ufe0f", note:"Digging and moving soil or sand"},
+          {name:"Spade", emoji:"\u26cf\ufe0f", note:"Digging and edging soil"},
+          {name:"Garden Fork", emoji:"\ud83c\udf74", note:"Turning and loosening soil"},
+          {name:"Hand Trowel", emoji:"\ud83e\udd44", note:"Small planting and potting jobs"},
+          {name:"Weeder", emoji:"\ud83c\udf31", note:"Removing weeds from soil"},
+          {name:"Wheelbarrow", emoji:"\ud83d\uded2", note:"Moving soil, sand and garden waste"},
+          {name:"Garden Sprayer", emoji:"\ud83e\udee7", note:"Spraying water or garden treatments"},
+          {name:"Leaf Broom", emoji:"\ud83e\uddf9", note:"Sweeping leaves and garden debris"},
+          {name:"Machete", emoji:"\ud83d\udde1\ufe0f", note:"Clearing brush and vegetation"},
+          {name:"Axe", emoji:"\ud83e\ude93", note:"Cutting branches and firewood"}
+        ],
+        "Measuring Tools": [
+          {name:"Measuring Tape", emoji:"\ud83d\udccf", note:"Flexible measurement for everyday work"},
+          {name:"Long Tape Measure", emoji:"\ud83d\udccf", note:"Long-distance site measurement"},
+          {name:"Spirit Level", emoji:"\ud83d\udcd0", note:"Checking level and plumb surfaces"},
+          {name:"Mini Spirit Level", emoji:"\ud83d\udcd0", note:"Compact level for small jobs"},
+          {name:"Try Square", emoji:"\u25fc\ufe0f", note:"Marking and checking right angles"},
+          {name:"Combination Square", emoji:"\ud83d\udcd0", note:"Multi-purpose measuring and marking"},
+          {name:"Vernier Caliper", emoji:"\ud83d\udcce", note:"Precise dimensional measurement"},
+          {name:"Digital Caliper", emoji:"\ud83d\udcce", note:"Electronic precision measurement"},
+          {name:"Micrometer", emoji:"\u2699\ufe0f", note:"Fine thickness measurement"},
+          {name:"Chalk Line", emoji:"\ud83e\uddf5", note:"Straight reference lines on surfaces"},
+          {name:"Laser Distance Meter", emoji:"\ud83d\udce1", note:"Digital room-distance measurement"},
+          {name:"Laser Level", emoji:"\ud83d\udd34", note:"Projected leveling reference"},
+          {name:"Plumb Bob", emoji:"\u2b07\ufe0f", note:"Vertical alignment reference"},
+          {name:"Steel Ruler", emoji:"\ud83d\udccf", note:"Rigid short-distance measurement"},
+          {name:"Folding Rule", emoji:"\ud83d\udccf", note:"Foldable measuring rule"},
+          {name:"Angle Finder", emoji:"\ud83d\udcd0", note:"Measuring and transferring angles"},
+          {name:"Feeler Gauge", emoji:"\ud83d\udcda", note:"Measuring small gaps and clearances"},
+          {name:"Depth Gauge", emoji:"\ud83d\udccf", note:"Checking hole or recess depth"}
+        ],
+        "Cutting, Grinding & Abrasives": [
+          {name:"Cutting Disc", emoji:"\ud83d\udcbf", note:"Metal and steel cutting attachment"},
+          {name:"Grinding Disc", emoji:"\u26ab", note:"Surface grinding for metal finishing"},
+          {name:"Flap Disc", emoji:"\ud83c\udf00", note:"Grinding and blending metal surfaces"},
+          {name:"Sanding Disc", emoji:"\ud83d\udfe4", note:"Disc sanding for wood and metal"},
+          {name:"Sandpaper", emoji:"\ud83d\udfeb", note:"Surface smoothing and finishing"},
+          {name:"Emery Paper", emoji:"\ud83d\udfeb", note:"Fine abrasive finishing"},
+          {name:"Wire Cup Brush", emoji:"\ud83e\uddf9", note:"Rust and paint removal"},
+          {name:"Wire Wheel Brush", emoji:"\ud83e\uddf9", note:"Rotary wire cleaning wheel"},
+          {name:"Diamond Blade", emoji:"\ud83d\udc8e", note:"Cutting tile, stone and concrete"},
+          {name:"Tile Cutting Blade", emoji:"\ud83d\udd32", note:"Cutting ceramic and porcelain tiles"},
+          {name:"Wood Cutting Blade", emoji:"\ud83e\ude9a", note:"Circular saw blade for timber"},
+          {name:"Metal Cutting Blade", emoji:"\ud83e\ude9a", note:"Blade for steel and non-ferrous metal"},
+          {name:"Hole Saw", emoji:"\ud83d\udd73\ufe0f", note:"Round cut-outs in wood or metal"},
+          {name:"Utility Knife Blades", emoji:"\ud83d\udd2a", note:"Replacement blades for knives"},
+          {name:"Hacksaw Blade", emoji:"\ud83e\ude9a", note:"Replacement blade for hacksaws"},
+          {name:"Jigsaw Blades", emoji:"\ud83e\ude9a", note:"Assorted blades for jigsaws"},
+          {name:"Grinding Stone", emoji:"\ud83e\udea8", note:"Grinding and sharpening stone"},
+          {name:"Sharpening Stone", emoji:"\ud83e\udea8", note:"Hand sharpening of blades and tools"},
+          {name:"Polishing Pad", emoji:"\u2728", note:"Buffing and surface polishing"},
+          {name:"Abrasive Belt", emoji:"\ud83d\udfeb", note:"Replacement belt for belt sanders"},
+          {name:"Fibre Disc", emoji:"\ud83d\udfe0", note:"Heavy stock removal on metal"},
+          {name:"Cut-Off Wheel", emoji:"\u2699\ufe0f", note:"Thin wheel for fast metal cutting"}
+        ],
+        "Adhesives & Sealants": [
+          {name:"Silicone Sealant", emoji:"\ud83e\uddf4", note:"Gap sealing for kitchen and bathroom"},
+          {name:"Neutral Silicone", emoji:"\ud83e\uddf4", note:"General glazing and construction sealing"},
+          {name:"Acrylic Sealant", emoji:"\ud83e\uddf4", note:"Paintable gap and crack sealing"},
+          {name:"PU Sealant", emoji:"\ud83e\uddf4", note:"Flexible construction joint sealing"},
+          {name:"PVC Glue", emoji:"\ud83e\uddea", note:"Joining PVC pipes and fittings"},
+          {name:"Contact Adhesive", emoji:"\ud83d\udce6", note:"Bonding laminates, rubber and leather"},
+          {name:"Epoxy Adhesive", emoji:"\ud83e\uddeb", note:"Strong two-part repair adhesive"},
+          {name:"Super Glue", emoji:"\ud83d\udca7", note:"Fast-setting small-item adhesive"},
+          {name:"Wood Glue", emoji:"\ud83e\udeb5", note:"Bonding timber and furniture joints"},
+          {name:"Construction Adhesive", emoji:"\ud83e\uddf1", note:"Heavy-duty building adhesive"},
+          {name:"Thread Seal Tape", emoji:"\ud83e\uddfb", note:"PTFE tape for plumbing joints"},
+          {name:"Thread Sealant", emoji:"\ud83e\uddea", note:"Liquid sealant for threaded joints"},
+          {name:"PU Foam", emoji:"\u2601\ufe0f", note:"Filling gaps and installation voids"},
+          {name:"Tile Adhesive", emoji:"\ud83d\udd32", note:"Bonding wall and floor tiles"},
+          {name:"Tile Grout", emoji:"\ud83d\udd32", note:"Filling joints between tiles"},
+          {name:"Gasket Maker", emoji:"\u2699\ufe0f", note:"Form-in-place sealing for machinery"},
+          {name:"Masking Tape", emoji:"\ud83d\udfe8", note:"Temporary masking for painting"},
+          {name:"Duct Tape", emoji:"\u2b1b", note:"General repair and sealing tape"}
+        ],
+        "Masonry Tools": [
+          {name:"Masonry Trowel", emoji:"\ud83e\udd44", note:"Spreading mortar for brickwork"},
+          {name:"Brick Trowel", emoji:"\ud83e\udd44", note:"Laying bricks and blocks"},
+          {name:"Pointing Trowel", emoji:"\ud83d\udccd", note:"Finishing masonry joints"},
+          {name:"Bucket Trowel", emoji:"\ud83e\udd44", note:"Scooping mortar from buckets"},
+          {name:"Plastering Trowel", emoji:"\ud83d\udfeb", note:"Applying and smoothing plaster"},
+          {name:"Plaster Float", emoji:"\ud83d\udfe6", note:"Smoothing plastered surfaces"},
+          {name:"Sponge Float", emoji:"\ud83e\uddfd", note:"Finishing render and grout"},
+          {name:"Brick Hammer", emoji:"\ud83d\udd28", note:"Breaking and shaping bricks"},
+          {name:"Club Hammer", emoji:"\ud83d\udd28", note:"Heavy striking for masonry tools"},
+          {name:"Cold Chisel", emoji:"\ud83d\udd2a", note:"Chipping brick, concrete and metal"},
+          {name:"Bolster Chisel", emoji:"\ud83d\udd2a", note:"Cutting bricks and masonry"},
+          {name:"Putty Knife", emoji:"\ud83d\uddc2\ufe0f", note:"Applying filler and scraping surfaces"},
+          {name:"Jointing Tool", emoji:"\u2796", note:"Shaping mortar joints"},
+          {name:"Mortar Hoe", emoji:"\ud83e\uddd1\u200d\ud83c\udf3e", note:"Mixing mortar and cement"},
+          {name:"Masonry Line", emoji:"\ud83e\uddf5", note:"Alignment guide for brick laying"},
+          {name:"Line Pins", emoji:"\ud83d\udccd", note:"Holding masonry guide string"},
+          {name:"Concrete Edger", emoji:"\ud83e\uddf1", note:"Finishing concrete slab edges"},
+          {name:"Concrete Groover", emoji:"\ud83e\uddf1", note:"Forming control joints in concrete"},
+          {name:"Hand Tamper", emoji:"\u2b1b", note:"Compacting soil and paving base"},
+          {name:"Mixing Paddle", emoji:"\ud83c\udf00", note:"Mixing plaster, paint and mortar"}
+        ],
+        "Welding & Workshop": [
+          {name:"Welding Machine", emoji:"\u26a1", note:"Arc welding for metal fabrication"},
+          {name:"Inverter Welder", emoji:"\u26a1", note:"Portable inverter welding unit"},
+          {name:"MIG Welder", emoji:"\u26a1", note:"Wire-feed welding machine"},
+          {name:"Electrode Holder", emoji:"\ud83d\udd0c", note:"Holding welding rods safely"},
+          {name:"Earth Clamp", emoji:"\ud83d\udd0c", note:"Ground connection for welding"},
+          {name:"Welding Rods", emoji:"\u2796", note:"Consumables for arc welding"},
+          {name:"Welding Helmet", emoji:"\ud83e\udd7d", note:"Face and eye protection while welding"},
+          {name:"Welding Goggles", emoji:"\ud83e\udd7d", note:"Eye protection for gas work"},
+          {name:"Welding Gloves", emoji:"\ud83e\udde4", note:"Heat-resistant hand protection"},
+          {name:"Bench Vice", emoji:"\ud83d\udddc\ufe0f", note:"Holding metal or wood firmly"},
+          {name:"C-Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Temporary clamping for assembly"},
+          {name:"G-Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Workshop clamping and holding"},
+          {name:"Magnetic Welding Holder", emoji:"\ud83e\uddf2", note:"Holding metal at welding angles"},
+          {name:"Metal File Set", emoji:"\ud83d\udcc1", note:"Shaping and deburring metal"},
+          {name:"Centre Punch", emoji:"\ud83d\udccd", note:"Marking drill centres on metal"},
+          {name:"Ball Pein Hammer", emoji:"\ud83d\udd28", note:"Metalworking and riveting hammer"},
+          {name:"Wire Brush", emoji:"\ud83e\uddf9", note:"Cleaning welds, rust and scale"},
+          {name:"Work Light", emoji:"\ud83d\udca1", note:"Portable workshop lighting"},
+          {name:"Extension Reel", emoji:"\ud83d\udd0c", note:"Portable power distribution"},
+          {name:"Air Blow Gun", emoji:"\ud83d\udca8", note:"Compressed-air cleaning"},
+          {name:"Grease Gun", emoji:"\ud83d\udee2\ufe0f", note:"Lubricating bearings and machinery"},
+          {name:"Tool Box", emoji:"\ud83e\uddf0", note:"Storage for hand tools and accessories"}
+        ],
+        "Power Tool Accessories": [
+          {name:"Drill Bit Set", emoji:"\ud83e\ude9b", note:"General drilling accessory kit"},
+          {name:"HSS Drill Bits", emoji:"\ud83e\ude9b", note:"Metal drilling bits"},
+          {name:"Masonry Bits", emoji:"\ud83e\uddf1", note:"Drill bits for concrete and brick"},
+          {name:"Wood Drill Bits", emoji:"\ud83e\udeb5", note:"Bits for timber drilling"},
+          {name:"Spade Bits", emoji:"\ud83e\udeb5", note:"Large holes in wood"},
+          {name:"SDS Plus Bits", emoji:"\ud83d\udd28", note:"Bits for rotary hammer drills"},
+          {name:"Screwdriver Bit Set", emoji:"\ud83d\udd29", note:"Interchangeable driver bits"},
+          {name:"Nut Setter Bits", emoji:"\ud83d\udd29", note:"Driving hex-head fasteners"},
+          {name:"Countersink Bit", emoji:"\ud83d\udd3d", note:"Countersinking screw heads"},
+          {name:"Hole Saw Kit", emoji:"\ud83d\udd73\ufe0f", note:"Round hole cutting kit"},
+          {name:"Jigsaw Blade Set", emoji:"\ud83e\ude9a", note:"Replacement blades for jigsaws"},
+          {name:"Reciprocating Saw Blades", emoji:"\ud83e\ude9a", note:"Blades for demolition saws"},
+          {name:"Circular Saw Blade", emoji:"\ud83e\ude9a", note:"Replacement blade for circular saws"},
+          {name:"Grinding Wheel", emoji:"\u2699\ufe0f", note:"Wheel for bench grinders"},
+          {name:"Wire Brush Wheel", emoji:"\ud83e\uddf9", note:"Rotary cleaning brush accessory"},
+          {name:"Sanding Pad", emoji:"\ud83e\uddfd", note:"Pad for orbital sanders"},
+          {name:"Sanding Sheets", emoji:"\ud83d\udfeb", note:"Replacement abrasive sheets"},
+          {name:"Polishing Bonnet", emoji:"\u2728", note:"Buffing cover for polishers"},
+          {name:"Drill Chuck", emoji:"\ud83d\udd27", note:"Replacement chuck for drills"},
+          {name:"Chuck Key", emoji:"\ud83d\udd11", note:"Key for geared drill chucks"},
+          {name:"Angle Grinder Guard", emoji:"\ud83d\udee1\ufe0f", note:"Safety guard for grinding discs"},
+          {name:"Side Handle", emoji:"\ud83e\ude9b", note:"Auxiliary handle for power tools"},
+          {name:"Battery Pack", emoji:"\ud83d\udd0b", note:"Rechargeable tool battery"},
+          {name:"Battery Charger", emoji:"\ud83d\udd0c", note:"Charger for cordless tool batteries"}
+        ],
+        "Carpentry & Woodworking": [
+          {name:"Hand Saw", emoji:"\ud83e\ude9a", note:"Manual cutting of timber and boards"},
+          {name:"Tenon Saw", emoji:"\ud83e\ude9a", note:"Fine joinery and cross cutting"},
+          {name:"Coping Saw", emoji:"\ud83e\ude9a", note:"Curved cutting in thin wood"},
+          {name:"Wood Chisel Set", emoji:"\ud83d\udd2a", note:"Shaping joints and wood edges"},
+          {name:"Mortise Chisel", emoji:"\ud83d\udd2a", note:"Cutting deep mortises in timber"},
+          {name:"Wood Plane", emoji:"\ud83e\udeb5", note:"Smoothing and leveling timber"},
+          {name:"Block Plane", emoji:"\ud83e\udeb5", note:"Small trimming and end-grain planing"},
+          {name:"G-Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Holding timber during gluing or cutting"},
+          {name:"F-Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Wide-opening woodworking clamp"},
+          {name:"Sash Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Clamping doors and large frames"},
+          {name:"Carpenter Pencil", emoji:"\u270f\ufe0f", note:"Marking wood and construction lines"},
+          {name:"Marking Gauge", emoji:"\ud83d\udccf", note:"Marking parallel lines on timber"},
+          {name:"Bevel Gauge", emoji:"\ud83d\udcd0", note:"Transferring and marking angles"},
+          {name:"Nail Puller", emoji:"\ud83d\udcce", note:"Removing nails and small demolition"},
+          {name:"Pry Bar", emoji:"\ud83d\udcce", note:"Levering boards and pulling nails"},
+          {name:"Claw Hammer", emoji:"\ud83d\udd28", note:"Driving and removing nails"},
+          {name:"Mallet", emoji:"\ud83d\udd28", note:"Non-marring striking for joinery"},
+          {name:"Wood Rasp", emoji:"\ud83d\udcc1", note:"Shaping and smoothing wood"},
+          {name:"Wood File", emoji:"\ud83d\udcc1", note:"Fine shaping of timber"},
+          {name:"Dowel Set", emoji:"\ud83d\udd18", note:"Joining timber with dowels"},
+          {name:"Wooden Dowels", emoji:"\ud83d\udd18", note:"Pins for furniture and joinery"},
+          {name:"Corner Clamp", emoji:"\ud83d\udddc\ufe0f", note:"Holding 90-degree frame joints"}
+        ],
+        "Roofing & Building Accessories": [
+          {name:"Roofing Screws", emoji:"\ud83d\udd29", note:"Self-drilling screws for roof sheets"},
+          {name:"Roofing Washers", emoji:"\u2b55", note:"Sealing washers for roofing fasteners"},
+          {name:"Roofing Nails", emoji:"\ud83d\udccc", note:"Nails for roofing sheets and felt"},
+          {name:"Ridge Cap", emoji:"\ud83c\udfe0", note:"Protective capping for roof ridges"},
+          {name:"Roof Flashing", emoji:"\ud83c\udfe0", note:"Weatherproofing roof junctions"},
+          {name:"Gutter Bracket", emoji:"\ud83e\ude9d", note:"Support bracket for gutter runs"},
+          {name:"Gutter Outlet", emoji:"\u2b07\ufe0f", note:"Connects gutter to downpipe"},
+          {name:"Gutter Joiner", emoji:"\u2194\ufe0f", note:"Joins gutter sections"},
+          {name:"Downpipe Bend", emoji:"\u21aa\ufe0f", note:"Fitting for rainwater downpipes"},
+          {name:"Downpipe Clip", emoji:"\ud83d\udcce", note:"Wall fixing for downpipes"},
+          {name:"Wire Mesh", emoji:"#\ufe0f\u20e3", note:"Mesh for screening and reinforcement"},
+          {name:"Chicken Mesh", emoji:"#\ufe0f\u20e3", note:"Light wire mesh for fencing"},
+          {name:"Welded Mesh", emoji:"#\ufe0f\u20e3", note:"Rigid mesh for reinforcement"},
+          {name:"Binding Wire", emoji:"\u27b0", note:"Tying reinforcement and general work"},
+          {name:"GI Wire", emoji:"\u27b0", note:"Galvanized wire for multiple uses"},
+          {name:"Chain Link Mesh", emoji:"\ud83d\udd17", note:"Fence mesh for boundaries"},
+          {name:"Tarpaulin", emoji:"\ud83d\udfe6", note:"Temporary weather and material cover"},
+          {name:"Plastic Sheet", emoji:"\u2b1c", note:"Moisture barrier and site covering"},
+          {name:"Damp Proof Membrane", emoji:"\u2b1b", note:"Moisture barrier for construction"},
+          {name:"Roof Sealant", emoji:"\ud83e\uddf4", note:"Sealing leaks and roof joints"}
+        ],
+        "Cleaning & Maintenance": [
+          {name:"Wire Brush", emoji:"\ud83e\uddf9", note:"Cleaning rust, paint and weld slag"},
+          {name:"Hand Wire Brush", emoji:"\ud83e\uddf9", note:"Manual cleaning of metal surfaces"},
+          {name:"Paint Scraper", emoji:"\ud83e\ude9b", note:"Removing loose paint and filler"},
+          {name:"Floor Scraper", emoji:"\ud83e\ude9b", note:"Removing residue from floors"},
+          {name:"Utility Knife", emoji:"\ud83d\udd2a", note:"General trimming and cutting"},
+          {name:"Replacement Knife Blades", emoji:"\ud83d\udd2a", note:"Spare blades for utility knives"},
+          {name:"Lubricating Oil", emoji:"\ud83d\udee2\ufe0f", note:"Maintenance oil for moving parts"},
+          {name:"Penetrating Oil", emoji:"\ud83d\udee2\ufe0f", note:"Loosening rusted fasteners"},
+          {name:"Grease", emoji:"\ud83d\udee2\ufe0f", note:"Lubrication for bearings and mechanisms"},
+          {name:"Cleaning Brush", emoji:"\ud83e\uddfd", note:"Workshop and household cleaning"},
+          {name:"Scrub Brush", emoji:"\ud83e\uddfd", note:"Heavy-duty cleaning of surfaces"},
+          {name:"Hand Sprayer", emoji:"\ud83e\udee7", note:"Spraying cleaners, water or chemicals"},
+          {name:"Spray Bottle", emoji:"\ud83e\udee7", note:"Small trigger sprayer for maintenance"},
+          {name:"Workshop Broom", emoji:"\ud83e\uddf9", note:"Sweeping workshop floors"},
+          {name:"Dust Pan", emoji:"\ud83e\uddf9", note:"Collecting debris and dust"},
+          {name:"Mop Head", emoji:"\ud83e\uddf9", note:"General floor cleaning"},
+          {name:"Cleaning Cloths", emoji:"\ud83e\uddfb", note:"Wiping tools and surfaces"},
+          {name:"Steel Wool", emoji:"\ud83e\udeb6", note:"Fine cleaning and polishing"},
+          {name:"Rust Remover", emoji:"\ud83e\uddea", note:"Chemical treatment for rust"},
+          {name:"Degreaser", emoji:"\ud83e\uddea", note:"Removing oil and grease deposits"}
+        ],
+        "Paint Tools & Accessories": [
+          {name:"Paint Brush 1 inch", emoji:"\ud83d\udd8c\ufe0f", note:"Small trim and detail painting"},
+          {name:"Paint Brush 2 inch", emoji:"\ud83d\udd8c\ufe0f", note:"General painting work"},
+          {name:"Paint Brush 3 inch", emoji:"\ud83d\udd8c\ufe0f", note:"Larger wall and timber areas"},
+          {name:"Paint Roller", emoji:"\ud83e\uddfb", note:"Fast wall and ceiling painting"},
+          {name:"Mini Roller", emoji:"\ud83e\uddfb", note:"Small surfaces and tight areas"},
+          {name:"Roller Tray", emoji:"\ud83d\udfe6", note:"Paint tray for rollers"},
+          {name:"Paint Bucket", emoji:"\ud83e\udea3", note:"Holding and mixing paint"},
+          {name:"Paint Kettle", emoji:"\ud83e\udea3", note:"Small hand-held paint container"},
+          {name:"Extension Pole", emoji:"\ud83d\udccf", note:"Reach for high wall and ceiling painting"},
+          {name:"Putty Knife", emoji:"\ud83d\uddc2\ufe0f", note:"Filling and scraping surface defects"},
+          {name:"Wall Scraper", emoji:"\ud83e\ude9b", note:"Removing loose paint and plaster"},
+          {name:"Masking Tape", emoji:"\ud83d\udfe8", note:"Protecting edges during painting"},
+          {name:"Drop Sheet", emoji:"\u2b1c", note:"Protecting floors and furniture"},
+          {name:"Paint Mixer", emoji:"\ud83c\udf00", note:"Mixing paint and coatings"},
+          {name:"Sandpaper Pack", emoji:"\ud83d\udfeb", note:"Surface preparation before painting"},
+          {name:"Wire Brush", emoji:"\ud83e\uddf9", note:"Rust and loose coating removal"},
+          {name:"Caulking Gun", emoji:"\ud83d\udd2b", note:"Applying sealants and fillers"},
+          {name:"Paint Strainer", emoji:"\ud83e\uddfa", note:"Filtering paint before application"}
+        ],
+        "Construction Materials": [
+          {name:"Cement", emoji:"\ud83e\uddf1", note:"General building and concrete work"},
+          {name:"White Cement", emoji:"\u2b1c", note:"Finishing and decorative construction"},
+          {name:"Sand", emoji:"\ud83c\udfd6\ufe0f", note:"Mortar, plaster and concrete mixing"},
+          {name:"Metal Aggregate", emoji:"\ud83e\udea8", note:"Concrete and foundation work"},
+          {name:"Bricks", emoji:"\ud83e\uddf1", note:"Wall construction material"},
+          {name:"Cement Blocks", emoji:"\ud83e\uddf1", note:"Wall and partition construction"},
+          {name:"AAC Blocks", emoji:"\ud83e\uddf1", note:"Lightweight block construction"},
+          {name:"Reinforcement Bar", emoji:"\u2796", note:"Steel reinforcement for concrete"},
+          {name:"GI Pipe", emoji:"\ud83d\udd29", note:"Galvanized steel pipe"},
+          {name:"MS Angle", emoji:"\ud83d\udcd0", note:"Structural mild-steel angle"},
+          {name:"MS Flat Bar", emoji:"\u2796", note:"General fabrication steel"},
+          {name:"MS Square Tube", emoji:"\u2b1b", note:"Fabrication and frame construction"},
+          {name:"Plywood Sheet", emoji:"\ud83e\udeb5", note:"Furniture and interior construction"},
+          {name:"MDF Board", emoji:"\ud83e\udeb5", note:"Cabinet and interior work"},
+          {name:"Cement Board", emoji:"\u2b1c", note:"Wall and ceiling board applications"},
+          {name:"Gypsum Board", emoji:"\u2b1c", note:"Drywall and ceiling construction"},
+          {name:"Fibre Cement Sheet", emoji:"\u2b1c", note:"Roofing and cladding sheet"},
+          {name:"Polycarbonate Sheet", emoji:"\ud83d\udd37", note:"Lightweight translucent roofing"},
+          {name:"Tar Sheet", emoji:"\u2b1b", note:"Temporary waterproof covering"},
+          {name:"Waterproofing Compound", emoji:"\ud83e\uddea", note:"Concrete and masonry waterproofing"}
+        ]
+      };
+
+      Object.keys(addedCatalog).forEach(category => {
+        if(!Object.prototype.hasOwnProperty.call(catalog, category)) catalog[category] = [];
+      });
+
+      let colorIndex = 0;
+      Object.entries(addedCatalog).forEach(([category, items]) => {
+        items.forEach(item => {
+          const [c1, c2] = palettes[colorIndex % palettes.length];
+          colorIndex += 1;
+          online.push({
+            category,
+            name: item.name,
+            image: makeProductSvg(item.name, category, item.emoji, c1, c2),
+            note: item.note
+          });
+        });
+      });
+
       document.addEventListener('error', function(e){
-        const img=e.target;
-        if(img && img.tagName==='IMG' && img.src !== fallbackSvg){
-          img.onerror=null;
-          img.src=fallbackSvg;
+        const img = e.target;
+        if(img && img.tagName === 'IMG' && img.src !== fallbackSvg){
+          img.onerror = null;
+          img.src = fallbackSvg;
         }
       }, true);
 
       function combinedItems(name){
-        const local=(catalog[name]||[]).map((image,i)=>({image,name:`${name} product ${i+1}`,local:true}));
-        const added=online.filter(x=>x.category===name);
+        const local = (catalog[name] || []).map((image, i) => ({image, name: `${name} product ${i+1}`, note: 'Available at Polwaththa Hardware'}));
+        const added = online.filter(item => item.category === name);
         return local.concat(added);
       }
 
-      function rerenderCategories(){
-        const names=Object.keys(catalog);
-        categories.innerHTML=names.map((name,index)=>{
-          const items=combinedItems(name);
-          const previews=items.slice(0,4);
-          const previewHtml=previews.length
-            ? previews.map((item,n)=>`<img src="${encodeURI(item.image)}" loading="lazy" alt="${name} product preview ${n+1}">`).join('')
-            : `<img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview"><img src="${fallbackSvg}" alt="${name} product preview">`;
-          const localCount=(catalog[name]||[]).length;
-          const addedCount=online.filter(x=>x.category===name).length;
-          const countText=localCount > 0
-            ? `${localCount} supplied product photos${addedCount?` + ${addedCount} added items`:''} · Open collection →`
-            : `${items.length} product items · Open collection →`;
+      window.imageCard = function(item){
+        return `<article class="product bg-white rounded-2xl overflow-hidden border border-slate-200"><img src="${encodeURI(item.image)}" loading="lazy" alt="${item.name}" onerror="this.onerror=null;this.src='${fallbackSvg}'"><div class="p-4"><h4 class="font-bold">${item.name}</h4><p class="text-slate-500 text-sm mt-1">${item.note || 'Available at Polwaththa Hardware'}</p></div></article>`;
+      };
+
+      window.openCategory = function(name){
+        title.textContent = name;
+        grid.innerHTML = combinedItems(name).map(window.imageCard).join('');
+        categories.classList.add('hidden');
+        panel.classList.remove('hidden');
+        document.getElementById('products').scrollIntoView({behavior:'smooth'});
+      };
+
+      function renderCategories(){
+        const names = Object.keys(catalog);
+        categories.innerHTML = names.map((name, index) => {
+          const items = combinedItems(name);
+          const previews = items.slice(0, 4);
+          const previewHtml = previews.map((item, n) => `<img src="${encodeURI(item.image)}" loading="lazy" alt="${name} product preview ${n+1}" onerror="this.onerror=null;this.src='${fallbackSvg}'">`).join('');
+          const localCount = (catalog[name] || []).length;
+          const addedCount = online.filter(item => item.category === name).length;
+          const countText = localCount > 0
+            ? `${localCount} supplied product photos${addedCount ? ` + ${addedCount} added items` : ''} · Open collection →`
+            : `${addedCount} product items · Open collection →`;
           return `<button class="category text-left bg-white rounded-2xl overflow-hidden border border-slate-200" data-category="${name}"><div class="category-preview">${previewHtml}</div><div class="p-5"><small class="text-[#aa7821] uppercase tracking-widest text-[10px] font-bold">Department ${String(index+1).padStart(2,'0')}</small><h3 class="font-bold text-2xl mt-2">${name}</h3><p class="text-slate-500 text-sm mt-2">${countText}</p></div></button>`;
         }).join('');
       }
 
-      // The original code is untouched; this only refreshes the category cards after all existing data is defined.
-      rerenderCategories();
+      renderCategories();
     })();
   </script>
 
