@@ -515,5 +515,150 @@
     })();
   </script>
 
+
+  <style>
+    .generated-thumb,.generated-preview{display:block;width:100%;height:100%}
+    .generated-thumb svg,.generated-preview svg{width:100%;height:100%;display:block}
+    .generated-preview{background:#eef1f4}
+    .product-media{width:100%;aspect-ratio:1/1;background:#fff;display:block}
+    .category-preview .generated-preview{height:7rem}
+  </style>
+  <script>
+    (function(){
+      const esc = (s='') => String(s)
+        .replace(/&/g,'&amp;')
+        .replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;')
+        .replace(/'/g,'&#39;');
+
+      const palettes = {
+        'Power Tools':['#dfe9f6','#94aed1'],
+        'Fasteners & Fixings':['#f6eadb','#d7b288'],
+        'Safety & PPE':['#fff1bf','#f1c84b'],
+        'Locks & Door Hardware':['#e6ecf7','#a9b6d1'],
+        'Garden Tools':['#e4f3e6','#95c79e'],
+        'Measuring Tools':['#e8f0ff','#a7bde7'],
+        'Cutting, Grinding & Abrasives':['#f2e6e6','#c8a2a2'],
+        'Adhesives & Sealants':['#f4e8ff','#c3a1ea'],
+        'Masonry Tools':['#ece8e1','#c9b8a2'],
+        'Welding & Workshop':['#e1eef3','#8eb2c0'],
+        'Power Tool Accessories':['#e7eef8','#9ab2d8'],
+        'Carpentry & Woodworking':['#f2eadf','#d3b38f'],
+        'Roofing & Building Accessories':['#e2edf5','#9fb7cb'],
+        'Cleaning & Maintenance':['#e4f4f7','#96c6d0'],
+        'Paint Tools & Accessories':['#fdebd9','#e2b27f'],
+        'Construction Materials':['#e9e7e2','#bab0a0'],
+        'Electrical & Lighting':['#fff4d4','#efc35f'],
+        'Plumbing & Sanitary':['#dff2f7','#8ec7d5'],
+        'Hand Tools':['#e8edf5','#b0c0d9']
+      };
+
+      function emojiFor(item){
+        const name = (item.name || '').toLowerCase();
+        const category = (item.category || '').toLowerCase();
+        const checks = [
+          [['drill','driver','screw'], '🔧'],
+          [['hammer'], '🔨'],
+          [['saw','blade','jigsaw','hacksaw','circular'], '🪚'],
+          [['grinder','disc','wheel','abrasive','sandpaper'], '⚙️'],
+          [['glove'], '🧤'],
+          [['helmet','hard hat'], '⛑️'],
+          [['goggle','shield','mask','respirator'], '🥽'],
+          [['lock','padlock','deadbolt','bolt'], '🔒'],
+          [['hinge','handle','knob'], '🚪'],
+          [['hose','pipe','sprinkler','valve','tap'], '🚿'],
+          [['tape','ruler','level','square','caliper','gauge','meter'], '📏'],
+          [['glue','sealant','silicone','adhesive','foam'], '🧴'],
+          [['trowel','masonry','brick','cement','plaster'], '🧱'],
+          [['welding','electrode'], '⚡'],
+          [['vice','clamp'], '🗜️'],
+          [['paint','roller','brush'], '🖌️'],
+          [['garden','watering','pruning','rake','spade','shovel','hoe','fork','weeder','axe'], '🌿'],
+          [['clean','brush','scraper','sprayer','oil','lubric'], '🧰'],
+          [['wire','mesh','roof','gutter'], '🏠'],
+          [['nail','nut','washer','anchor','plug','threaded','u-bolt','hook'], '🔩']
+        ];
+        for(const [keys, emoji] of checks){
+          if(keys.some(k => name.includes(k) || category.includes(k))) return emoji;
+        }
+        return '🧰';
+      }
+
+      function svgMarkup(title, subtitle, emoji, palette, compact=false){
+        const [c1, c2] = palette;
+        const hTitle = esc(title);
+        const hSub = esc(subtitle || 'Polwaththa Hardware');
+        const emojiSize = compact ? 70 : 120;
+        const titleSize = compact ? 16 : 28;
+        const subSize = compact ? 11 : 16;
+        const footerSize = compact ? 10 : 14;
+        const viewW = 800, viewH = 800;
+        return `
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${viewW} ${viewH}" preserveAspectRatio="xMidYMid meet" aria-label="${hTitle}">
+            <defs>
+              <linearGradient id="g${Math.random().toString(36).slice(2,9)}" x1="0" y1="0" x2="1" y2="1">
+                <stop offset="0%" stop-color="${c1}"/>
+                <stop offset="100%" stop-color="${c2}"/>
+              </linearGradient>
+            </defs>
+            <rect width="800" height="800" fill="#f8fafc"/>
+            <rect x="34" y="34" width="732" height="732" rx="42" fill="${c1}"/>
+            <rect x="70" y="70" width="660" height="660" rx="32" fill="#ffffff" fill-opacity="0.86"/>
+            <text x="400" y="${compact ? 265 : 310}" text-anchor="middle" font-size="${emojiSize}">${emoji}</text>
+            <text x="400" y="${compact ? 400 : 455}" text-anchor="middle" font-family="Arial,sans-serif" font-size="${titleSize}" font-weight="700" fill="#132333">${hTitle}</text>
+            <text x="400" y="${compact ? 440 : 500}" text-anchor="middle" font-family="Arial,sans-serif" font-size="${subSize}" fill="#475569">${hSub}</text>
+            <rect x="175" y="${compact ? 515 : 580}" width="450" height="${compact ? 46 : 56}" rx="14" fill="#132333" fill-opacity="0.08"/>
+            <text x="400" y="${compact ? 545 : 617}" text-anchor="middle" font-family="Arial,sans-serif" font-size="${footerSize}" font-weight="700" fill="#132333">Polwaththa Hardware</text>
+          </svg>`;
+      }
+
+      function combinedItemsPatched(name){
+        const local = (catalog[name] || []).map((image, i) => ({image, name: `${name} product ${i+1}`, note: 'Available at Polwaththa Hardware', category: name, local:true}));
+        const added = online.filter(item => item.category === name).map(item => ({...item, local:false}));
+        return local.concat(added);
+      }
+
+      imageCard = function(item){
+        const palette = palettes[item.category] || ['#e8edf5','#b7c2d9'];
+        const media = item.local
+          ? `<img class="product-media" src="${item.image}" loading="lazy" alt="${esc(item.name)}" onerror="this.style.display='none';this.insertAdjacentHTML('afterend', ${JSON.stringify('<div class=\'product-media generated-thumb\'></div>')});">`
+          : `<div class="product-media generated-thumb">${svgMarkup(item.name, item.category, emojiFor(item), palette, false)}</div>`;
+        return `<article class="product bg-white rounded-2xl overflow-hidden border border-slate-200">${media}<div class="p-4"><h4 class="font-bold">${esc(item.name)}</h4><p class="text-slate-500 text-sm mt-1">${esc(item.note || 'Available at Polwaththa Hardware')}</p></div></article>`;
+      };
+
+      openCategory = function(name){
+        title.textContent = name;
+        grid.innerHTML = combinedItemsPatched(name).map(imageCard).join('');
+        categories.classList.add('hidden');
+        panel.classList.remove('hidden');
+        document.getElementById('products').scrollIntoView({behavior:'smooth'});
+      };
+
+      function renderCategoriesPatched(){
+        const names = Object.keys(catalog);
+        categories.innerHTML = names.map((name,index)=>{
+          const items = combinedItemsPatched(name);
+          const previews = items.slice(0,4);
+          const previewHtml = previews.map((item,n)=>{
+            if(item.local){
+              return `<img src="${item.image}" loading="lazy" alt="${esc(name)} product preview ${n+1}" onerror="this.outerHTML=${JSON.stringify('<div class=\'generated-preview\'></div>')}">`;
+            }
+            const palette = palettes[name] || ['#e8edf5','#b7c2d9'];
+            return `<div class="generated-preview">${svgMarkup(item.name, name, emojiFor(item), palette, true)}</div>`;
+          }).join('');
+          const localCount = (catalog[name] || []).length;
+          const addedCount = online.filter(item => item.category===name).length;
+          const countText = localCount > 0
+            ? `${localCount} supplied product photos${addedCount ? ` + ${addedCount} added items` : ''} · Open collection →`
+            : `${addedCount} product items · Open collection →`;
+          return `<button class="category text-left bg-white rounded-2xl overflow-hidden border border-slate-200" data-category="${esc(name)}"><div class="category-preview">${previewHtml}</div><div class="p-5"><small class="text-[#aa7821] uppercase tracking-widest text-[10px] font-bold">Department ${String(index+1).padStart(2,'0')}</small><h3 class="font-bold text-2xl mt-2">${esc(name)}</h3><p class="text-slate-500 text-sm mt-2">${countText}</p></div></button>`;
+        }).join('');
+      }
+
+      renderCategoriesPatched();
+    })();
+  </script>
+
 </body>
 </html>
